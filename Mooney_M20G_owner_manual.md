@@ -62,12 +62,12 @@ ated by: AGRO Flugzeug GmbH & Co. Vertriebs KG, 8300 Landshut
 |---|---|---|
 | I | Allgemeines (General) | 1‑1 to 1-5 |
 | II | Betriebsgrenzen (Operating Limits) |2-1 to 2-6 |
-| III | Notverfahren  (Emergency Procedures) | 3‑1 – 3‑10 |
-| IV | Normalverfahren (Normal Procedures) | 4‑1 – 4‑15 |
-| V | Leistungen (Performance) | 5‑1 – 5‑13 |
-| VI | Gewicht und Beladung (Weight and Loading) | 6‑1 – 6‑10 |
-| VII | Bedienelemente (Controls) | 7‑1 – 7‑16 |
-| VIII | Pflege und Wartung (Care and Maintenance) | 8‑1 – 8‑6 |
+| III | Notverfahren  (Emergency Procedures) | 3‑1 to 3‑10 |
+| IV | Normalverfahren (Normal Procedures) | 4‑1 to 4‑15 |
+| V | Leistungen (Performance) | 5‑1 to 5‑13 |
+| VI | Gewicht und Beladung (Weight and Loading) | 6‑1 to 6‑10 |
+| VII | Bedienelemente (Controls) | 7‑1 to 7‑16 |
+| VIII | Pflege und Wartung (Care and Maintenance) | 8‑1 to 8‑6 |
 
 ---
 
