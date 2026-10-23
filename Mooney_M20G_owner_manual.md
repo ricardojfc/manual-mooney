@@ -1,28 +1,10 @@
-# Mooney M20G Statesman – Flight Manual – English Translation (v3.1)
+# Mooney M20G Statesman – Flight Manual – English Translation
 
 > **Source**: `manual.pdf` (97 pages, "Flughandbuch M20G", Ausgabe/Edition 1, S/N 680001+, D‑ELCP).  
 > **Process**: OCR'd with Tesseract, translated and corrected from German.  
 > English pages (77–79, 93–97) are reproduced as-is.  
 > **Page numbers** refer to the physical PDF pages 1..97.  
 >  
-> **v3.1 changes** (from v3 → v3.1, using second OCR pass with image preprocessing):
-> - Tire pressure mains: 2.67 atm → **2.07 atm** (confirmed p.7 and p.89)
-> - Empty weight: 718 kg → **720 kg** (standard, p.7)
-> - Max payload: 426 kg → **424 kg** (1,144 − 720)
-> - CG limit @ 1,118 kg: 116 cm → **106 cm** (p.12)
-> - Load factors: +3.8/−1.5/+2.0 → **+3.86 g / +2.06 g / −1.56 g** (p.13)
-> - Oil quantity confirmed: 6–8 quarts (p.90)
-> - Fuel confirmed: 52 US gal / 196 L (p.73); p.7 reads "92 Gal" but this is a scan misread — 196 L = 52 gal exact
-> - Green arc: **69–175 mph / 66–152 kts CAS** (p.10)
-> - Max gear extension speed: **120 mph / 104 kts** (p.10)
-> - Vacuum: **5 in. Hg high, 4.5 in. Hg low** (p.11)
-> - Fuel pressure: min 0.5 psi, max **6 psi** (not 5), normal 2.5–3.5 psi (p.11)
-> - Oil pressure: min idle 25 psi, normal 60–90 psi (p.11)
-> - CHT: max 500 °F, operating 350–450 °F (p.11)
-> - Oil temp: max 245 °F, operating 100–225 °F (p.11)
->  
-> **v3 changes** (from v2 → v3): Re-checked every German page against raw OCR. Corrected tire pressures, vacuum alarms, fuel quantities, weight data, gear procedure, spin recovery, engine fire procedures, oil change interval, instrument panel legend.
-> 
 > **NOTE**: This is a reading translation, not a certified copy. For operational use, refer to the original AFM.
 
 ---
