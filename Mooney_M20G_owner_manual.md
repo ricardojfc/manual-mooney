@@ -1275,71 +1275,64 @@ The data in the tables were derived from **flight tests** in which the mixture w
 *(Page 5-8)*
 
 ---
-## Pages 49–53 (German – performance tables)
+## Page 49 (German – cruise and range performance, document page 5-9)
 
-### REISE- und REICHWEITELEISTUNG (Cruise and Range Performance)
+**REISE- und REICHWEITELEISTUNG – Meereshöhe (0 ft) bei 15 °C** (Cruise and range performance – sea level (0 ft), 15 °C)
 
-**Page 49 - 0 ft (MSL), 15°C:**
+*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
 
-| Ladedruck (in Hg) | Benzin (gal/h) | Benzin (L/h) | Benzin (kg/h) | TAS (mph) | TAS (kts) | Landezeit (h:mm) | Landemeilen (stat mi) |
-|-------------------|---------------|-------------|---------------|-----------|-----------|-----------------|----------------------|
-| 28.0 | 99.5 | 68.1 | 49.4 | 167 | 170 | 2:07 | 360 |
-| 27.0 | 94.9 | 65.1 | 46.8 | 164 | 167 | 2:16 | 380 |
-| 26.0 | 90.3 | 61.7 | 44.3 | 161 | 163 | 2:26 | 401 |
-| 27.0 | 93.0 | 63.6 | 45.8 | 162 | 165 | 2:20 | 382 |
-| 26.0 | 88.5 | 60.2 | 43.3 | 159 | 162 | 2:31 | 405 |
-| 25.0 | 84.0 | 56.8 | 40.7 | 156 | 159 | 2:43 | 426 |
-| 24.0 | 79.5 | 53.4 | 38.3 | 152 | 155 | 2:56 | 445 |
+![Cruise and range performance – sea level (0 ft), 15 °C (doc. page 5-9)](png/p049.png)
 
-*(997 kg columns and 1,144 kg columns - see figure for full data. Page 5-9)*
+*(document page 5-9)*
 
-**Page 50 - 2,500 ft, 10°C:**
+---
 
-| Ladedruck | Benzin (gal/h) | Benzin (L/h) | Benzin (kg/h) | TAS (mph) | TAS (kts) | Zeit | Meilen |
-|-----------|---------------|-------------|---------------|-----------|-----------|------|--------|
-| 27.0 | 97.8 | 67.3 | 48.4 | 169 | 172 | 2:10 | 366 |
-| 26.0 | 93.2 | 63.9 | 45.9 | 166 | 169 | 2:20 | 383 |
-| 25.0 | 88.6 | 60.2 | 43.4 | 163 | 166 | 2:30 | 406 |
-| 24.0 | 84.0 | 56.8 | 40.8 | 159 | 162 | 2:42 | 430 |
-| 26.0 | 91.2 | 62.5 | 44.8 | 165 | 168 | | 394 |
-| 25.0 | 86.8 | 59.0 | 42.3 | 161 | 164 | | 416 |
-| 24.0 | 82.3 | 55.3 | 39.8 | 158 | 161 | | 439 |
-| 23.0 | 77.7 | 51.9 | 37.3 | 154 | 157 | | 465 |
+## Page 50 (German – cruise and range performance, document page 5-10)
 
-*(Additional rows at 2,600 rpm, lower settings - see figure. Page 5-10)*
+**REISE- und REICHWEITELEISTUNG – 2500 ft bei 10 °C** (Cruise and range performance – 2,500 ft, 10 °C)
 
-**Page 51 - 5,000 ft, 5°C:**
+*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
 
-| Ladedruck | Benzin (gal/h) | Benzin (L/h) | Benzin (kg/h) | TAS (mph) | TAS (kts) | Zeit | Meilen |
-|-----------|---------------|-------------|---------------|-----------|-----------|------|--------|
-| 24.5 | 89.3 | 60.9 | 43.7 | 167 | 170 | | 407 |
-| 24.0 | 86.9 | 59.0 | 42.4 | 165 | 168 | | 418 |
-| 23.0 | 82.3 | 55.3 | 39.8 | 161 | 166 | | 445 |
-| 22.0 | 77.6 | 51.9 | 37.2 | 157 | 161 | | 470 |
+![Cruise and range performance – 2,500 ft, 10 °C (doc. page 5-10)](png/p050.png)
 
-*(Additional rows for 997 kg and 1,144 kg at lower power - see figure. Page 5-11)*
+*(document page 5-10)*
 
-**Page 52 - 7,500 ft, 0°C:**
+---
 
-| Ladedruck | Benzin (gal/h) | Benzin (L/h) | Benzin (kg/h) | TAS (mph) | TAS (kts) | Zeit | Meilen |
-|-----------|---------------|-------------|---------------|-----------|-----------|------|--------|
-| 22.5 | 82.8 | 56.0 | 40.1 | 165 | 169 | 2:45 | 453 |
-| 22.0 | 80.4 | 54.1 | 38.8 | 163 | 167 | 2:52 | 466 |
-| 21.0 | 75.7 | 51.9 | 37.3 | 158 | 163 | 4:33 | 733 |
-| 20.0 | 71.0 | 48.9 | 35.2 | 153 | 158 | 4:54 | 769 |
+## Page 51 (German – cruise and range performance, document page 5-11)
 
-*(Additional rows for 997 kg - see figure. Page 5-12)*
+**REISE- und REICHWEITELEISTUNG – 5000 ft bei 5 °C** (Cruise and range performance – 5,000 ft, 5 °C)
 
-**Page 53 - 10,000 ft, -5°C:**
+*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
 
-| Ladedruck | Benzin (gal/h) | Benzin (L/h) | Benzin (kg/h) | TAS (mph) | TAS (kts) | Zeit | Meilen |
-|-----------|---------------|-------------|---------------|-----------|-----------|------|--------|
-| 20.2 | 74.7 | 51.5 | 36.9 | 135.5 | 160 | 166 | 4:34 | 721 |
-| 20.0 | 73.7 | 50.9 | 36.4 | 134.5 | 159 | 165 | 4:38 | 727 |
-| 19.0 | 68.9 | 47.6 | 34.2 | 130.7 | 154 | 160 | 4:59 | 759 |
-| 18.0 | 64.2 | 44.4 | 31.9 | 127.0 | 147 | 154 | 5:23 | 793 |
+![Cruise and range performance – 5,000 ft, 5 °C (doc. page 5-11)](png/p051.png)
 
-*(Additional rows for 997 kg - see figure. Page 5-13)*
+*(document page 5-11)*
+
+---
+
+## Page 52 (German – cruise and range performance, document page 5-12)
+
+**REISE- und REICHWEITELEISTUNG – 7500 ft bei 0 °C** (Cruise and range performance – 7,500 ft, 0 °C)
+
+*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
+
+![Cruise and range performance – 7,500 ft, 0 °C (doc. page 5-12)](png/p052.png)
+
+*(document page 5-12)*
+
+---
+
+## Page 53 (German – cruise and range performance, document page 5-13)
+
+**REISE- und REICHWEITELEISTUNG – 10.000 ft bei −5 °C** (Cruise and range performance – 10,000 ft, −5 °C)
+
+*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
+
+![Cruise and range performance – 10,000 ft, −5 °C (doc. page 5-13)](png/p053.png)
+
+*(document page 5-13)*
+
 
 ---
 ## Page 54 (German – Section VI TOC: Weight and Loading (Gewicht und Beladung))
