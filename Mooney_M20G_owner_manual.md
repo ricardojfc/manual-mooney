@@ -1148,9 +1148,9 @@ All performance tables and charts in this manual are presented to allow **quick 
 - For **dry grass runway**: **increase take-off distances by 75%**
 
 
-|               |           |Take-off weight 997 Kg                                     | Take-off weight 1144 Kg                                 |
-|---------------|-----------|------------------|----------------------------------------|------------------|--------------------------------------|
-| Altitude (ft) | Temp (°C) | Take-off run (m) | Distance for over 15m (50 ft) obstacle | Take-off run (m) | Distance for over 15m (50ft) obstacle|
+| Altitude (ft) | Temp (°C) | Take-off weight: 997 kg | | Take-off weight: 1,144 kg | |
+|---------------|-----------|-------------------------|--------------------------------------|-------------------------|--------------------------------------|
+|               |           | Take-off run (m)        | Distance for over 15 m (50 ft) obstacle | Take-off run (m) | Distance for over 15 m (50 ft) obstacle |
 |---------------|-----------|-------------------------|---------------------------|---------------------------|----------------------------|
 | **MSL (15°C)** | | 419 | 534 | 392 | 465 |
 | **2,500 ft** | 31°C | 419 | 534 | 359 | 413 |
