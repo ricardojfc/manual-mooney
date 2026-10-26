@@ -1137,14 +1137,14 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 *(Redrawn in English as a schematic; distances not to scale.)*
 
-### Startstrecke (über 15 m Hindernisfreiheit) — Take-off distance (15 m obstacle clearance)
+### Take-off distance (15 m obstacle clearance)
 
-**Take-off conditions (Startbedingungen):**
-- Paved runway (befestigte Startbahn)
-- Standard altitude/setup (Schnellste...**
-- Claps in **take-off position (Startstellung)**
-- **No wind (Windstille)**
-- **Power: full throttle, 2,700 rpm (Vollgas 2700 U/min)**
+**Take-off conditions:**
+- Paved runway
+- Standard altitude/setup
+- Flaps in **take-off position**
+- **No wind**
+- **Power: full throttle, 2,700 rpm**
 - For **dry grass runway**: **increase take-off distances by 75%**
 
 
