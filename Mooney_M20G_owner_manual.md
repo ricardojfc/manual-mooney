@@ -1133,11 +1133,9 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 43 (German – chart page – Take-off distance)
 
-![Take-off distance diagram – take-off roll (Startrollstrecke) and total take-off distance over the 15 m obstacle (Startstrecke), doc. page 5-3](png/p043a.png)
+![Take-off distances — take-off roll and total take-off distance over the 15 m (50 ft) obstacle — schematic, not to scale](png/p043a_en.png)
 
-![Schematic redrawn in English of the diagram above – take-off distances (not to scale)](png/p043a_en.png)
-
-*(Schematic redrawn in English for convenience – the original diagram above is authoritative.)*
+*(Redrawn in English as a schematic; distances not to scale.)*
 
 ### Startstrecke (über 15 m Hindernisfreiheit) — Take-off distance (15 m obstacle clearance)
 
@@ -1149,7 +1147,10 @@ All performance tables and charts in this manual are presented to allow **quick 
 - **Power: full throttle, 2,700 rpm (Vollgas 2700 U/min)**
 - For **dry grass runway**: **increase take-off distances by 75%**
 
-| Altitude (ft) | Temp (°C) | 997 kg: Runway roll (m) | 997 kg: 15 m obstacle (m) | 1,144 kg: Runway roll (m) | 1,144 kg: 15 m obstacle (m) |
+
+|               |           |Take-off weight 997 Kg                                     | Take-off weight 1144 Kg                                 |
+|---------------|-----------|------------------|----------------------------------------|------------------|--------------------------------------|
+| Altitude (ft) | Temp (°C) | Take-off run (m) | Distance for over 15m (50 ft) obstacle | Take-off run (m) | Distance for over 15m (50ft) obstacle|
 |---------------|-----------|-------------------------|---------------------------|---------------------------|----------------------------|
 | **MSL (15°C)** | | 419 | 534 | 392 | 465 |
 | **2,500 ft** | 31°C | 419 | 534 | 359 | 413 |
