@@ -1133,6 +1133,8 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 43 (German – chart page – Take-off distance)
 
+![Take-off distance diagram – take-off roll (Startrollstrecke) and total take-off distance over the 15 m obstacle (Startstrecke), doc. page 5-3](png/p043a.png)
+
 ### Startstrecke (über 15 m Hindernisfreiheit) — Take-off distance (15 m obstacle clearance)
 
 **Take-off conditions (Startbedingungen):**
