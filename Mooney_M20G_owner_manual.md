@@ -1166,41 +1166,57 @@ All performance tables and charts in this manual are presented to allow **quick 
 *(Page 5-3)*
 
 ---
-## Page 44 (German – chart page – Landing distance)
+## Page 44 (Landing distance)
 
 ### Landestrecke (über 15 m Hindernis) — Landing distance (over 15 m obstacle)
 
 ![Landing distance, over 15 m (50 ft) obstacle](png/p044a_en.png)
 
-*(Redrawn in English: landing profile sketch + data table.)*
+**Landing conditions (Landebedingungen):**
 
-**Landing conditions:**
-- **Landing speed: 80 mph (70 Kts)**
-- **Flaps fully extended**
-- **Paved runway**
-- **Power: idle**
-- **No wind**
-- For **dry grass runway**: **increase landing distances by 75 %**
-- For **unprepared runway**: **increase landing distances by 50 %**
+- **Landing speed (Landegeschwindigkeit): 80 mph (70 Kts)**
+- **Flaps fully extended (Landeklappen voll ausgefahren)**
+- **Paved runway (Befestigte Landebahn)**
+- **Power: idle (Leistung: Leerlauf)**
+- **No wind (Windstille)**
+- **For dry grass runways, landing distances are to be increased by 75 % (Für trockene Grasbahnen sind die Landestrecken um 75 % zu verlängern)**
 
-*(German original — first set of columns Aircraft weight 997 kg, second set 1,144 kg):*
+#### Aircraft weight 997 kg
 
-| Height | Temperature °C (°F) | **997 kg** ft | **997 kg** m | **1,144 kg** ft | **1,144 kg** m |
-|--------|---------------------|--------------:|------------:|----------------:|---------------:|
-| **Mean sea level** | **+38** (100) | **1,460** | **445** | **1,825** | **577** |
-| | +15 (59) | 1,335 | 407 | 1,700 | 538 |
-| | −7 (19) | 1,266 | 386 | 1,610 | 496 |
-| **2,500 ft** | +32 (90) | 1,539 | 469 | 1,935 | 590 |
-| | +10 (50) | 1,434 | 436 | 1,795 | 547 |
-| | −12 (10) | 1,365 | 416 | 1,705 | 520 |
-| **5,000 ft** | +27 (81) | 1,608 | 490 | 2,028 | 618 |
-| | +5 (41) | 1,529 | 466 | 1,880 | 573 |
-| | −18 (0) | 1,450 | 442 | 1,739 | 530 |
-| **7,500 ft** | +21 (70) | 1,739 | 530 | 2,149 | 655 |
-| | 0 (32) | 1,634 | 498 | 2,028 | 618 |
-| | −24 (−12) | 1,535 | 467 | 1,864 | 568 |
+| Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
+|---------------|---------|---------------------------|-------------------------------------------------------------|
+| **Mean sea level (Meereshöhe)** | **+38** (100 °F) | **200** | **445** |
+| | +15 (59) | 186 | 407 |
+| | −7 (19) | 172 | 386 |
+| **2,500 ft** | +32 (90) | 216 | 469 |
+| | +10 (50) | 200 | 442 |
+| | −12 (10) | 186 | 416 |
+| **5,000 ft** | +27 (81) | 234 | 490 |
+| | +5 (41) | 216 | 466 |
+| | −18 (0) | 196 | 433 |
+| **7,500 ft** | +21 (70) | 252 | 530 |
+| | 0 (32) | 233 | 498 |
+| | −24 (−12) | 214 | 466 |
 
-> **OCR correction**: MSL temperatures are **+38 / +15 / −7 °C** (not 28/12/−2 as in older OCR). Distances in ft and m are in the same column.
+#### Aircraft weight 1,144 kg
+
+| Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
+|---------------|---------|---------------------------|-------------------------------------------------------------|
+| **Mean sea level (Meereshöhe)** | **+38** (100 °F) | **247** | **538** |
+| | +15 (59) | 227 | 508 |
+| | −7 (19) | 203 | 472 |
+| **2,500 ft** | +32 (90) | 265 | 572 |
+| | +10 (50) | 238 | 538 |
+| | −12 (10) | 218 | 508 |
+| **5,000 ft** | +27 (81) | 275 | 618 |
+| | +5 (41) | 255 | 573 |
+| | −18 (0) | 233 | 530 |
+| **7,500 ft** | +21 (70) | 298 | 655 |
+| | 0 (32) | 276 | 618 |
+| | −24 (−12) | 251 | 568 |
+
+> **Source-accuracy note:** In the German original each aircraft weight has its own two-column block — `Landelauf` (ft) / `Landestrecke über Hindernis` (m). Reproduced here as one table per weight. Three cells — **1,144 kg Landelauf at MSL/38 °C (247 ft), MSL/−7 °C (203 ft), 7,500/21 °C (298 ft)** — were re-derived from the monotonic pattern in the surrounding rows because the OCR pass missed them; all other numbers are straight from the source scan. The earlier markdown had values (1,460 / 1,825 / 577 etc.) that do not match the printed table. The line “unprepared runway +50 %” carried over from the prior version is **not present in the source** and has been removed.
+
 
 *(Page 5-4)*
 
