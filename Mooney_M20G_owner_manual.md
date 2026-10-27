@@ -1185,35 +1185,35 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 | Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
 |---------------|---------|---------------------------|-------------------------------------------------------------|
-| **Mean sea level (Meereshöhe)** | **+38** (100 °F) | **200** | **445** |
-| | +15 (59) | 186 | 407 |
-| | −7 (19) | 172 | 386 |
-| **2,500 ft** | +32 (90) | 216 | 469 |
-| | +10 (50) | 200 | 442 |
-| | −12 (10) | 186 | 416 |
-| **5,000 ft** | +27 (81) | 234 | 490 |
-| | +5 (41) | 216 | 466 |
-| | −18 (0) | 196 | 433 |
-| **7,500 ft** | +21 (70) | 252 | 530 |
-| | 0 (32) | 233 | 498 |
-| | −24 (−12) | 214 | 466 |
+| **Mean sea level (Meereshöhe)** | **+38** | **200** | **445** |
+| | +15 | 186 | 407 |
+| | −7 | 172 | 386 |
+| **2,500 ft** | +32 | 216 | 469 |
+| | +10 | 200 | 442 |
+| | −12 | 186 | 416 |
+| **5,000 ft** | +27 | 234 | 490 |
+| | +5 | 216 | 466 |
+| | −18 | 196 | 433 |
+| **7,500 ft** | +21 | 252 | 530 |
+| | 0 | 233 | 498 |
+| | −24 | 214 | 466 |
 
 #### Aircraft weight 1,144 kg
 
 | Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
 |---------------|---------|---------------------------|-------------------------------------------------------------|
-| **Mean sea level (Meereshöhe)** | **+38** (100 °F) | **247** | **538** |
-| | +15 (59) | 227 | 508 |
-| | −7 (19) | 203 | 472 |
-| **2,500 ft** | +32 (90) | 265 | 572 |
-| | +10 (50) | 238 | 538 |
-| | −12 (10) | 218 | 508 |
-| **5,000 ft** | +27 (81) | 275 | 618 |
-| | +5 (41) | 255 | 573 |
-| | −18 (0) | 233 | 530 |
-| **7,500 ft** | +21 (70) | 298 | 655 |
-| | 0 (32) | 276 | 618 |
-| | −24 (−12) | 251 | 568 |
+| **Mean sea level (Meereshöhe)** | **+38** | **247** | **538** |
+| | +15 | 227 | 508 |
+| | −7 | 203 | 472 |
+| **2,500 ft** | +32 | 265 | 572 |
+| | +10 | 238 | 538 |
+| | −12 | 218 | 508 |
+| **5,000 ft** | +27 | 275 | 618 |
+| | +5 | 255 | 573 |
+| | −18 | 233 | 530 |
+| **7,500 ft** | +21 | 298 | 655 |
+| | 0 | 276 | 618 |
+| | −24 | 251 | 568 |
 
 > **Source-accuracy note:** In the German original each aircraft weight has its own two-column block — `Landelauf` (ft) / `Landestrecke über Hindernis` (m). Reproduced here as one table per weight. Three cells — **1,144 kg Landelauf at MSL/38 °C (247 ft), MSL/−7 °C (203 ft), 7,500/21 °C (298 ft)** — were re-derived from the monotonic pattern in the surrounding rows because the OCR pass missed them; all other numbers are straight from the source scan. The earlier markdown had values (1,460 / 1,825 / 577 etc.) that do not match the printed table. The line “unprepared runway +50 %” carried over from the prior version is **not present in the source** and has been removed.
 
