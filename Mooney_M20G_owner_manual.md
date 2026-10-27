@@ -1131,7 +1131,7 @@ All performance tables and charts in this manual are presented to allow **quick 
 *(Page 5-2)*
 
 ---
-## Page 43 (German – chart page – Take-off distance)
+## Page 43 (Take-off distance)
 
 ![Take-off distances — take-off run and total take-off distance over the 15 m (50 ft) obstacle — schematic, not to scale](png/p043a_en.png)
 
