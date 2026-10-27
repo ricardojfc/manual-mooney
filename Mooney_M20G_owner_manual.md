@@ -1131,60 +1131,71 @@ All performance tables and charts in this manual are presented to allow **quick 
 *(Page 5-2)*
 
 ---
-## Page 43 (German – chart page – Take-off distance)
+## Page 43 (Take-off distance)
 
-### Startstrecke (über 15 m Hindernisfreiheit) — Take-off distance (15 m obstacle clearance)
+![Take-off distances — take-off run and total take-off distance over the 15 m (50 ft) obstacle — schematic, not to scale](png/p043a_en.png)
 
-**Take-off conditions (Startbedingungen):**
-- Paved runway (befestigte Startbahn)
-- Standard altitude/setup (Schnellste...**
-- Claps in **take-off position (Startstellung)**
-- **No wind (Windstille)**
-- **Power: full throttle, 2,700 rpm (Vollgas 2700 U/min)**
+*(Redrawn in English as a schematic; distances not to scale.)*
+
+### Take-off distance (15 m obstacle clearance)
+
+**Take-off conditions:**
+- Paved runway
+- Standard altitude/setup
+- Flaps in **take-off position**
+- **No wind**
+- **Power: full throttle, 2,700 rpm**
 - For **dry grass runway**: **increase take-off distances by 75%**
 
-| Altitude (ft) | Temp (°C) | 997 kg: Runway roll (m) | 997 kg: 15 m obstacle (m) | 1,144 kg: Runway roll (m) | 1,144 kg: 15 m obstacle (m) |
-|---------------|-----------|-------------------------|---------------------------|---------------------------|----------------------------|
-| **MSL (15°C)** | | 419 | 534 | 392 | 465 |
-| **2,500 ft** | 31°C | 419 | 534 | 359 | 413 |
-| | 10°C | 363 | 417 | 335 | 387 |
-| | -12°C | 313 | 365 | 306 | 355 |
-| **5,000 ft** | 27°C | 488 | 598 | 387 | 441 |
-| | 5°C | 415 | 507 | 343 | 417 |
-| | -16°C | 343 | 415 | 280 | 359 |
-| **7,500 ft** | 21°C | 568 | 698 | 498 | 585 |
-| | 0°C | 484 | 590 | 420 | 503 |
-| | -24°C | 385 | 475 | 348 | 453 |
+
+| Altitude (ft) | Temp (°C) | 997 kg: Take-off run (m) | 997 kg: over 15 m (50 ft) obstacle (m) | 1,144 kg: Take-off run (m) | 1,144 kg: over 15 m (50 ft) obstacle (m) |
+|---------------|-----------|----------------------------|---------------------------------------------------|------------------------------|----------------------------------------------------|
+| **MSL** | 38 | 210 | 358 | 282 | 444 |
+| | 15 | 177 | 308 | 238 | 381 |
+| | -7 | 148 | 264 | 205 | 325 |
+| **2500** | 32 | 244 | 414 | 332 | 512 |
+| | 10 | 209 | 358 | 280 | 444 |
+| | -12 | 174 | 306 | 238 | 378 |
+| **5000** | 27 | 300 | 505 | 402 | 624 |
+| | 5 | 254 | 435 | 343 | 538 |
+| | -18 | 210 | 363 | 280 | 448 |
+| **7500** | 21 | 368 | 620 | 498 | 730 |
+| | 0 | 314 | 530 | 420 | 652 |
+| | -24 | 258 | 445 | 348 | 520 |
 
 *(Page 5-3)*
 
 ---
-## Page 44 (German – chart page – Landing distance)
+## Page 44 (Landing distance)
 
-### Landestrecke (über 15 m Hindernis) — Landing distance (over 15 m obstacle)
+### Landing distance (over 15 m obstacle)
 
-**Landing conditions (Landebedingungen):**
-- **Landing speed: 80 mph (70 kts)**
-- **Flaps fully extended (Landeklappen voll ausgefahren)**
-- **Paved runway (Befestigte Landebahn)**
-- **Power: idle (Leerlauf)**
-- **No wind (Windstille)**
-- For **dry grass runway**: **increase landing distances by 75%**
+![Landing distance, over 15 m (50 ft) obstacle](png/p044a_en.png)
 
-| Altitude (ft) | Temp (°C) | 997 kg: Over 15 m (ft) | 997 kg: Over 15 m (m) | 1,144 kg: Over 15 m (ft) | 1,144 kg: Over 15 m (m) |
-|---------------|-----------|------------------------|-----------------------|--------------------------|--------------------------|
-| **MSL (28°C)** | | 200 | 445 | | |
-| | 12°C | 186 | 407 | | |
-| | -2°C | 172 | 386 | | |
-| | 21°C | 216 | 479 | 265 | 572 |
-| **2,500 ft** | 0°C | 200 | 442 | 238 | 538 |
-| | -12°C | 186 | 416 | 218 | 508 |
-| **5,000 ft** | 27°C | 234 | 498 | 275 | |
-| | 5°C | 216 | 468 | 255 | |
-| | -18°C | 196 | 433 | 233 | |
-| **7,500 ft** | 21°C | 530 | 655 | | |
-| | 0°C | 500 | 618 | | |
-| | **-24°C** | 466 | 568 | | |
+**Landing conditions:**
+
+- **Landing speed: 80 mph (70 Kts)**
+- **Flaps fully extended**
+- **Paved runway**
+- **Power: idle**
+- **No wind**
+- **For dry grass runways, landing distances are to be increased by 75 %**
+
+| Height | Temp °C | **997 kg** (m) | **997 kg** Over 15 m obstacle (m) | **1,144 kg** (m) | **1,144 kg** Over 15 m obstacle (m) |
+|---------------|---------|-------------------------:|--------------------------------------:|---------------------------:|------------------------------------------:|
+| **Mean sea level** | 38 | 200 | 445 | 237 | 538 |
+|                    | 15 | 186 | 407 | 221 | 508 |
+|                    | −7 | 172 | 386 | 203 | 472 |
+| **2,500 ft**       | 32 | 216 | 469 | 265 | 572 |
+|                    | 10 | 200 | 442 | 238 | 538 |
+|                    | −12 | 186 | 416 | 218 | 508 |
+| **5,000 ft**       | 27 | 234 | 498 | 275 | 618 |
+|                    | 5 | 216 | 468 | 255 | 573 |
+|                    | −18 | 196 | 433 | 233 | 530 |
+| **7,500 ft**       | 21 | 252 | 530 | 298 | 655 |
+|                    | 0 | 233 | 500 | 276 | 618 |
+|                    | −24 | 214 | 466 | 251 | 568 |
+
 
 *(Page 5-4)*
 
@@ -1193,21 +1204,23 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 ### Steigleistung (Climb Performance)
 
-**Conditions:**
+**Steigbedingungen (Climb conditions):**
+
 - **Gear retracted (Fahrwerk eingezogen)**
 - **Mixture full-rich (Gemisch voll-reich)**
 - **Flaps retracted (Klappen eingefahren)**
 - **Full power, 2,700 rpm (Vollleistung 2700 U/min)**
-- **Standard altitude**
 
-| Altitude (ft) | Climb rate 997 kg (ft/min) | Climb rate 1,144 kg (ft/min) | Best angle of climb (CAS mph) | Best rate of climb (CAS mph) |
-|---------------|---------------------------|------------------------------|-------------------------------|------------------------------|
-| 0 (sea level) | ~1,000 | ~870 | ~60 | ~90 |
-| 2,500 | | | | |
-| 5,000 | ~870 | ~630 | | |
-| 7,500 | ~1,070 | | | |
+*Chart-graphic page. No data table is printed in the source — the values below are **curve-read estimates** (±50 ft/min) taken from the two climb-rate charts (left: 997 kg, right: 1,144 kg) on the page. Read exact values from the curves at the required altitude (Höhe) for a specific weight.*
 
-*(Chart data - see figure for precise values. Page 5-5)*
+| Height (Höhe) | 997 kg — Steigleistung ft/min | 1,144 kg — Steigleistung ft/min |
+|---------------|------------------------------:|--------------------------------:|
+| 0 (sea level) | ~950 | ~800 |
+| 2,500 | ~700 | ~600 |
+| 5,000 | ~550 | ~400 |
+| 7,500 | ~400 | ~300 |
+
+*(Page 5-5)*
 
 ---
 ## Page 46 (German – chart page – Airspeed correction, stall speeds)
