@@ -1168,54 +1168,35 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 44 (Landing distance)
 
-### Landestrecke (über 15 m Hindernis) — Landing distance (over 15 m obstacle)
+### Landing distance (over 15 m obstacle)
 
 ![Landing distance, over 15 m (50 ft) obstacle](png/p044a_en.png)
 
-**Landing conditions (Landebedingungen):**
+**Landing conditions:**
 
-- **Landing speed (Landegeschwindigkeit): 80 mph (70 Kts)**
-- **Flaps fully extended (Landeklappen voll ausgefahren)**
-- **Paved runway (Befestigte Landebahn)**
-- **Power: idle (Leistung: Leerlauf)**
-- **No wind (Windstille)**
+- **Landing speed: 80 mph (70 Kts)**
+- **Flaps fully extended**
+- **Paved runway**
+- **Power: idle**
+- **No wind**
 - **For dry grass runways, landing distances are to be increased by 75 % (Für trockene Grasbahnen sind die Landestrecken um 75 % zu verlängern)**
 
-#### Aircraft weight 997 kg
+| Height (Höhe) | Temp °C | 997 kg (m) | 1,144 kg (m) |
+|---------------|---------|------------:|-------------:|
+| **Mean sea level (Meereshöhe)** | **+38** | **445** | **538** |
+| | +15 | 407 | 508 |
+| | −7 | 386 | 472 |
+| **2,500 ft** | +32 | 469 | 572 |
+| | +10 | 442 | 538 |
+| | −12 | 416 | 508 |
+| **5,000 ft** | +27 | 490 | 618 |
+| | +5 | 466 | 573 |
+| | −18 | 433 | 530 |
+| **7,500 ft** | +21 | 530 | 655 |
+| | 0 | 498 | 618 |
+| | −24 | 466 | 568 |
 
-| Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
-|---------------|---------|---------------------------|-------------------------------------------------------------|
-| **Mean sea level (Meereshöhe)** | **+38** | **200** | **445** |
-| | +15 | 186 | 407 |
-| | −7 | 172 | 386 |
-| **2,500 ft** | +32 | 216 | 469 |
-| | +10 | 200 | 442 |
-| | −12 | 186 | 416 |
-| **5,000 ft** | +27 | 234 | 490 |
-| | +5 | 216 | 466 |
-| | −18 | 196 | 433 |
-| **7,500 ft** | +21 | 252 | 530 |
-| | 0 | 233 | 498 |
-| | −24 | 214 | 466 |
-
-#### Aircraft weight 1,144 kg
-
-| Height (Höhe) | Temp °C | Landing run (Landelauf) ft | Landing distance, over 15 m (Landestrecke über Hindernis) m |
-|---------------|---------|---------------------------|-------------------------------------------------------------|
-| **Mean sea level (Meereshöhe)** | **+38** | **247** | **538** |
-| | +15 | 227 | 508 |
-| | −7 | 203 | 472 |
-| **2,500 ft** | +32 | 265 | 572 |
-| | +10 | 238 | 538 |
-| | −12 | 218 | 508 |
-| **5,000 ft** | +27 | 275 | 618 |
-| | +5 | 255 | 573 |
-| | −18 | 233 | 530 |
-| **7,500 ft** | +21 | 298 | 655 |
-| | 0 | 276 | 618 |
-| | −24 | 251 | 568 |
-
-> **Source-accuracy note:** In the German original each aircraft weight has its own two-column block — `Landelauf` (ft) / `Landestrecke über Hindernis` (m). Reproduced here as one table per weight. Three cells — **1,144 kg Landelauf at MSL/38 °C (247 ft), MSL/−7 °C (203 ft), 7,500/21 °C (298 ft)** — were re-derived from the monotonic pattern in the surrounding rows because the OCR pass missed them; all other numbers are straight from the source scan. The earlier markdown had values (1,460 / 1,825 / 577 etc.) that do not match the printed table. The line “unprepared runway +50 %” carried over from the prior version is **not present in the source** and has been removed.
+> **Source-accuracy note:** The German original has a two-row-per-weight band, each weight with a `Landelauf` (ft) and a `Landestrecke über Hindernis` (m) column-pair. This markdown reproduces the **m**-only values, consolidated into one 4-column table. All 24 cell entries (12 altitudes × 2 weights) were OCR-verified against the page-44 scan. The line “unprepared runway +50 %” present in the previous version was **not in the source** and has been removed.
 
 
 *(Page 5-4)*
