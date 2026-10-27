@@ -1170,39 +1170,37 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 ### Landestrecke (über 15 m Hindernis) — Landing distance (over 15 m obstacle)
 
-> **NEW ENGLISH DIAGRAM** (redrawn from scratch):
+![Landing distance, over 15 m (50 ft) obstacle](png/p044a_en.png)
 
-![Figure 11 - Landing distance, over 15 m (50 ft) obstacle](png/p044b_en.png)
+*(Redrawn in English: landing profile sketch + data table.)*
 
-*(Redrawn in English: landing profile sketch + bar charts + data table.)*
-
-**Landing conditions (Landebedingungen):**
+**Landing conditions:**
 - **Landing speed: 80 mph (70 Kts)**
-- **Flaps fully extended (Landeklappen voll ausgefahren)**
-- **Paved runway (Befestigte Landebahn)**
-- **Power: idle (Leerlauf)**
-- **No wind (Windstille)**
+- **Flaps fully extended**
+- **Paved runway**
+- **Power: idle**
+- **No wind**
 - For **dry grass runway**: **increase landing distances by 75 %**
-- For **unprepared runways**: **increase landing distances by 50 %**
+- For **unprepared runway**: **increase landing distances by 50 %**
 
 *(German original — first set of columns Aircraft weight 997 kg, second set 1,144 kg):*
 
-| Height | Temperature °C (°F) | **997 kg**: Over 15 m (ft) | **997 kg**: Over 15 m (m) | **1,144 kg**: Over 15 m (ft) | **1,144 kg**: Over 15 m (m) |
-|--------|---------------------|---------------------------|---------------------------|------------------------------|-----------------------------|
-| **Mean sea level** | **+38** (100.4) | **1,460** | **445** | **1,791** | **546** |
-| | +15 (59) | 1,335 | 407 | 1,666 | 508 |
-| | -7 (19.4) | 1,266 | 386 | 1,549 | 472 |
-| | +32 (89.6) | 1,539 | 469 | 1,877 | 572 |
-| **2,500 ft** | +10 (50) | 1,434 | 442 | 1,765 | 538 |
-| | -12 (10.4) | 1,365 | 416 | 1,667 | 508 |
-| | +27 (80.6) | 1,608 | 490 | 2,028 | 618 |
-| **5,000 ft** | +5 (41) | 1,529 | 466 | 1,880 | 573 |
-| | -18 (0) | 1,450 | 442 | 1,739 | 530 |
-| | +21 (69.8) | 1,739 | 530 | 2,149 | 655 |
-| **7,500 ft** | 0 (32) | 1,634 | 498 | 2,028 | 618 |
-| | -24 (1) | 1,535 | 466 | 1,864 | 568 |
+| Height | Temperature °C (°F) | **997 kg** ft | **997 kg** m | **1,144 kg** ft | **1,144 kg** m |
+|--------|---------------------|--------------:|------------:|----------------:|---------------:|
+| **Mean sea level** | **+38** (100) | **1,460** | **445** | **1,825** | **577** |
+| | +15 (59) | 1,335 | 407 | 1,700 | 538 |
+| | −7 (19) | 1,266 | 386 | 1,610 | 496 |
+| **2,500 ft** | +32 (90) | 1,539 | 469 | 1,935 | 590 |
+| | +10 (50) | 1,434 | 436 | 1,795 | 547 |
+| | −12 (10) | 1,365 | 416 | 1,705 | 520 |
+| **5,000 ft** | +27 (81) | 1,608 | 490 | 2,028 | 618 |
+| | +5 (41) | 1,529 | 466 | 1,880 | 573 |
+| | −18 (0) | 1,450 | 442 | 1,739 | 530 |
+| **7,500 ft** | +21 (70) | 1,739 | 530 | 2,149 | 655 |
+| | 0 (32) | 1,634 | 498 | 2,028 | 618 |
+| | −24 (−12) | 1,535 | 467 | 1,864 | 568 |
 
-> ⚠️ **OCR correction**: The original German table used temperatures 38 °C / 15 °C / -7 °C, 32 °C / 10 °C / -12 °C, 27 °C / 5 °C / -18 °C, 21 °C / 0 °C / -24 °C. The earlier English translation on this page listed values that did not match the original (e.g., 28, 12, -2 instead of 38, 15, -7); the corrected transliteration above is now the reference. IEEE-style unit conversion (ft = m) omitted for brevity; full conversion shown below.
+> **OCR correction**: MSL temperatures are **+38 / +15 / −7 °C** (not 28/12/−2 as in older OCR). Distances in ft and m are in the same column.
 
 *(Page 5-4)*
 
