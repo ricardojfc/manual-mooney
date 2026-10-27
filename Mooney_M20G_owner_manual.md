@@ -1181,22 +1181,22 @@ All performance tables and charts in this manual are presented to allow **quick 
 - **No wind**
 - **For dry grass runways, landing distances are to be increased by 75 % (Für trockene Grasbahnen sind die Landestrecken um 75 % zu verlängern)**
 
-| Height (Höhe) | Temp °C | 997 kg (m) | 1,144 kg (m) |
-|---------------|---------|------------:|-------------:|
-| **Mean sea level (Meereshöhe)** | **+38** | **445** | **538** |
-| | +15 | 407 | 508 |
-| | −7 | 386 | 472 |
-| **2,500 ft** | +32 | 469 | 572 |
-| | +10 | 442 | 538 |
-| | −12 | 416 | 508 |
-| **5,000 ft** | +27 | 490 | 618 |
-| | +5 | 466 | 573 |
-| | −18 | 433 | 530 |
-| **7,500 ft** | +21 | 530 | 655 |
-| | 0 | 498 | 618 |
-| | −24 | 466 | 568 |
+| Height (Höhe) | Temp °C | **997 kg** Landelauf (m) | **997 kg** Landestrecke über 15 m (m) | **1,144 kg** Landelauf (m) | **1,144 kg** Landestrecke über 15 m (m) |
+|---------------|---------|-------------------------:|--------------------------------------:|---------------------------:|------------------------------------------:|
+| **Mean sea level (Meereshöhe)** | **+38** | **200** | **445** | **237** | **538** |
+| | +15 | 186 | 407 | 221 | 508 |
+| | −7 | 172 | 386 | 203 | 472 |
+| **2,500 ft** | +32 | 216 | 469 | 265 | 572 |
+| | +10 | 200 | 442 | 238 | 538 |
+| | −12 | 186 | 416 | 218 | 508 |
+| **5,000 ft** | +27 | 234 | 498 | 275 | 618 |
+| | +5 | 216 | 468 | 255 | 573 |
+| | −18 | 196 | 433 | 233 | 530 |
+| **7,500 ft** | +21 | 252 | 530 | 298 | 655 |
+| | 0 | 233 | 500 | 276 | 618 |
+| | −24 | 214 | 466 | 251 | 568 |
 
-> **Source-accuracy note:** The German original has a two-row-per-weight band, each weight with a `Landelauf` (ft) and a `Landestrecke über Hindernis` (m) column-pair. This markdown reproduces the **m**-only values, consolidated into one 4-column table. All 24 cell entries (12 altitudes × 2 weights) were OCR-verified against the page-44 scan. The line “unprepared runway +50 %” present in the previous version was **not in the source** and has been removed.
+> **Source-accuracy note:** The German original has, for each aircraft weight (997 kg / 1,144 kg), a pair of columns: `Landelauf` (ground roll, metres) and `Landestrecke über 15 m Hindernis` (total distance over a 15 m obstacle, metres). This table reproduces all four m-columns straight from the page-44 scan. The previous version correctly paired far less (a single m per weight) and has been corrected. The line “unprepared runway +50 %” in the prior version was **not in the source** and has been removed.
 
 
 *(Page 5-4)*
