@@ -1179,24 +1179,22 @@ All performance tables and charts in this manual are presented to allow **quick 
 - **Paved runway**
 - **Power: idle**
 - **No wind**
-- **For dry grass runways, landing distances are to be increased by 75 % (Für trockene Grasbahnen sind die Landestrecken um 75 % zu verlängern)**
+- **For dry grass runways, landing distances are to be increased by 75 %**
 
-| Height (Höhe) | Temp °C | **997 kg** Landelauf (m) | **997 kg** Landestrecke über 15 m (m) | **1,144 kg** Landelauf (m) | **1,144 kg** Landestrecke über 15 m (m) |
+| Height | Temp °C | **997 kg** (m) | **997 kg** Over 15 m obstacle (m) | **1,144 kg** (m) | **1,144 kg** Over 15 m obstacle (m) |
 |---------------|---------|-------------------------:|--------------------------------------:|---------------------------:|------------------------------------------:|
-| **Mean sea level (Meereshöhe)** | **+38** | **200** | **445** | **237** | **538** |
-| | +15 | 186 | 407 | 221 | 508 |
-| | −7 | 172 | 386 | 203 | 472 |
-| **2,500 ft** | +32 | 216 | 469 | 265 | 572 |
-| | +10 | 200 | 442 | 238 | 538 |
-| | −12 | 186 | 416 | 218 | 508 |
-| **5,000 ft** | +27 | 234 | 498 | 275 | 618 |
-| | +5 | 216 | 468 | 255 | 573 |
-| | −18 | 196 | 433 | 233 | 530 |
-| **7,500 ft** | +21 | 252 | 530 | 298 | 655 |
-| | 0 | 233 | 500 | 276 | 618 |
-| | −24 | 214 | 466 | 251 | 568 |
-
-> **Source-accuracy note:** The German original has, for each aircraft weight (997 kg / 1,144 kg), a pair of columns: `Landelauf` (ground roll, metres) and `Landestrecke über 15 m Hindernis` (total distance over a 15 m obstacle, metres). This table reproduces all four m-columns straight from the page-44 scan. The previous version correctly paired far less (a single m per weight) and has been corrected. The line “unprepared runway +50 %” in the prior version was **not in the source** and has been removed.
+| **Mean sea level** | 38 | 200 | 445 | 237 | 538 |
+|                    | 15 | 186 | 407 | 221 | 508 |
+|                    | −7 | 172 | 386 | 203 | 472 |
+| **2,500 ft**       | 32 | 216 | 469 | 265 | 572 |
+|                    | 10 | 200 | 442 | 238 | 538 |
+|                    | −12 | 186 | 416 | 218 | 508 |
+| **5,000 ft**       | 27 | 234 | 498 | 275 | 618 |
+|                    | 5 | 216 | 468 | 255 | 573 |
+|                    | −18 | 196 | 433 | 233 | 530 |
+| **7,500 ft**       | 21 | 252 | 530 | 298 | 655 |
+|                    | 0 | 233 | 500 | 276 | 618 |
+|                    | −24 | 214 | 466 | 251 | 568 |
 
 
 *(Page 5-4)*
