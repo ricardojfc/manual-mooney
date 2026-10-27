@@ -1204,21 +1204,23 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 ### Steigleistung (Climb Performance)
 
-**Conditions:**
+**Steigbedingungen (Climb conditions):**
+
 - **Gear retracted (Fahrwerk eingezogen)**
 - **Mixture full-rich (Gemisch voll-reich)**
 - **Flaps retracted (Klappen eingefahren)**
 - **Full power, 2,700 rpm (Vollleistung 2700 U/min)**
-- **Standard altitude**
 
-| Altitude (ft) | Climb rate 997 kg (ft/min) | Climb rate 1,144 kg (ft/min) | Best angle of climb (CAS mph) | Best rate of climb (CAS mph) |
-|---------------|---------------------------|------------------------------|-------------------------------|------------------------------|
-| 0 (sea level) | ~1,000 | ~870 | ~60 | ~90 |
-| 2,500 | | | | |
-| 5,000 | ~870 | ~630 | | |
-| 7,500 | ~1,070 | | | |
+*Chart-graphic page. No data table is printed in the source — the values below are **curve-read estimates** (±50 ft/min) taken from the two climb-rate charts (left: 997 kg, right: 1,144 kg) on the page. Read exact values from the curves at the required altitude (Höhe) for a specific weight.*
 
-*(Chart data - see figure for precise values. Page 5-5)*
+| Height (Höhe) | 997 kg — Steigleistung ft/min | 1,144 kg — Steigleistung ft/min |
+|---------------|------------------------------:|--------------------------------:|
+| 0 (sea level) | ~950 | ~800 |
+| 2,500 | ~700 | ~600 |
+| 5,000 | ~550 | ~400 |
+| 7,500 | ~400 | ~300 |
+
+*(Page 5-5)*
 
 ---
 ## Page 46 (German – chart page – Airspeed correction, stall speeds)
