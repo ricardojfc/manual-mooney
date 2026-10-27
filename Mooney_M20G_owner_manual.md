@@ -1170,8 +1170,6 @@ All performance tables and charts in this manual are presented to allow **quick 
 
 ### Landing distance (over 15 m obstacle)
 
-![Landing distance, over 15 m (50 ft) obstacle](png/p044a_en.png)
-
 **Landing conditions:**
 
 - **Landing speed: 80 mph (70 Kts)**
