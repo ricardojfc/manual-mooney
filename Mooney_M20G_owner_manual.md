@@ -1252,21 +1252,9 @@ Stall speed with the engine at idle power. Table conditions (per source footnote
 *(Page 5-6)*
 
 ---
-## Page 47 (English / German – altitude conversion)
+## Page 47 (Altitude Conversion)
 
-### ALTITUDE CONVERSION
-
-**TAS = CAS x (11/9)^(1/7)**
-
-**Example:** If ambient temperature is **80°F** and pressure altitude is **4,000 ft**, the **standard altitude is 6,000 ft** and the factor **(11/9)^(1/7)** is **1.099**.
-
-*(Chart page with altitude/temperature correction graph)*
-
-### HÜHENKORREKTUR-GRAPHIK (Altitude Correction Chart)
-
-**Example (Beispiel):** Wenn die Umgebungstemperatur **80°F** beträgt und die Druckhöhe **4,000 ft**, ist die **Standard-Höhe 6,000 ft** und der Faktor ist **1.093**.
-
-*(Page 5-7)*
+![Altitude Conversion](png/p047_de.png)
 
 ---
 ## Page 48 (German – translated – Cruise and range conditions)
