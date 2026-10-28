@@ -1238,7 +1238,7 @@ IAS values are in mph/knots.
 
 ![Table 1 - Airspeedometer correction](png/p046a_t1_de.png)
 
-### Stall speeds at idle (Leerlauf)
+### Stall speeds at idle
 
 Stall speed with the engine at idle power. Table conditions (per source footnote):
 
