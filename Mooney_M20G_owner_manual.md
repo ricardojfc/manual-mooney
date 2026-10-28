@@ -1229,32 +1229,26 @@ All performance tables and charts in this manual are presented to allow **quick 
 *(Page 5-5)*
 
 ---
-## Page 46 (German – chart page – Airspeed correction, stall speeds)
+## Page 46 (Airspeed correction, stall speeds)
 
-### Fahrtmesser-Berichtigung (Airspeed / TAS Correction)
+### Airspeedometer correction (IAS → TAS)
 
-| TAS (mph/kts) | Climb power | Cruise power | Range power |
-|---------------|------------|-------------|-------------|
-| 190/164 | 119/104 | 159/138 | 158/137 |
-| 170/148 | 166/144 | 157/136 | 158/137 |
-| 157/136 | 170/148 | 167/145 | 168/146 |
-| 130/113 | 135/117 | 177/154 | 178/155 |
-| 116/101 | 159/138 | 187/162 | 188/163 |
-| 93/81 | 177/154 | 187/164 | 188/164 |
+Converts indicated airspeed (IAS) to true airspeed (TAS) by power setting and altitude.
+German source: *Fahrtmesser-Berichtigung*. IAS values are in mph/knots.
 
-### Überziehgeschwindigkeiten (Stall Speeds) - Idle (Leerlauf)
+![Table 1 - Airspeedometer correction](png/p046a_t1_de.png)
 
-**Conditions:**
-1. **Idle (LEERLAUF)**
-2. **1,144 kg**
-3. Speed in **mph and knots**
-4. **Forward CG (Vordere Schwerpunktlage)**
+### Stall speeds at idle (Leerlauf)
 
-| Configuration | CAS mph | CAS kts |
-|---------------|---------|---------|
-| Flaps and gear retracted | | |
-| Gear extended | | |
-| Flaps 33° | | |
+Stall speed with the engine at idle power. German source: *Überziehgeschwindigkeiten
+(Leerlauf)*. Table conditions (per source footnote):
+
+1. Engine at idle power (Leerlauf)
+2. Take-off weight **1144 kg**
+3. Airspeeds given in mph and knots (IAS / TAS)
+4. **Forward CG** (Vordere Schwerpunktlage)
+
+![Table 2 - Stall speeds at idle](png/p046a_t2_de.png)
 
 *(Page 5-6)*
 
