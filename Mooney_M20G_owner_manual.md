@@ -1259,18 +1259,18 @@ Stall speed with the engine at idle power. Table conditions (per source footnote
 ---
 ## Page 48 (Cruise and range conditions)
 
-### Reiseflug- und Reichweitebedingungen (Cruise and Range Conditions)
+### Cruise and Range Conditions
 
-All cruise (Reiseflug) and range (Reichweite) data in the tables in **Section V** include:
+All cruise and range data in the tables in **Section V** include:
 
-1. Climb to 3,000 ft at full rated power, then climb at reduced power (reduzierte Leistung) at mixture full rich (voll-reich), maintaining the speed for best rate of climb (beste Steigrate) up to the selected cruise altitude (gewählte Reiseflughöhe)
-2. Cruise (Reiseflug) to the destination with the corresponding power (Leistung) and mixture (Gemisch) setting (Regelung)
-3. 45 minutes reserve (Reserve) in the same altitude (Höhe) and power (Leistung) setting (Einstellung)
-4. All data (Angaben) refer to 52 gal (196 L) of usable fuel (ausfliegbar Treibstoffmenge) and the conditions of the standard atmosphere (Standardatmosphäre) and 0 wind (O-Wind)
+1. Climb to 3,000 ft at full rated power, then climb at reduced power at mixture full rich, maintaining the speed for best rate of climb up to the selected cruise altitude.
+2. Cruise to the destination with the corresponding power and mixture setting.
+3. 45 minutes reserve in the same altitude and power setting.
+4. All data refer to 52 gal (196 L) of usable fuel and the conditions of the standard atmosphere and 0 wind.
 
-Take-off weight (Abfluggewicht): **1144 kg or 997 kg**
+Take-off weight: **1144 kg or 997 kg**
 
-The data in the tables were derived from flight tests (Flugtests) in which the mixture (Gemischregelung) was kept rich (voll-reich) at power (Leistungen) settings above 75%, and at power (Leistungen) settings below 75%, a mixture for best engine power (beste Motorleistung) was flown (see p. 4-11).
+The data in the tables were derived from flight tests in which the mixture was kept rich at power settings above 75%, and at power settings below 75%, a mixture for best engine power was flown (see p. 4-11).
 
 *(Page 5-8)*
 
