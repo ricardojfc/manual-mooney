@@ -1231,22 +1231,21 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 46 (Airspeed correction, stall speeds)
 
-### Airspeedometer correction (IAS → TAS)
+### Air speed indicator correction (IAS → TAS)
 
 Converts indicated airspeed (IAS) to true airspeed (TAS) by power setting and altitude.
-German source: *Fahrtmesser-Berichtigung*. IAS values are in mph/knots.
+IAS values are in mph/knots.
 
 ![Table 1 - Airspeedometer correction](png/p046a_t1_de.png)
 
 ### Stall speeds at idle (Leerlauf)
 
-Stall speed with the engine at idle power. German source: *Überziehgeschwindigkeiten
-(Leerlauf)*. Table conditions (per source footnote):
+Stall speed with the engine at idle power. Table conditions (per source footnote):
 
-1. Engine at idle power (Leerlauf)
+1. Engine at idle power
 2. Take-off weight **1144 kg**
 3. Airspeeds given in mph and knots (IAS / TAS)
-4. **Forward CG** (Vordere Schwerpunktlage)
+4. **Forward CG**
 
 ![Table 2 - Stall speeds at idle](png/p046a_t2_de.png)
 
