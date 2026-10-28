@@ -1257,20 +1257,20 @@ Stall speed with the engine at idle power. Table conditions (per source footnote
 ![Altitude Conversion](png/p047_de.png)
 
 ---
-## Page 48 (German – translated – Cruise and range conditions)
+## Page 48 (Cruise and range conditions)
 
 ### Reiseflug- und Reichweitebedingungen (Cruise and Range Conditions)
 
-All cruise and range data in the tables in **Section V** include:
+All cruise (Reiseflug) and range (Reichweite) data in the tables in **Section V** include:
 
-1. **Climb at full power to 3,000 ft**, continued climb at the power still available, mixture **full (voll-reich)** at the corresponding speed for **best rate of climb** to the selected cruise altitude
-2. **Cruise** to the destination at the corresponding **power and mixture setting**
-3. **45 minutes reserve** at the same altitude and power setting
-4. All data are based on **52 gal (196 L)** of usable fuel, **standard atmosphere conditions**, and **zero wind (0-Wind)**
+1. Climb to 3,000 ft at full rated power, then climb at reduced power (reduzierte Leistung) at mixture full rich (voll-reich), maintaining the speed for best rate of climb (beste Steigrate) up to the selected cruise altitude (gewählte Reiseflughöhe)
+2. Cruise (Reiseflug) to the destination with the corresponding power (Leistung) and mixture (Gemisch) setting (Regelung)
+3. 45 minutes reserve (Reserve) in the same altitude (Höhe) and power (Leistung) setting (Einstellung)
+4. All data (Angaben) refer to 52 gal (196 L) of usable fuel (ausfliegbar Treibstoffmenge) and the conditions of the standard atmosphere (Standardatmosphäre) and 0 wind (O-Wind)
 
-Take-off weight: **1,144 kg or 997 kg**.
+Take-off weight (Abfluggewicht): **1144 kg or 997 kg**
 
-The data in the tables were derived from **flight tests** in which the mixture was kept **full (voll-reich)** at power settings **above 75%**, and at power settings **below 75%**, a mixture for **best engine power (siehe Seite 4-11)** was used.
+The data in the tables were derived from flight tests (Flugtests) in which the mixture (Gemischregelung) was kept rich (voll-reich) at power (Leistungen) settings above 75%, and at power (Leistungen) settings below 75%, a mixture for best engine power (beste Motorleistung) was flown (see p. 4-11).
 
 *(Page 5-8)*
 
