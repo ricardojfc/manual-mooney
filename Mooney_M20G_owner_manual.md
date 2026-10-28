@@ -1209,7 +1209,7 @@ All performance tables and charts in this manual are presented to allow **quick 
 - **Flaps retracted**
 - **Full power, 2,700 rpm**
 
-| Standard height in thousands of feets | Rate of climb at 997 kg (ft/min) | Rate of climb at 1144 kg (ft/min) | Speed for best climb angle (Vx) (CAS) mph | Speed for best rate of climb (Vy) (CAS) mph |
+| Standard height in thousands of feets | Rate of climb at 997 kg (ft/min) | Rate of climb at 1144 kg (ft/min) | Speed for best climb angle (Vx) (CAS) mph (kts) | Speed for best rate of climb (Vy) (CAS) mph (kts) |
 |---|---:|---:|---:|---:|
 | Mean sea level | 1100 | 870 | 82 (71) | 100 (87) |
 | 1 | 1040 | 810 | 82 (71) | 99 (86) |
