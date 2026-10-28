@@ -1198,25 +1198,33 @@ All performance tables and charts in this manual are presented to allow **quick 
 *(Page 5-4)*
 
 ---
-## Page 45 (German – chart page – Climb performance)
+## Page 45 (Climb performance)
 
-### Steigleistung (Climb Performance)
+### Climb Performance
 
-**Steigbedingungen (Climb conditions):**
+**Climb conditions:**
 
-- **Gear retracted (Fahrwerk eingezogen)**
-- **Mixture full-rich (Gemisch voll-reich)**
-- **Flaps retracted (Klappen eingefahren)**
-- **Full power, 2,700 rpm (Vollleistung 2700 U/min)**
+- **Gear retracted**
+- **Mixture full-rich**
+- **Flaps retracted**
+- **Full power, 2,700 rpm**
 
-*Chart-graphic page. No data table is printed in the source — the values below are **curve-read estimates** (±50 ft/min) taken from the two climb-rate charts (left: 997 kg, right: 1,144 kg) on the page. Read exact values from the curves at the required altitude (Höhe) for a specific weight.*
-
-| Height (Höhe) | 997 kg — Steigleistung ft/min | 1,144 kg — Steigleistung ft/min |
-|---------------|------------------------------:|--------------------------------:|
-| 0 (sea level) | ~950 | ~800 |
-| 2,500 | ~700 | ~600 |
-| 5,000 | ~550 | ~400 |
-| 7,500 | ~400 | ~300 |
+| Standard height in thousands of feets | Rate of climb at 997 kg (ft/min) | Rate of climb at 1144 kg (ft/min) | Speed for best climb angle (Vx) (CAS) mph | Speed for best rate of climb (Vy) (CAS) mph |
+|---|---:|---:|---:|---:|
+| Mean sea level | 1100 | 870 | 82 (71) | 100 (87) |
+| 1 | 1040 | 810 | 82 (71) | 99 (86) |
+| 2 | 970 | 750 | 82 (71) | 98 (85) |
+| 3 | 900 | 690 | 82 (71) | 97 (84) |
+| 4 | 830 | 630 | 82 (71) | 95 (83) |
+| 5 | 760 | 570 | 82 (71) | 94 (82) |
+| 6 | 690 | 510 | 82 (71) | 93 (81) |
+| 7 | 620 | 450 | 82 (71) | 90 (78) |
+| 8 | 560 | 390 | 82 (71) | 89 (77) |
+| 9 | 490 | 330 | 82 (71) | 89 (77) |
+| 10 | 420 | 270 | 82 (71) | 87 (76) |
+| 11 | 350 | 210 | 82 (71) | 86 (75) |
+| 12 | 280 | 150 | 82 (71) | 84 (73) |
+| 13 | 110 | 90 | 82 (71) | 83 (72) |
 
 *(Page 5-5)*
 
