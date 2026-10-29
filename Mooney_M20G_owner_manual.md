@@ -1268,63 +1268,33 @@ The data is also based on 52 gallons (197 L) of usable fuel, standard atmosphere
 
 ---
 
-## Page 49 (German – cruise and range performance, document page 5-9)
+## Page 49 (Cruise and range performance, sea level (0 ft) at 15 °C)
 
-**REISE- und REICHWEITELEISTUNG – Meereshöhe (0 ft) bei 15 °C** (Cruise and range performance – sea level (0 ft), 15 °C)
-
-*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
-
-![Cruise and range performance – sea level (0 ft), 15 °C (doc. page 5-9)](png/p049.png)
-
-*(document page 5-9)*
+![Cruise and range performance – sea level (0 ft), 15 °C (PDF p.77)](png/p049_en.png)
 
 ---
 
-## Page 50 (German – cruise and range performance, document page 5-10)
+## Page 50 (Cruise and range performance, 2,500 ft at 10 °C)
 
-**REISE- und REICHWEITELEISTUNG – 2500 ft bei 10 °C** (Cruise and range performance – 2,500 ft, 10 °C)
-
-*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
-
-![Cruise and range performance – 2,500 ft, 10 °C (doc. page 5-10)](png/p050.png)
-
-*(document page 5-10)*
+![Cruise and range performance – 2,500 ft, 10 °C (PDF p.78)](png/p050_en.png)
 
 ---
 
-## Page 51 (German – cruise and range performance, document page 5-11)
+## Page 51 (Cruise and range performance, 5,000 ft at 5 °C)
 
-**REISE- und REICHWEITELEISTUNG – 5000 ft bei 5 °C** (Cruise and range performance – 5,000 ft, 5 °C)
-
-*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
-
-![Cruise and range performance – 5,000 ft, 5 °C (doc. page 5-11)](png/p051.png)
-
-*(document page 5-11)*
+![Cruise and range performance – 5,000 ft, 5 °C (PDF p.79)](png/p051_en.png)
 
 ---
 
-## Page 52 (German – cruise and range performance, document page 5-12)
+## Page 52 (Cruise and range performance, 7,500 ft at 0 °C)
 
-**REISE- und REICHWEITELEISTUNG – 7500 ft bei 0 °C** (Cruise and range performance – 7,500 ft, 0 °C)
-
-*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
-
-![Cruise and range performance – 7,500 ft, 0 °C (doc. page 5-12)](png/p052.png)
-
-*(document page 5-12)*
+![Cruise and range performance – 7,500 ft, 0 °C (PDF p.80)](png/p052_en.png)
 
 ---
 
-## Page 53 (German – cruise and range performance, document page 5-13)
+## Page 53 (Cruise and range performance, 10,000 ft at −5 °C)
 
-**REISE- und REICHWEITELEISTUNG – 10.000 ft bei −5 °C** (Cruise and range performance – 10,000 ft, −5 °C)
-
-*Page reproduced as the original scan – the performance table is not OCR‑translated, to guarantee fidelity of all values.*
-
-![Cruise and range performance – 10,000 ft, −5 °C (doc. page 5-13)](png/p053.png)
-
-*(document page 5-13)*
+![Cruise and range performance – 10,000 ft, −5 °C (PDF p.81)](png/p053_en.png)
 
 
 ---
