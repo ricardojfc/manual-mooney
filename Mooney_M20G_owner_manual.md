@@ -1453,11 +1453,9 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 62 (German – form, rotated, partly legible)
+## Page 62 (CG limit diagram / weight-moment table – rotated, partly legible)
 
-### 6‑9 CG Limit Diagram / Weight-Moment Table
-
-> [CG limit diagram with weight and moment values. Station values partially legible. This is the actual CG limit chart for the M20G. **Refer to the original AFM.**]
+![Page 62 – CG limit diagram / weight-moment table (6-9, rotated, partly legible)](png/p062_de.png)
 
 ---
 ## Page 63 (German – form – official weighing report for D-ELCP)
