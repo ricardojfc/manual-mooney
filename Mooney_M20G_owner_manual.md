@@ -1239,7 +1239,7 @@ All performance tables and charts in this manual are presented to allow **quick 
 ### Stall speeds at power off
 
 
-![Table 2 - Stall speeds at idle](png/p046a_t2_en.png)
+![Table 2 - Stall speeds at power off](png/p046a_t2_en.png)
 
 *(Page 5-6)*
 
