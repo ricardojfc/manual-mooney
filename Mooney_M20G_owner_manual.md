@@ -1488,29 +1488,28 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 68 (German – translated – Section 7 TOC)
+## Page 68 (Section 7 – Controls)
 
-### Section 7 – Systems (Bedienelemente / Systeme)
+### Section 7 – Bedienelemente
 
-**Abb. Instrumentenbrett** (figure: instrument panel) – p. 7‑2
-
-| Sub-section | Pages |
+| Description | Pages |
 |---|---|
-| Beschreibung Instrumentenbrett (instrument panel description) | 7‑3 to 7‑4 |
-| SEIDO WOFK (radio) | 7‑5 |
-| UMAR YRC (transponder) | 7‑5 |
-| BOURI INSYSTGM (fuel system) | 7‑6 |
-| OL SYSTEM (oil) | 7‑6 |
-| Triebwerkskühlung (engine cooling) | 7‑8 |
-| VAKUUM SYSTEM (vacuum) | 7‑6 |
-| Flugüberwachungsinstrumente (flight monitoring instruments) | 7‑6 to 7‑9 |
-|hmmung (trim) | 7‑9 |
-| Landeklappen (flaps) | 7‑9 |
-| Fahrwerk (landing gear) | 7‑10 to 7‑11 |
-| Notausfahrstation (emergency extension) | 7‑11 |
-| Brems- und Lenksystem (brake and steering system) | 7‑11 |
-| Elektrisches System (electrical system) | 7‑12 to 7‑15 |
-| Kabine (cabin) | 7‑15 to 7‑16 |
+| Figure: instrument panel | 4 |
+| Description: instrument panel | 7-3 to 7-4 |
+| Engine | 7-5 |
+| Ignition system | 7-5 |
+| Fuel system | 7-6 |
+| Oil system | 7-6 |
+| Engine cooling | 7-6 |
+| Vacuum system | 7-6 |
+| Flight monitoring instruments | 7-6 to 7-9 |
+| Trim | 7-9 |
+| Flaps | 7-9 |
+| Landing gear | 7-10 to 7-11 |
+| Emergency extension system | 7-11 |
+| Brake and steering system | 7-11 |
+| Electrical system | 7-12 to 7-15 |
+| Cabin | 7-15 to 7-16 |
 
 ---
 
