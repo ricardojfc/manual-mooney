@@ -1236,7 +1236,7 @@ All performance tables and charts in this manual are presented to allow **quick 
 Converts indicated airspeed (IAS) to true airspeed (TAS) by power setting and altitude.
 IAS values are in mph/knots.
 
-![Table 1 - Airspeedometer correction](png/p046a_t1_de.png)
+![Table 1 - Airspeedometer correction](png/p046a_t1_en.png)
 
 ### Stall speeds at idle
 
@@ -1247,7 +1247,7 @@ Stall speed with the engine at idle power. Table conditions (per source footnote
 3. Airspeeds given in mph and knots (IAS / TAS)
 4. **Forward CG**
 
-![Table 2 - Stall speeds at idle](png/p046a_t2_de.png)
+![Table 2 - Stall speeds at idle](png/p046a_t2_en.png)
 
 *(Page 5-6)*
 
