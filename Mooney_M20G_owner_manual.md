@@ -1298,26 +1298,24 @@ The data is also based on 52 gallons (197 L) of usable fuel, standard atmosphere
 
 
 ---
-## Page 54 (German – Section VI TOC: Weight and Loading (Gewicht und Beladung))
+## Page 54 (Section VI TOC: Weight and Loading)
 
-### Abschnitt VI – Gewicht und Beladung (Section VI – Weight and Loading) — table of contents (Inhaltsverzeichnis)
+### Section VI — Weight and Loading — table of contents
 
-| German (original) | English | Page |
-|---|---|---|
-| Einleitung | Introduction | 6‑2 |
-| **Teil 1 — Ausrüstungsliste und berigihtare Leergewichtsdaten** | **Part 1 — Equipment list and corrected empty-weight data** | 6‑3 bis 6‑4 |
-| &nbsp;&nbsp;Ausrüstungs‑Checkliste | &nbsp;&nbsp;Equipment checklist | 6‑3 bis 6‑4 |
-| &nbsp;&nbsp;Ausrüstung, die nach der Grund‑wägung ein‑ oder ausgebaut wurden | &nbsp;&nbsp;Equipment installed or removed after the initial weighing (Grundwägung) | 6‑5 |
-| **Teil 2 — Berechnung eines Beladeplanes** | **Part 2 — Calculation of a loading plan** | 6‑6 |
-| &nbsp;&nbsp;Berechnung der Schwerpunktlage | &nbsp;&nbsp;Calculation of the center of gravity (CG) position | 6‑7 |
-| &nbsp;&nbsp;Diagramm: Fluggewichtsmoment | &nbsp;&nbsp;Diagram: aircraft weight‑and‑moment | 6‑8 |
-| &nbsp;&nbsp;Diagramm: Schwerpunktlage | &nbsp;&nbsp;Diagram: center of gravity (CG) position | 6‑9 |
-| **Teil 3 — Gewichts‑ und Schwerpunktlagebericht** | **Part 3 — Weight and CG report** | 6‑10 |
-| &nbsp;&nbsp;Berichtigtes Leergewicht und zugehörige Schwerpunktlage | &nbsp;&nbsp;Corrected empty weight and corresponding CG position | 6‑10 |
+| English | Page |
+|---|---|
+| Introduction | 6‑2 |
+| **Part 1 — Equipment list and corrected empty-weight data** | 6‑3 to 6‑4 |
+| &nbsp;&nbsp;Equipment checklist | 6‑3 to 6‑4 |
+| &nbsp;&nbsp;Equipment installed or removed after the initial weighing | 6‑5 |
+| **Part 2 — Calculation of a loading plan** | 6‑6 |
+| &nbsp;&nbsp;Calculation of the center of gravity (CG) position | 6‑7 |
+| &nbsp;&nbsp;Diagram: aircraft weight‑and‑moment | 6‑8 |
+| &nbsp;&nbsp;Diagram: center of gravity (CG) position | 6‑9 |
+| **Part 3 — Weight and CG report** | 6‑10 |
+| &nbsp;&nbsp;Corrected empty weight and corresponding CG position | 6‑10 |
 
-*Layout of the directory page: "Abschnitt VI — Gewicht und Beladung" (section title, top) with a right-hand "Seite" (page) column. Part headings are indented with their entries beneath.*
 
-*SIC note: the source types the empty-weight word as "Leergewichtsdaten" (Leerge‑]gewichts-daten); "Fluggewichtsmoment" = flight weight‑and‑moment (combined weight/m.r. diagram).*
 
 ---
 ## Page 55 (German – translated – Weight and loading intro)
