@@ -1447,11 +1447,9 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 61 (German – form / chart mostly illegible)
+## Page 61 (Weight-and-moment chart – mostly handwritten, illegible)
 
-### 6‑8 Aircraft Weight-Moment Diagram
-
-> [CG/weight-moment chart. Form header "Hebelarme in cm" (high-length moment arms in cm), "Einzelgewichte in kg und lbs" (individual weights in kg and lbs). Seats 1 and 2 (front) legible. **Most of the chart is handwritten – refer to the original AFM.**]
+![Page 61 – Weight-and-moment chart (6-8, handwritten form)](png/p061_de.png)
 
 ---
 
