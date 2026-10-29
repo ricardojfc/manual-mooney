@@ -1231,23 +1231,15 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 46 (Airspeed correction, stall speeds)
 
-### Air speed indicator correction (IAS → TAS)
+### Air speed indicator correction (IAS → CAS)
 
-Converts indicated airspeed (IAS) to true airspeed (TAS) by power setting and altitude.
-IAS values are in mph/knots.
 
-![Table 1 - Airspeedometer correction](png/p046a_t1_de.png)
+![Table 1 - Airspeedometer correction](png/p046a_t1_en.png)
 
-### Stall speeds at idle
+### Stall speeds at power off
 
-Stall speed with the engine at idle power. Table conditions (per source footnote):
 
-1. Engine at idle power
-2. Take-off weight **1144 kg**
-3. Airspeeds given in mph and knots (IAS / TAS)
-4. **Forward CG**
-
-![Table 2 - Stall speeds at idle](png/p046a_t2_de.png)
+![Table 2 - Stall speeds at power off](png/p046a_t2_en.png)
 
 *(Page 5-6)*
 
@@ -1257,20 +1249,20 @@ Stall speed with the engine at idle power. Table conditions (per source footnote
 ![Altitude Conversion](png/p047_de.png)
 
 ---
-## Page 48 (German – translated – Cruise and range conditions)
+## Page 48 (Cruise and range conditions)
 
-### Reiseflug- und Reichweitebedingungen (Cruise and Range Conditions)
+### Cruise and Range Conditions
 
 All cruise and range data in the tables in **Section V** include:
 
-1. **Climb at full power to 3,000 ft**, continued climb at the power still available, mixture **full (voll-reich)** at the corresponding speed for **best rate of climb** to the selected cruise altitude
-2. **Cruise** to the destination at the corresponding **power and mixture setting**
-3. **45 minutes reserve** at the same altitude and power setting
-4. All data are based on **52 gal (196 L)** of usable fuel, **standard atmosphere conditions**, and **zero wind (0-Wind)**
+1. Climb to 3,000 ft at full rated power, then climb at reduced power at mixture full rich, maintaining the speed for best rate of climb up to the selected cruise altitude.
+2. Cruise to the destination with the corresponding power and mixture setting.
+3. 45 minutes reserve in the same altitude and power setting.
+4. All data refer to 52 gal (196 L) of usable fuel and the conditions of the standard atmosphere and 0 wind.
 
-Take-off weight: **1,144 kg or 997 kg**.
+Take-off weight: **1144 kg or 997 kg**
 
-The data in the tables were derived from **flight tests** in which the mixture was kept **full (voll-reich)** at power settings **above 75%**, and at power settings **below 75%**, a mixture for **best engine power (siehe Seite 4-11)** was used.
+The data in the tables were derived from flight tests in which the mixture was kept rich at power settings above 75%, and at power settings below 75%, a mixture for best engine power was flown (see p. 4-11).
 
 *(Page 5-8)*
 
