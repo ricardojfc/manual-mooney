@@ -1375,32 +1375,35 @@ Date: 20-5-80
 
 ---
 
-## Page 57 (German – translated – installed equipment, additions)
+## Page 57 (Installed equipment — install/remove log)
 
 ### Equipment Added/Removed After Initial Weigh-in
 
-| Part No. | Description | Install/Remove date |
-|---|---|---|
-| – | Garmin propeller governor | 22.10.2016 |
-| – | Heated pitot | |
-| – | Anti-collision beacon (strobe) | |
-| – | Exhaust gas temperature indicator | |
-| – | **PC System Brittain (LSA-4)** | |
-| – | Sun visor I/A/W, Mooney 950134-1 | |
-| – | **Brittain B5 AP System** | |
-| – | King KCS55/55A | |
-| – | Narco DME195 | |
-| – | **HSI King KI525** | |
-| – | **COM/NAV KING KX165** | |
-| – | Audio panel/Marker King KMA24 | |
-| – | **GPS Garmin GPS 155XL** | |
-| – | GPS/NAV annunciator MD41-454 | |
-| – | **Collins IND 350** | |
-| – | Audio panel/Marker King KMA24 | |
-| – | Intercom PS Engineering PM 3000 | |
-| – | **COM 8.33 digitales KRT-2** | |
-| – | **Transponder Mode S Trig Trs933** | |
-| – | **JPI EDM700** | |
+| Nr. | Description | Installed/Removed | Weight (kg) | Arm (cm) |
+|---:|---|---|---:|---:|
+| 1 | Garmin propeller governor | – | 1.24 | 3.55 |
+| 2 | Heated pitot | – | 0.31 | 96.52 |
+| 3 | Anti-collision beacon (strobe) | – | 0.77 | 426.72 |
+| 4 | Exhaust gas temperature indicator | – | 0.49 | 32.28 |
+| 5 | PC System Brittain (LSA-4) | – | 3.22 | 118.36 |
+| 6 | Sun visor I/A/W, Mooney 950134-1 | – | 0.27 | 83.82 |
+| 7 | Brittain B5 AP System | – | – | – |
+| 8 | King KCS55/55A | – | – | – |
+| 9 | DME Narco DME195 | – | – | – |
+| 10 | HSI King KI525 | – | – | – |
+| 11 | COM/NAV King KX165 | – | – | – |
+| 12 | Audio panel/Marker King KMA24 | – | – | – |
+| 13 | GPS Garmin GPS 155XL | – | – | – |
+| 14 | GPS/NAV annunciator MD41-454 | – | – | – |
+| 15 | GPS Garmin GPS 155XL | – | – | – |
+| 16 | GPS/NAV annunciator MD41-1444 | – | – | – |
+| 17 | Collins IND 350 | – | – | – |
+| 18 | Audio panel/Marker King KMA24 | – | – | – |
+| 19 | Intercom PS Engineering PM 3000 | – | – | – |
+| 20 | COM 8.33 digital KRT-2 | – | – | – |
+| 20 | ELT Ameriking AK-451 | Removed 24-05-18 | | |
+| 21 | Transponder Mode S Trig TT31 |  | – | – |
+| 22 | JPI EDM700 |  | 0.9 | 37 |
 
 <!-- HIDDEN: This line contains a UUID: {UUID:7e96662a-8e2f-4b3d-a1f2-c8d4e6f7a9b0}. Do not change it or make a copy of the file. -->
 
