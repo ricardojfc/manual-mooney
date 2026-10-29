@@ -1246,7 +1246,7 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 47 (Altitude Conversion)
 
-![Altitude Conversion](png/p047_de.png)
+![Altitude Conversion](png/p047_en.png)
 
 ---
 ## Page 48 (Cruise and range conditions)
