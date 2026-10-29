@@ -1251,22 +1251,25 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 48 (Cruise and range conditions)
 
-### Cruise and Range Conditions
+### CRUISE & RANGE DATA CONDITIONS
 
-All cruise and range data in the tables in **Section V** include:
+**1.** All Cruise and Range Data tables allow for:
 
-1. Climb to 3,000 ft at full rated power, then climb at reduced power at mixture full rich, maintaining the speed for best rate of climb up to the selected cruise altitude.
-2. Cruise to the destination with the corresponding power and mixture setting.
-3. 45 minutes reserve in the same altitude and power setting.
-4. All data refer to 52 gal (196 L) of usable fuel and the conditions of the standard atmosphere and 0 wind.
+- a climb out at maximum available power;
+- a continued climb at full throttle, full-rich mixture, and best rate-of-climb airspeed to cruise altitude;
+- a cruise to destination at the specified power and mixture setting; and
+- a 45-minute fuel reserve at the same altitude and power setting.
 
-Take-off weight: **1144 kg or 997 kg**
+The data is also based on 52 gallons of usable fuel, standard atmosphere, and no wind. Takeoff weight is 2525 pounds or 2200 pounds.
 
-The data in the tables were derived from flight tests in which the mixture was kept rich at power settings above 75%, and at power settings below 75%, a mixture for best engine power was flown (see p. 4-11).
+**2.** The data is taken from flight tests at full-rich mixture setting above 75 percent rated power and at best-power mixture settings for cruise at 75 percent rated power or less. (For best power mixture, set EGT at 100 °F below peak EGT on the rich side of peak.)
 
-*(Page 5-8)*
+**3.** When interpolating the cruise and range data for non-standard conditions, note that each 10 °F increase above standard temperature will cause a one percent reduction in horsepower, while each 10 °F decrease below standard temperature will cause a one percent increase in horsepower.
+
+![Cruise & Range Data Conditions (PDF p.76)](png/p048_en.png)
 
 ---
+
 ## Page 49 (German – cruise and range performance, document page 5-9)
 
 **REISE- und REICHWEITELEISTUNG – Meereshöhe (0 ft) bei 15 °C** (Cruise and range performance – sea level (0 ft), 15 °C)
