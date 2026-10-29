@@ -1246,7 +1246,11 @@ All performance tables and charts in this manual are presented to allow **quick 
 ---
 ## Page 47 (Altitude Conversion)
 
-![Altitude Conversion](png/p047_de.png)
+Formula: **TAS = CAS × V<sub>P</sub>**
+
+Example: if ambient temp is 80°F and pressure altitude is 4000 ft, standard altitude is 6000 ft and the factor 1/√Vₚ is **1.093**.
+
+![Altitude Conversion](png/p047_en.png)
 
 ---
 ## Page 48 (Cruise and range conditions)
