@@ -1318,9 +1318,9 @@ The data is also based on 52 gallons (197 L) of usable fuel, standard atmosphere
 
 
 ---
-## Page 55 (German – translated – Weight and loading intro)
+## Page 55 (Weight and loading intro)
 
-### Weight and Loading –
+### Weight and Loading
 ### Introduction
 
 It is the pilot's responsibility to verify the correct loading of the aircraft. The data on the following pages allow you to confirm that the aircraft is loaded in accordance with the loading plan.
@@ -1331,57 +1331,47 @@ The **maximum take-off weight** of the Mooney M20G is **1,144 kg**. Payload is o
 
 ---
 
-## Page 56 (German – translated – equipment list)
+## Page 56 Equipment list
 
-*Printed page 6-3 · „Ausrüstungsverzeichnis und berigihtete Leergewichtsdaten“ (Equipment List and Corrected Empty Weight Data)*
 
-### Part 1 — Ausrüstungsverzeichnis und berigihtete Leergewichtsdaten (Equipment List and Corrected Empty Weight Data)
+### Part 1 — Equipment List and Corrected Empty Weight Data
 
-**Ausrüstungsverzeichnis** (Equipment List)
+Equipment List
 
-*Die mit einem **x** versehenen Teile sind fabrikinstalliert und im Basis-Leergewicht enthalten.*
-→ Items marked with an **x** are **factory-installed** and included in the **base empty weight**.
+Items marked with an **x** are **factory-installed** and included in the **base empty weight**.
 
-Kennzeichen (Registration): **D-ELCP** (handwritten; filing marks partly worn)
-Serien-Nr. (Serial No.): **680940** (handwritten; middle digits slightly faded)
-Datum (Date): **__.__.04** (handwritten)
+Registration: **D-ELCP** 
+Serial No.: **680940**
+Date: 20-5-80
 
-| Teil-Bezeichnung (Item / Description) | Gewicht (kg) | Arm (cm) | x (factory) |
+| Item / Description | Weight (kg) | Arm (cm) | x (factory) |
 |---|---|---|:---:|
-| 1. Constant Speed Propeller, Modell Hartzell HC-C2YK-1, mit Blättern (7666-2) — constant-speed prop, Hartzell HC-C2YK-1, blades 7666-2 | 24.38 | 89.30 | x |
-| 2. Mooney Spinner — Mooney spinner cone | 1.63 | 86.81 | x |
-| 3. Hartzell Propellerregler (H1) — Hartzell propeller governor (H1) | 2.04 | 3.55 | — |
-| 4. Benzin-Pumpen: (fuel pumps:) | | | |
-| &nbsp;&nbsp;Motorgetrieben (engine-driven) | 0.72 | 9.65 | x |
-| &nbsp;&nbsp;elektrisch, Dukes (electric, Dukes) | 0.86 | 16.51 | x |
-| 5. Öl-Kühler, Stewart Warner — oil cooler, Stewart Warner | 1.08 | 58.42 | x |
-| 6. Ansaugluft-Filter — induction air filter | 0.45 | 62.23 | x |
-| 7. Anlasser, Prestolite — starter, Prestolite | 8.07 | 58.42 | x |
-| 8. Hauptfahrwerksbremssystem — main gear brake system | 6.98 | 169.67 *[unclear: trailing digits cannot be fully resolved]* | x |
-| 9. Hauptfahrwerksreifen 6.00-6 — main gear tyres 6.00-6 | 7.71 | 169.67 *[unclear: same as above]* | x |
-| 10. Bugrad 5.00-5 — nose wheel 5.00-5 | 1.17 | 14.47 | x |
-| 11. Bugrad Reifen und Schlauch — nose wheel tyre and tube | 3.17 | 14.47 | x |
-| 12. Lichtmaschine 50 Amp. — generator 50 A | 7.52 | 62.23 | — |
-| 13. Lichtmaschine 60 Amp. — alternator 60 A | 4.33 | 62.23 | x |
-| 14. Batterie 35 Ah — battery 35 Ah | 12.74 | 6.35 | x |
-| 15. Spannungsregler 50 Amp. — voltage regulator 50 A | 0.9? *[faded]* | 5.08 | — |
-| 16. Überziehwarnanzeiger — stall warning indicator | 0.58 | 10.16 | x |
-| 17. Unterdrucksystem — vacuum system | 2.88 | 5.96 | x |
-| 18. Instrumente: (instruments:) | | | |
-| &nbsp;&nbsp;Künstl. Horizont (artificial horizon) | 0.81 | 35.56 | x |
-| &nbsp;&nbsp;Kreiselkompaß (gyro compass) | 0.? *[faded]* | 38.10 *[unclear]* | x |
-| &nbsp;&nbsp;Zeituhr (clock) | 0.18 *[unclear]* | 64.77 | x |
-| &nbsp;&nbsp;Außentemperatur-Anzeige (outside-air temperature indicator) | *[unreadable in scan]* | *[unreadable]* | — |
-| &nbsp;&nbsp;Variometer (altimeter/vertical-speed indicator) | *[see next page]* | *[see next page]* | — |
-| &nbsp;&nbsp;Wendeanzeiger (turn coordinator) | 1.31 | 41.91 | x |
-
-*Observations:*
-* Rows 8–9 (brake system / main tyres) show an arm value in all readings, but the last 2–3 digits are blurred by the scan (plausible read: 169.67 cm); the actual installation arm should be taken from the original.
-* The rows „Spannungsregler“, „Kreiselkompaß“ and „Zeituhr“ have faint numeric cells, and the row „Außentemperatur-Anzeige“ is almost completely illegible in the scan (only the instrument name is legible).
-* The row „Variometer“ continues on the next page (6-4, page 57).
-* The register (Kennzeichen), serial number and date are handwritten; where there are scanning artifacts, this is explicitly stated.
-
-Printed page number: **6-3** (centre bottom).
+| 1. Constant Speed Propeller, Modell Hartzell HC-C2YK-1, blades 7666-2 | 24.38 | 89.30 | x |
+| 2. Mooney spinner cone | 1.63 | 86.81 | x |
+| 3. Hartzell propeller governor (H1) | 2.04 | 3.55 | — |
+| 4. Fuel pumps: | | | |
+| &nbsp;&nbsp;Engine-driven | 0.72 | 9.65 | x |
+| &nbsp;&nbsp;Electric, Dukes | 0.86 | 16.51 | x |
+| 5. Oil cooler, Stewart Warner | 1.08 | 58.42 | x |
+| 6. Induction air filter | 0.45 | 62.23 | x |
+| 7. Starter, Prestolite | 8.07 | 58.42 | x |
+| 8. Main gear brake system | 6.98 | 169.67 | x |
+| 9. Main gear tyres 6.00-6 | 7.71 | 169.67 | x |
+| 10. Nose wheel 5.00-5 | 1.17 | 14.47 | x |
+| 11. Nose wheel tyre and tube | 3.17 | 14.47 | x |
+| 12. Generator 50 A | 7.52 | 62.23 | — |
+| 13. Alternator 60 A | 4.33 | 62.23 | x |
+| 14. Battery 35 Ah | 12.74 | 6.35 | x |
+| 15. Voltage regulator 50 A | 0.9 | 5.08 | — |
+| 16. Stall warning indicator | 0.54 | 10.16 | x |
+| 17. Vacuum system | 2.88 | 5.96 | x |
+| 18. Instruments: | | | |
+| &nbsp;&nbsp;Artificial horizon | 0.81 | 35.56 | x |
+| &nbsp;&nbsp;Gyro compass | 0.9 | 38.10 | x |
+| &nbsp;&nbsp;Clock | 0.18 | 64.77 | x |
+| &nbsp;&nbsp;Outside-air temperature indicator) | 0.09 | 71.12 | — |
+| &nbsp;&nbsp;Vertical-speed indicator | 0.45 | 40.64 | — |
+| &nbsp;&nbsp;Turn coordinator | 1.31 | 41.91 | x |
 
 ---
 
