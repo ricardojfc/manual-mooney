@@ -1305,8 +1305,8 @@ The data is also based on 52 gallons (197 L) of usable fuel, standard atmosphere
 | English | Page |
 |---|---|
 | Introduction | 6‑2 |
-| **Part 1 — Equipment list and corrected empty-weight data** | 6‑3 bis 6‑4 |
-| &nbsp;&nbsp;Equipment checklist | 6‑3 bis 6‑4 |
+| **Part 1 — Equipment list and corrected empty-weight data** | 6‑3 to 6‑4 |
+| &nbsp;&nbsp;Equipment checklist | 6‑3 to 6‑4 |
 | &nbsp;&nbsp;Equipment installed or removed after the initial weighing | 6‑5 |
 | **Part 2 — Calculation of a loading plan** | 6‑6 |
 | &nbsp;&nbsp;Calculation of the center of gravity (CG) position | 6‑7 |
