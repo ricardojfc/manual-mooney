@@ -1409,26 +1409,27 @@ Date: 20-5-80
 
 ---
 
-## Page 58 (German – translated – equipment added after initial weigh-in)
+## Page 58 (Equipment installed/removed after initial weigh-in)
 
-### Equipment Added or Removed After Initial Weigh-in
+**Ausrüstung, die nach der Grundwägung ein- oder ausgebaut wurde**
 
-The following equipment was factory-installed after the initial weigh-in, or has been removed:
+Equipment installed (ein- oder ausgebaut) **at the factory** after the initial weigh-in, listed below.
 
-Kennzeichen: D-ELCP
-Serien-Nr.: 680070
+Kennzeichen: **D-ELCP**
+Serien-Nr.: **680070**
 
-| Item | Description |
-|---|---|
-| 1 | (7.5 litres) – Fuel (full) – weight and moment added/subtracted |
+| Pos. | Description | Arm (cm) | Moment (kg·cm/1000) |
+|---:|---|---:|---:|
+| 1 | Fuel (full) — 7.5 L added/subtracted | — | — |
 
-**Corrected empty weight — as delivered from factory**
-**Empty weight — after first weighing**
-**Weights added or subtracted**
+> [Table body as an image: see `png/p058_en.png`.]
 
-Table: 112.77 kg-m/1000 (fuel full)
+**Totals (handwritten):**
+- Leergewicht bei erster Wägung (empty weight after first weighing): **565.46 kg · arm 112.77 cm · moment 97597.92**
+- Gewichte zugezogen / abgezogen (weight added / removed): **−18.23 kg**
+- Berichtigtes Leergewicht wie ausgeliefert (corrected empty weight as delivered): *(value not legible in the original scan)*
 
-> [Handwritten / factory data. **Refer to the original AFM for exact figures.**]
+*(document page 6-5)*
 
 ---
 
