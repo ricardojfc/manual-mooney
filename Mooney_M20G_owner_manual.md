@@ -1266,8 +1266,6 @@ The data is also based on 52 gallons of usable fuel, standard atmosphere, and no
 
 **3.** When interpolating the cruise and range data for non-standard conditions, note that each 10 °F increase above standard temperature will cause a one percent reduction in horsepower, while each 10 °F decrease below standard temperature will cause a one percent increase in horsepower.
 
-![Cruise & Range Data Conditions (PDF p.76)](png/p048_en.png)
-
 ---
 
 ## Page 49 (German – cruise and range performance, document page 5-9)
