@@ -1260,11 +1260,11 @@ All performance tables and charts in this manual are presented to allow **quick 
 - a cruise to destination at the specified power and mixture setting; and
 - a 45-minute fuel reserve at the same altitude and power setting.
 
-The data is also based on 52 gallons of usable fuel, standard atmosphere, and no wind. Takeoff weight is 2525 pounds or 2200 pounds.
+The data is also based on 52 gallons (197 L) of usable fuel, standard atmosphere, and no wind. Takeoff weight is 2525 pounds (1145 kg) or 2200 pounds (998 kg).
 
 **2.** The data is taken from flight tests at full-rich mixture setting above 75 percent rated power and at best-power mixture settings for cruise at 75 percent rated power or less. (For best power mixture, set EGT at 100 °F below peak EGT on the rich side of peak.)
 
-**3.** When interpolating the cruise and range data for non-standard conditions, note that each 10 °F increase above standard temperature will cause a one percent reduction in horsepower, while each 10 °F decrease below standard temperature will cause a one percent increase in horsepower.
+**3.** When interpolating the cruise and range data for non-standard conditions, note that each 10 °F (5.6 °C) increase above standard temperature will cause a one percent reduction in horsepower, while each 10 °F (5.6 °C) decrease below standard temperature will cause a one percent increase in horsepower.
 
 ---
 
