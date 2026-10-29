@@ -1441,11 +1441,9 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 60 (German – weight/moment form, rotated, partial)
+## Page 60 (Weight-and-moment form – rotated, partial)
 
-### Weight and CG Data – Form
-
-> [This is a factory weight-and-moment data sheet, rotated 90°. Recovered fragments include CG station values: 2,375 / 2,368. **Refer to the original AFM.**]
+![Page 60 – Weight and moment form (rotated, partial)](png/p060_de.png)
 
 ---
 
