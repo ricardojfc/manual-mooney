@@ -9,68 +9,67 @@
 
 ---
 
-## Page 1 (German – translated)
+## Page 1
 
-**Mooney M20G – Flight Manual (Flughandbuch)**
+**Mooney M20G – Flight Manual**
 
-Model: Mooney M20G (Flugzeugmuster)
+Model: Mooney M20G
 Manufacturer: Mooney Aircraft Corp., Kerrville, Texas 78628, USA
-Registration: D-LCP (Staatszugehörigkeits- und Eintragungszeichen)
-Airworthiness category: **Normal category (Normalflugzeug)**
+Registration: D-ELCP
+Airworthiness category: **Normal category**
 Aircraft data sheet: §55
 
 This flight manual belongs to the aircraft identified above. It must always be carried in the aircraft. The operating limits, instructions, and procedures stated herein must be followed carefully by the pilot, in his own interest.
 
-The data in this manual are taken from the **M20G Owners Manual 1968** and the **Flughandbuch M20G S/N 700005 and above**.
+The data in this manual are taken from the **M20G Owners Manual 1968**.
 
-Scope and revision status are defined in the "Verzeichnis der gültigen Seiten" (list of current pages).
+Scope and revision status are defined in the list of current pages.
 
-Transl
-ated by: AGRO Flugzeug GmbH & Co. Vertriebs KG, 8300 Landshut
+Translated by: AGRO Flugzeug GmbH & Co. Vertriebs KG, 8300 Landshut
 
 ---
 
-## Page 2 (German – cover inside)
+## Page 2 (cover inside)
 
 [Cover interior page – Mooney M20G title block and aircraft registration data. No body text.]
 
 ---
 
-## Page 3 (German – translated)
+## Page 3
 
-### Table of Contents (Inhaltsverzeichnis)
+### Table of Contents
 
 | Section | Title | Pages |
 |---|---|---|
-| I | Allgemeines (General) | 1‑1 to 1-5 |
-| II | Betriebsgrenzen (Operating Limits) |2-1 to 2-6 |
-| III | Notverfahren  (Emergency Procedures) | 3‑1 to 3‑10 |
-| IV | Normalverfahren (Normal Procedures) | 4‑1 to 4‑15 |
-| V | Leistungen (Performance) | 5‑1 to 5‑13 |
-| VI | Gewicht und Beladung (Weight and Loading) | 6‑1 to 6‑10 |
-| VII | Bedienelemente (Controls) | 7‑1 to 7‑16 |
-| VIII | Pflege und Wartung (Care and Maintenance) | 8‑1 to 8‑6 |
+| I | General | 1‑1 to 1-5 |
+| II |Operating Limits |2-1 to 2-6 |
+| III |Emergency Procedures | 3‑1 to 3‑10 |
+| IV |Normal Procedures | 4‑1 to 4‑15 |
+| V |Performance | 5‑1 to 5‑13 |
+| VI |Weight and Loading | 6‑1 to 6‑10 |
+| VII |Controls | 7‑1 to 7‑16 |
+| VIII |Care and Maintenance | 8‑1 to 8‑6 |
 
 ---
 
-## Page 4 (German – translated – Section I TOC)
+## Page 4 (Section I TOC)
 
-### Section I – General (Allgemeines)
+### Section I – General
 
 | Sub-section | Pages |
 |---|---|
-| Allgemeine Beschreibung (General description) | 1‑1 to 1‑3 |
-| Flugzeugzelle (Airframe/fuselage) | 1‑2 |
-| Triebwerk (Powerplant) | 1‑2 |
-| Fahrwerk (Landing gear) | 1‑2 to 1‑3 |
-| Kraftstoff und Öl (Fuel and Oil) | 1‑4 |
-| Eigengewicht und Zuladung (Empty weight and payload) | 1‑4 |
-| Gepäckraum (Baggage compartment) | 1‑4 |
-| Abbildung (Diagram) | 1‑5 |
+| General description | 1‑1 to 1‑3 |
+| Airframe/fuselage | 1‑2 |
+| Powerplant | 1‑2 |
+| Landing gear | 1‑2 to 1‑3 |
+| Fuel and Oil | 1‑4 |
+| Empty weight and payload | 1‑4 |
+| Baggage compartment | 1‑4 |
+| Diagram | 1‑5 |
 
 ---
 
-## Page 5 (German – translated – General description)
+## Page 5 (General description)
 
 ### General Description
 
@@ -80,7 +79,7 @@ The fuselage structure in the cabin area is reinforced with steel tubing. The la
 
 **Powerplant:** Lycoming **O‑360‑A1D**, 4‑cylinder horizontally‑opposed carburetted engine, **180 hp at 2,700 rpm**. The electrical system is supplied by either a **50‑ampere 12‑V generator** or a **60‑ampere 12‑V alternator**. The **two‑blade constant‑speed variable‑pitch propeller** is hydraulically operated.
 
-**Flight controls:** Rudder and control surface actuation is through pushrods (Gestänge). The **Mooney Positive-Control System (PC)** is standard equipment. It provides stabilisation about the longitudinal axis and, once engaged, holds any given commanded bank angle for a period of time.
+**Flight controls:** Rudder and control surface actuation is through pushrods. The **Mooney Positive-Control System (PC)** is standard equipment. It provides stabilisation about the longitudinal axis and, once engaged, holds any given commanded bank angle for a period of time.
 
 **Landing gear:** The tricycle gear provides maximum rolling mobility. **Hydraulic brakes** and a **steerable nose wheel** keep the aircraft aligned even in a strong crosswind.
 
@@ -88,7 +87,7 @@ The landing gear is **mechanically retractable**. A spring-assisted system reduc
 
 ---
 
-## Page 6 (German – translated)
+## Page 6 
 
 The **electrically retractable gear** (if fitted) has a micro-switch that prevents inadvertent retraction while the gear is loaded (airborne).
 
@@ -96,9 +95,9 @@ A **manual emergency extension system** is built in; it allows the gear to be ex
 
 ---
 
-## Page 7 (German – translated – Technical data)
+## Page 7 (Technical data)
 
-### Triebwerk (Powerplant)
+### Powerplant
 
 | Item | Specification |
 |---|---|
@@ -110,8 +109,8 @@ A **manual emergency extension system** is built in; it allows the gear to be ex
 | Propeller diameter | **74 inches (188 cm)** |
 | Blade pitch at 30 in station | **min. 13° ± 0° / max. 29° ± 2°** |
 | Landing gear | **Mechanically or electrically retractable** tricycle, rubber-disc springing, steerable nose wheel, hydraulic disc brakes |
-| Wheelbase (Radstand) | **1.617 m** |
-| Main wheel track (Spurbreite) | **2.93 m** |
+| Wheelbase  | **1.617 m** |
+| Main wheel track  | **2.93 m** |
 | Tires – nose | **3.09 × 5** |
 | Tires – mains | **6.00 × 6** |
 | Tire pressure – nose | **3.38 atm** |
@@ -121,7 +120,7 @@ A **manual emergency extension system** is built in; it allows the gear to be ex
 | Oil (total) | **8 quarts (7.5 litres)** |
 | Oil (minimum for flight) | **6 quarts** |
 
-### Gewichte und Beladung (Weights and Loading)
+### Weights and Loading
 
 | Item | Value |
 |---|---|
@@ -135,36 +134,36 @@ A **manual emergency extension system** is built in; it allows the gear to be ex
 
 ---
 
-## Page 8 (German – figure page)
+## Page 8 
 
 
 ![Page 8](png/p008.png)
 
-## Page 9 (German – translated – Section II TOC)
+## Page 9 (Section II TOC)
 
-### Section II – Operating Limits (Betriebsgrenzen)
+### Section II – Operating Limits
 
 | Sub-section | Pages |
 |---|---|
-| Geschwindigkeitsbegrenzung (Speed limits) | 2‑2 |
-| Triebwerk (Engine instruments) | 2‑2 |
-| Drehzahlmesser (Tachometer) | 2‑3 |
-| Zylinderkopftemperatur (Cylinder head temperature) | 2‑3 |
-| Öldruck (Oil pressure) | 2‑3 |
-| Benzinruck (Fuel pressure) | 2‑3 |
-| Öltemperatur (Oil temperature) | 2‑3 |
-| Unterdruck‑Warnlichter (Vacuum warning lights) | 2‑3 |
-| Start‑ und Landegewicht (Take-off and landing weight) | 2‑4 |
-| Schwerpunktlage (Centre of gravity) | 2‑4 |
-| Hinweisschilder (Placards) | 2‑4 |
-| Beladungsgrenzen (Loading limits) | 2‑4 |
-| Flugmanöver (Aerobatic manoeuvres) | 2‑5 |
-| Bedienung (Operation) | 2‑5 to 2‑6 |
-| Beladung (Loading) | 2‑6 |
+| Speed limits | 2‑2 |
+| Engine instruments | 2‑2 |
+| Tachometer | 2‑3 |
+| Cylinder head temperature | 2‑3 |
+| Oil pressure | 2‑3 |
+| Fuel pressure | 2‑3 |
+| Oil temperature | 2‑3 |
+| Vacuum warning lights | 2‑3 |
+| Take-off and landing weight | 2‑4 |
+| Centre of gravity | 2‑4 |
+| Placards | 2‑4 |
+| Loading limits | 2‑4 |
+| Aerobatic manoeuvres | 2‑5 |
+| Operation | 2‑5 to 2‑6 |
+| Loading | 2‑6 |
 
 ---
 
-## Page 10 (German – translated – Speed limits)
+## Page 10 (Speed limits)
 
 ### Operating Limits
 
@@ -198,24 +197,24 @@ FAA-approved operating limits of the Mooney M20G "Statesman". The following limi
 
 ## Page 11 (Engine monitoring instruments)
 
-### Drehzahlmesser (Tachometer)
+### Tachometer
 
 | Marking | Value |
 |---|---|
-| Red line (rote Linie) | **2,700 rpm** |
-| Green arc, narrow (Auslegungsbereich) | **2,300 – 2,700 rpm** |
-| Green arc, filled (empfohlener Betriebsbereich) | **2,300 – 2,500 rpm** |
-| Red arc, filled (kein Dauerbereich) | **2,000 – 2,250 rpm – NO CONTINUOUS OPERATION** |
+| Red line | **2,700 rpm** |
+| Green arc, narrow  | **2,300 – 2,700 rpm** |
+| Green arc, filled  | **2,300 – 2,500 rpm** |
+| Red arc, filled | **2,000 – 2,250 rpm – NO CONTINUOUS OPERATION** |
 
-### Zylinderkopftemperatur (Cylinder Head Temperature)
+### Cylinder Head Temperature
 
 | Marking | Value |
 |---|---|
-| Red line (rote Linie) | **Max. 500 °F** |
-| Green area (grüner Bereich) | **350° – 450 °F** (operating range) |
-| Yellow area (gelber Bereich) | **475° – 500 °F** – Continuous operation NOT ALLOWED |
+| Red line | **Max. 500 °F** |
+| Green area | **350° – 450 °F** (operating range) |
+| Yellow area | **475° – 500 °F** – Continuous operation NOT ALLOWED |
 
-### Öldruck (Oil Pressure)
+### Oil Pressure
 
 | Marking | Value |
 |---|---|
@@ -225,7 +224,7 @@ FAA-approved operating limits of the Mooney M20G "Statesman". The following limi
 | Yellow arc (idle range) | **25 – 60 psi** |
 | Yellow arc (start-up / warm-up) | **90 – 100 psi** |
 
-### Benzinruck (Fuel Pressure)
+### Fuel Pressure
 
 | Marking | Value |
 |---|---|
@@ -234,46 +233,46 @@ FAA-approved operating limits of the Mooney M20G "Statesman". The following limi
 | Green arc, broad (normal operating) | **2.5 – 3.5 psi** |
 | Green arc, narrow (full operating range) | **0.5 – 6 psi** |
 
-### Öltemperatur (Oil Temperature)
+### Oil Temperature
 
 | Marking | Value |
 |---|---|
-| Red limit line (rote Begrenzungslinie) | **Max. 245 °F** |
+| Red limit line | **Max. 245 °F** |
 | Green arc (operating range) | **100° – 225 °F** |
 
-### Unterdruck-Warnlichter (Vacuum Warning Lights)
+### Vacuum Warning Lights
 
 - Excessive vacuum: **5 inHg** (high)
 - Low vacuum: **4.5 inHg** (low)
 
 The following standard equipment is vacuum-driven:
 1. Artificial horizon
-2. Gyro compass (Kurskreisel)
-3. Turn coordinator (Wendezeiger)
+2. Gyro compass
+3. Turn coordinator
 4. Positive-Control System
 
 ---
 
-## Page 12 (German – translated – CG, placards, load limits)
+## Page 12 (CG, placards, load limits)
 
-### Höchstzulässiges Start- und Landegewicht (Maximum permissible take-off and landing weight)
+### Maximum permissible take-off and landing weight
 
 **1,144 kg**
 
-### Schwerpunktlage (Centre of Gravity)
+### Centre of Gravity
 
-- Datum plane (Bezugsebene): **fuselage station 0.00**
+- Datum plane: **fuselage station 0.00**
 - Position: **5 in aft of the centre line of the nose-wheel mounting bolts** and **33 in ahead of the wing leading edge**
 - CG reference station: **59.25 in**
 
-**CG limits (Schwerpunktgrenzlage) — gear extended:**
+**CG limits — gear extended:**
 | Weight | CG range |
 |---|---|
 | **1,144 kg** | **108 cm – 128 cm** |
 | **1,118 kg** | **106 cm – 128 cm** |
 | **957 kg or less** | **103 cm – 129 cm** |
 
-### Hinweisschilder (Placards – in the pilot's full field of vision)
+### Placards – in the pilot's full field of vision
 
 1. This aircraft must be operated as a **Normal-category aircraft** in accordance with the flight manual and placards. **Aerobatic flight and spinning are prohibited.**
 2. **Maximum speed for gear extension: 120 mph (104 kts)**
@@ -281,7 +280,7 @@ The following standard equipment is vacuum-driven:
    - Flaps retracted: **+3.8 g / −1.5 g**
    - Flaps extended: **+2.0 g**
 
-### Beladungsgrenzen (Loading Limits)
+### Loading Limits
 
 | Item | Limit |
 |---|---|
@@ -293,30 +292,30 @@ The following standard equipment is vacuum-driven:
 
 ---
 
-## Page 13 (German – translated – Aerobatic manoeuvres, load factors, operation)
+## Page 13 (Aerobatic manoeuvres, load factors, operation)
 
-### Flugmanöver (Aerobatic Manoeuvres)
+### Aerobatic Manoeuvres
 
 The aircraft must be operated as a **Normal-category** aircraft.
 
-Aerobatic flight, **including spins, is not permitted**. Stalling and full control deflections should be limited to the **minimum flying speed** (Mindestfluggeschwindigkeit).
+Aerobatic flight, **including spins, is not permitted**. Stalling and full control deflections should be limited to the **minimum flying speed**.
 
 **Inverted flight is not permitted.**
 
 **Operation in known icing conditions is prohibited.**
 
-### Lastvielfache (Load Factors)
+### Load Factors
 
 | Condition | Limit |
 |---|---|
-| Positive – flaps and gear retracted (Klappen und Fahrwerk eingefahren) | **+3.8 g** |
-| Positive – flaps and gear extended (Klappen und Fahrwerk ausgefahren) | **+2.0 g** |
-| Negative – flaps and gear extended (Klappen und Fahrwerk ausgefahren) | **−1.5 g** |
+| Positive – flaps and gear retracted | **+3.8 g** |
+| Positive – flaps and gear extended  | **+2.0 g** |
+| Negative – flaps and gear extended | **−1.5 g** |
 
 **CAUTION:**
 Up to **300 ft** of altitude loss can occur when recovering from a stalled flight condition at full take-off weight.
 
-### Bedienung (Operation)
+### Operation
 
 This aircraft must be operated as a **Normal-category aircraft** in accordance with this manual and the placards. **Aerobatic flight and spins are prohibited.**
 
@@ -330,7 +329,7 @@ All warning lights and horns are **inoperative** when the **master switch is OFF
 
 ---
 
-## Page 14 (German – translated – Windows, stall warning, PC, loading)
+## Page 14 (Windows, stall warning, PC, loading)
 
 Side windows: **Do not open above 150 mph (130 kts).**
 
@@ -350,25 +349,25 @@ Max baggage: **54.4 kg**. Max hat rack: **4.5 kg**. Only soft items in the hat r
 
 ---
 
-## Page 15 (German – translated – Section III TOC)
+## Page 15 (Section III TOC)
 
-### Section III – Emergency Procedures (Notfallsanweisungen)
+### Section III – Emergency Procedures
 
 | Sub-section | Pages |
 |---|---|
-| Hand-Notausfahrsystem des elektrischen Fahrwerks (Emergency manual gear extension) | 3‑2 |
-| Abschaltung des Positiv-Kontroll-Systems (Disabling the Positive-Control System) | 3‑2 |
-| Triebwerksführung (Engine operation) | 3‑3 |
-| Wiederanlassen während des Fluges (Re-start during flight) | 3‑3 to 3‑4 |
-| Brände (Fires) | 3‑4 to 3‑6 |
-| Notlandungen (Emergency landings) | 3‑6 to 3‑8 |
-| Flug bei Vereisungsbedingungen (Operations in icing conditions) | 3‑8 to 3‑9 |
-| Trudeln (Spinning) | 3‑9 |
-| Niedriger Öldruck (Low oil pressure) | 3‑10 |
+| Emergency manual gear extension | 3‑2 |
+| Disabling the Positive-Control System | 3‑2 |
+| Engine operation | 3‑3 |
+| Re-start during flight | 3‑3 to 3‑4 |
+| Fires | 3‑4 to 3‑6 |
+| Emergency landings | 3‑6 to 3‑8 |
+| Operations in icing conditions | 3‑8 to 3‑9 |
+| Spinning | 3‑9 |
+| Low oil pressure | 3‑10 |
 
 ---
 
-## Page 16 (German – translated – Emergency gear extension, PC override)
+## Page 16 (Emergency gear extension, PC override)
 
 ### Emergency Procedures: Gear Emergency Extension
 
@@ -395,50 +394,49 @@ The PC system is disabled by pressing the **interrupt switch in the left-hand co
 
 ---
 
-## Page 17 (German – translated – Engine operation: failure at take-off / failure in flight)
+## Page 17 (Engine operation: failure at take-off / failure in flight)
 
-### Triebwerksführung (Engine Operation)
+### Engine Operation
 
-**Am Start (bei ausreichender verbleibender Startbahnlänge)** 
 **At take-off (with sufficient remaining runway length):**
 
-1. Throttle (Gasbedienhebel) – **idle (Leerlauf)**
-2. Apply **brakes (Bremsen betätigen)**
-3. Retract **flaps** during the roll-out (Landeklappen einfahren beim Ausrollen)
-4. Mixture – **fully lean (voll-arm)**
-5. Ignition switch and master switch – **OFF (Aus)**
+1. Throttle – **idle**
+2. Apply **brakes**
+3. Retract **flaps** during the roll-out
+4. Mixture – **fully lean**
+5. Ignition switch and master switch – **OFF**
 
-**Nach dem Abheben (After becoming airborne):**
+**After becoming airborne:**
 
-1. Glide speed (Gleitgeschwindigkeit) – **80 mph (70 kts)**
-2. Mixture lever (Gemischbedienhebel) – **fully aft (quick stop / Schnellstopp)**
-3. Fuel selector (Tankwahlventil) – **closed (centre position / Mittelstellung)**
-4. Ignition switch (Zündschalter) – **OFF (Aus)**
-5. Master switch (Hauptschalter) – **OFF shortly before touchdown (kurz vor dem Aufsetzen)**
+1. Glide speed – **80 mph (70 kts)**
+2. Mixture lever – **fully aft**
+3. Fuel selector – **closed (centre position)**
+4. Ignition switch – **OFF**
+5. Master switch – **OFF shortly before touchdown**
 
 **CAUTION:**
-Conduct the landing **straight ahead (geradeaus)**, making only minor course changes to avoid obstacles. Under no circumstances attempt to return to the landing field, as the altitude shortly after take-off is normally insufficient for a safe return.
+Conduct the landing **straight ahead**, making only minor course changes to avoid obstacles. Under no circumstances attempt to return to the landing field, as the altitude shortly after take-off is normally insufficient for a safe return.
 
-### Während des Fluges – Wiederanlassen (In Flight – Engine Restart)
+### In Flight – Engine Restart
 
-1. Glide speed (Gleitgeschwindigkeit) – **105 mph (91 kts)** (optimal glide angle with tailwind and propeller still turning)
-2. Fuel selector (Tankwechselventil) – **fuller tank (vollerer Tank)**
-3. Mixture (Gemischbedienknopf) – **rich (reich)**
-4. Throttle (Gasbedienknopf) – **1/4 open**
-5. Boost pump (Boosterpumpe) – **ON (einschalten)**
-6. Ignition switch (Zündschalter) – **both (beide)**
+1. Glide speed – **105 mph (91 kts)** (optimal glide angle with tailwind and propeller still turning)
+2. Fuel selector – **fuller tank**
+3. Mixture – **rich**
+4. Throttle – **1/4 open**
+5. Boost pump – **ON**
+6. Ignition switch – **both**
 
-If the propeller is no longer being turned by the slipstream (Fahrtwind), the engine must be **motored with the starter (Anlasser durchgedreht)**.
+If the propeller is no longer being turned by the slipstream, the engine must be **motored with the starter**.
 
 ---
 
-## Page 18 (German – translated – Engine fire ground, water landing)
+## Page 18 (Engine fire ground, water landing)
 
-### Fires (Brände)
+### Fires
 
 **Engine fire on the ground – during starting**
 
-Incorrect starting procedures, such as pumping the throttle when the engine is hard to start in cold weather, can lead to a **back-fire (Flammenrückschlag)** and subsequent ignition of fuel that has collected in the intake manifold. In such a case:
+Incorrect starting procedures, such as pumping the throttle when the engine is hard to start in cold weather, can lead to a **back-fire** and subsequent ignition of fuel that has collected in the intake manifold. In such a case:
 
 1. **Continue motoring with the starter** and attempt to achieve a start; this will draw the flames and accumulated fuel back through the carburettor into the engine cylinders.
 2. If the engine starts, **let it run for a few minutes at 1,700 rpm**, then shut down and inspect the damage.
@@ -447,12 +445,12 @@ Incorrect starting procedures, such as pumping the throttle when the engine is h
 
 ---
 
-## Page 19 (German – translated – Engine fire in flight, electrical fire)
+## Page 19 (Engine fire in flight, electrical fire)
 
 5. **Extinguish the flames** with a fire extinguisher, seat cushions, wool blankets, or sand.
 6. **Inspect the fire damage** thoroughly; replace any affected parts before the next flight.
 
-**Engine fire in flight (Triebwerksbrand im Fluge)**
+**Engine fire in flight**
 
 Although engine fires in flight are extremely rare, the following measures should be taken if one should occur:
 
@@ -464,59 +462,57 @@ Although engine fires in flight are extremely rare, the following measures shoul
 6. If the fire has not been extinguished, **increase glide speed** in an attempt to find a speed at which a burning fuel-air mixture can no longer be supported
 7. Conduct a **powered-off landing** as described under "Power-off landing – engine stopped." **Do NOT attempt to restart the engine.**
 
-**Electrical fire in flight (Kabelbrand im Fluge)**
+**Electrical fire in flight**
 
 The first sign of an electrical fire is the **smell of burning or smouldering insulation**. The immediate correct action is to **switch the master switch OFF** and **reduce fresh-air flow as much as is feasible** to minimise the chance of a sustained fire.
 
 If electrical power must be continued in flight, the following procedure may be used to identify and isolate the faulty circuit:
 
-1. Master switch (Hauptschalter): **"OFF" (Aus)**
-2. All other switches except ignition (alle anderen Schalter außer Zündschalter): **"OFF" (Aus)**
+1. Master switch: **"OFF"**
+2. All other switches except ignition: **"OFF"**
 
 *(Continued on page 20)*
 
 ---
 
-## Page 20 (German – translated – Electrical fire (cont’d), emergency landing with power)
+## Page 20 (Electrical fire (cont’d), emergency landing with power)
 
-**Electrical fire in flight (Kabelbrand im Fluge) – continued:**
+**Electrical fire in flight – continued:**
 
-3. Check the state of the **fuses (Schutzschalter)** to identify the faulty circuit. Leave the faulty circuit **switched off**.
-4. Master switch (Hauptschalter): **"ON" (Ein)**
-5. Turn on the other switches **one at a time, with intervals (mit gewissen Pausen)**, until the short circuit is identified.
+3. Check the state of the **fuses** to identify the faulty circuit. Leave the faulty circuit **switched off**.
+4. Master switch: **"ON"**
+5. Turn on the other switches **one at a time, with intervals**, until the short circuit is identified.
 6. **Check that the fire is fully extinguished** before reopening the fresh-air supply.
 
-### Notlandungen (Emergency Landings)
+### Emergency Landings
 
-**Notwendige Landung mit Triebwerksleistung** 
 **— Emergency landing WITH engine power**
 
-Before attempting an off-airport landing, fly the landing area **straight ahead (längsaa) at a safe altitude, but low enough**, to check the terrain for any damage and obstacles. Proceed as follows:
+Before attempting an off-airport landing, fly the landing area **straight ahead at a safe altitude, but low enough**, to check the terrain for any damage and obstacles. Proceed as follows:
 
 1. **Fly over the selected area with 15° flaps and 80 mph (70 kts)** to observe the proposed touchdown area for the next landing approach. Once all obstacles have been safely crossed, retract the flaps.
 2. **Switch OFF all switches in the cockpit** except ignition and master switch.
 3. **Approach with 30° flaps at 75 mph (65 kts)**.
 4. **Unlock the cabin door** before the final approach.
 5. **Set ignition and master switch to "OFF"** before touchdown.
-6. Land in a **slightly tail-heavy attitude (leicht schwanzlastige Fluglage)**.
-7. **It is recommended to land on unpaved (unimproved) terrain with the gear retracted** to minimise landing distance and avoid flipping over.
-8. **Pull the carburettor heat fully ON (Vergaservorwärmung voll einschalten)**.
+6. Land in a **slightly tail-heavy attitude**.
+7. **It is recommended to land on unpaved terrain with the gear retracted** to minimise landing distance and avoid flipping over.
+8. **Pull the carburettor heat fully ON**.
 
-**Notlandung mit stehendem Triebwerk** 
 **— Emergency landing with stopped engine (continued on next page)**
 
-If the engine should stop in flight, **glide with flaps retracted and 100 mph (87 kts)**. *(See also glide-path approach / Gleitpfad-Annäherung.)* If time allows, attempt to restart the engine... (continued on page 21)
+If the engine should stop in flight, **glide with flaps retracted and 100 mph (87 kts)**. *(See also glide-path approach.)* If time allows, attempt to restart the engine... (continued on page 21)
 
 ---
 
-## Page 21 (German – translated – Power-off landing, water ditching)
+## Page 21 (Power-off landing, water ditching)
 
 ### Power-off Landing – Continued
 
 If all attempts at a restart have failed and a forced landing is imminent, select a suitable field and proceed as follows:
 
 1. Mixture lever: **fully aft (cut-off)**
-2. Fuel selector: **closed ("Zu")**
+2. Fuel selector: **closed**
 3. All switches **except the master switch**: **"OFF"**
 4. Speed: **100 mph (87 kts)** – gear and flaps retracted
 5. Flaps: extend as necessary **within the glidepath** to the landing field
@@ -526,7 +522,7 @@ If all attempts at a restart have failed and a forced landing is imminent, selec
 9. Touchdown in a **slightly tail-heavy attitude**
 10. **Allow the gear to remain retracted** for the touchdown
 
-### Water Ditching (NotLandung auf dem Wasser)
+### Water Ditching
 
 Prepare the water ditching by securing or discarding all heavy objects stowed in the baggage compartment, and by folding coats or cushions to be used as a **face shield** for the occupants on touchdown.
 
@@ -540,18 +536,18 @@ Call **MAYDAY on 121.5 MHz** with your position and intentions.
 
 ---
 
-## Page 22 (German – translated – Water ditching cont., flight in icing conditions)
+## Page 22 
 
 **Water ditching – continued:**
 
 4. At the moment of touchdown, hold the cushion or folded coat **in front of your face**.
-5. Inflate **life jackets** and the **life raft (Schwimmboot)** (if fitted) after leaving the cabin. It cannot be expected that the aircraft will float **longer than a few minutes** after touchdown.
+5. Inflate **life jackets** and the **life raft** (if fitted) after leaving the cabin. It cannot be expected that the aircraft will float **longer than a few minutes** after touchdown.
 
-### Flug bei Vereisungsbedingungen (Flight in Icing Conditions)
+### Flight in Icing Conditions
 
 **Flight in known icing conditions is strictly prohibited.** However, should icing be encountered unexpectedly, proceed as follows:
 
-1. Pitot heater switch: **“ON” (Ein)**
+1. Pitot heater switch: **“ON”**
 2. **Turn back or change flight level** to reach temperatures at which icing is less likely to occur.
 3. Pull the **cabin heating knob fully out** to obtain warm air for **windscreen deicing**. Set the **cabin vent knob** so that the warm-air supply for deicing is at its maximum.
 4. **Increase RPM** to minimise ice accretion on the propeller blades.
@@ -563,15 +559,15 @@ Call **MAYDAY on 121.5 MHz** with your position and intentions.
 
 ---
 
-## Page 23 (German – translated – Anti-icing cont., spin recovery)
+## Page 23 (Anti-icing cont., spin recovery)
 
 …to allow an angle of attack reduction to make the landing approach possible.
 10. **Approach with a forward slip** if necessary, to obtain better visibility (use the **bad-weather window**).
-11. Approach at **85–90 mph** depending on the severity of the ice accretion.
+11. Approach at **85–90 mph (74-78 knots)** depending on the severity of the ice accretion.
 12. **Steep turns during the landing approach are to be avoided.**
 13. Land in a **horizontal attitude**.
 
-### Spins (Trudeln)
+### Spins
 
 To repeat the warning: this is a **Normal-category aircraft and spinning is not permitted.**
 Should the aircraft enter a spin as a result of a stalled condition and uncoordinated control inputs, proceed as follows:
@@ -586,9 +582,9 @@ The aircraft can continue to turn for up to **one full revolution** even with th
 
 ---
 
-## Page 24 (German – translated – Low oil pressure)
+## Page 24 (Low oil pressure)
 
-### Low Oil Pressure (Niedriger Öldruck)
+### Low Oil Pressure
 
 If low oil pressure occurs together with **normal oil temperatures**, this indicates a possible fault in the oil pressure gauge or the pressure relief valve. A leak in the line to the instrument is not necessarily a reason for an immediate precautionary landing, because an orifice in that line prevents a sudden loss of oil from the engine sump.
 
@@ -598,164 +594,164 @@ If **complete loss of oil pressure** occurs together with a **rise in oil temper
 
 ---
 
-## Page 25 (German – translated – Section IV TOC)
+## Page 25 (Section IV TOC)
 
-### Section IV – Normal Procedures (Normalverfahren)
+### Section IV – Normal Procedures
 
 | Sub-section | Pages |
 |---|---|
-| Diagramm: Vorflugkontrolle (Pre-flight inspection diagram) | 4‑2 |
-| Vorflugkontrolle (Pre-flight inspection) | 4‑3 to 4‑4 |
-| Vor dem Starten (Before start-up) | 4‑4 |
-| Check vor dem Anlassen (Check before starting) | 4‑4 to 4‑5 |
-| Anlassen (Starting) | 4‑5 |
-| Abgestelltes Triebwerk (Engine shut down / hard start) | 4‑6 |
-| Anlassen bei kaltem Wetter (Starting in cold weather) | 4‑6 |
-| Anlassen von Hand (Hand starting) | 4‑6 |
-| Warmlaufen und Rollen (Run-up and taxiing) | 4‑7 |
-| Vor-Abflug-Kontrolle (Pre-take-off check) | 4‑8 |
-| Start (Take-off) | 4‑8 to 4‑9 |
-| Steigen (Climb) | 4‑9 |
-| Reiseflug (Cruise) | 4‑10 to 4‑14 |
-| Sinkflug (Descent) | 4‑14 |
-| Check vor der Landung (Landing check) | 4‑14 to 4‑15 |
-| Landung (Landing) | 4‑15 to 4‑16 |
-| Nach der Landung (After landing) | 4‑16 |
-| Check vor dem Abstellen (Shutdown check) | 4‑16 |
+| Pre-flight inspection diagram | 4‑2 |
+| Pre-flight inspection | 4‑3 to 4‑4 |
+| Before start-up | 4‑4 |
+| Check before starting | 4‑4 to 4‑5 |
+| Starting | 4‑5 |
+| Engine shut down / hard start | 4‑6 |
+| Starting in cold weather | 4‑6 |
+| Hand starting | 4‑6 |
+| Run-up and taxiing | 4‑7 |
+| Pre-take-off check | 4‑8 |
+| Take-off | 4‑8 to 4‑9 |
+| Climb | 4‑9 |
+| Cruise | 4‑10 to 4‑14 |
+| Descent | 4‑14 |
+| Landing check | 4‑14 to 4‑15 |
+| Landing | 4‑15 to 4‑16 |
+| After landing | 4‑16 |
+| Shutdown check | 4‑16 |
 
 ---
 
-## Page 26 (German – translated – Walk-around diagram, figure page)
+## Page 26 (Walk-around diagram)
 
 
 ![Page 26](png/p026.png)
 
-## Page 27 (German – translated – Pre-flight walk-around steps 1–7)
+## Page 27 (Pre-flight walk-around steps 1–7)
 
-### Vorflugkontrolle (Pre-flight inspection) – Steps 1 to 7
+### Pre-flight inspection – Steps 1 to 7
 
 **1. Cockpit / Electrical checks**
-- Ignition switch (Zündschalter): **"OFF" (Aus)**
-- Master switch (Hauptschalter): **"ON" (Ein)**
-- Check **exterior lighting (Außenbeleuchtung)**, **stall warning switch (Überziehwarnschalter)** and related indicators
-- Master switch (Hauptschalter): **"OFF" (Aus)**
-- **Drain the fuel lines (Entwässern der Benzinleitungen)**
-- Fuel selector (Tankwahlschalter): **right tank** – operate the corresponding valve next to the fuel selector
-- Fuel selector (Tankwahlschalter): **left tank** – same procedure
+- Ignition switch: **"OFF"**
+- Master switch: **"ON"**
+- Check **exterior lighting**, **stall warning switch** and related indicators
+- Master switch: **"OFF"**
+- **Drain the fuel lines**
+- Fuel selector: **right tank** – operate the corresponding valve next to the fuel selector
+- Fuel selector: **left tank** – same procedure
 
 **2. Right static pressure port (Statische Druckabnahme rechte Seite)**
 - Check that it is **not blocked** (when the aircraft is parked outside in the open)
-- **Release the tail tie-down (Verankerung des Hecks lösen)**
+- **Release the tail tie-down**
 
-**3. Check the surface (Überprüfen der Oberfläche)**
+**3. Check the surface**
 - If **ice, snow or frost** is present: **remove it**
 
-**4. Fuselage door (Rumpftüre)**
-- Check that it is **firmly closed and secured (fest geschlossen und gesichert)**
-- Static pressure port (Statische Druckabnahme): check that it is **"clear" (frei)**
+**4. Fuselage door**
+- Check that it is **firmly closed and secured**
+- Static pressure port: check that it is **"clear"**
 
-**5. Left wing (Linke Tragfläche)**
-- Check **ailerons (Ruderanschlüsse)** and **flap linkages (Klappenanschlüsse)**
+**5. Left wing**
+- Check **ailerons** and **flap linkages**
 - If **ice, snow or frost** is present: remove it
 
 **6. Left wing leading edge, pitot tube, stall warning switch**
-- Check wing leading edge, **pitot tube (Pitotrohr)** and **stall warning switch (Überziehwarnschalter)**: all **"clear" (frei)**
+- Check wing leading edge, **pitot tube** and **stall warning switch**: all **"clear"**
 - Fuel tank: **visual check of contents**, **secure the fill cap**
 - **Visual check of left main gear and tyre**
 - Left tank drain: **drain the pitot system**
-- Fuel tank vent (Tankdruckausgleich): **"clear" (frei)**
-- Fuel system drain valve (Entwässerungsventil des Leitungssystems): **"closed" (geschlossen)**
-- Engine cowl (Motorhaube): **closed and secured**
+- Fuel tank vent: **"clear"**
+- Fuel system drain valve: **"closed"**
+- Engine cowl: **closed and secured**
 
 **7. Propeller**
-- **Check the propeller for damage (Beschädigungen)**
+- **Check the propeller for damage**
 
 ---
 
-## Page 28 (German – translated – Walk-around steps 8–10, pre-start, start check)
+## Page 28 (Walk-around steps 8–10, pre-start, start check)
 
-### Vorflugkontrolle (Pre-flight inspection) – Steps 8 to 10
+### Pre-flight inspection – Steps 8 to 10
 
-**8. Right side (Rechte Seite)**
-- Engine cowl (Motorverkleidung): **closed and secured**
-- Engine oil level (Motoröls Inhalt): between **6 and 8 quarts**
-- Windshield (Windschutzscheibe): **clean**
-- **Drain the fuel tank (Benzintank entwässern)**
-- Tank vent (Tankbelüftung): **"clear" (frei)**
-- If present, **release the tie-down (Verankerung lösen)**
+**8. Right side**
+- Engine cowl: **closed and secured**
+- Engine oil level): between **6 and 8 quarts**
+- Windshield: **clean**
+- **Drain the fuel tank**
+- Tank vent: **"clear"**
+- If present, **release the tie-down**
 - **Right main gear and tyre: check**
 - Fuel tank: **visual check and secure the fill cap**
 
-**9. Right wing (Rechte Tragflächenvorderkante und Fläche insgesamt)**
+**9. Right wing**
 - Check **right wing leading edge and overall wing condition**
-- Check **ailerons (Ruder)** and their attachment points
-- Check **flaps (Klappen)** and their attachment points
+- Check **ailerons** and their attachment points
+- Check **flaps** and their attachment points
 - If **ice, snow or frost** is present: remove it
 
-**10. Baggage door (Gepäckraumtür)**
+**10. Baggage door**
 - **Closed and secured**
 
-### Vor dem Starten (Before Take-off)
+### Before Take-off
 
-After boarding, close the **cabin door** by swinging the door handle forward. **DO NOT SLAM THE DOOR (TÜRE NICHT ZUSCHLAGEN).**
+After boarding, close the **cabin door** by swinging the door handle forward. **DO NOT SLAM THE DOOR.**
 
-Check the **gear lever position and locking** (Stellung und Verriegelung des Fahrwerkhebels). For electrically operated gear: check the **switch position**.
+Check the **gear lever position and locking**. For electrically operated gear: check the **switch position**.
 
 Make sure **all baggage is secured** and that all required **charts, computers, and other loose items** are stowed and secured in the cabin.
 
-**Fasten the seat belts and pull them tight.** Lock the **seat position**. The pilot should be **comfortable and not cramped** behind the control wheel. On **night flights**, carry a **flashlight (Taschenlampe)**.
+**Fasten the seat belts and pull them tight.** Lock the **seat position**. The pilot should be **comfortable and not cramped** behind the control wheel. On **night flights**, carry a **flashlight**.
 
-### Check vor dem Anlassen (Check Before Starting)
+### Check Before Starting
 
-1. All switches (Alle Schalter): **"OFF" (Aus)**
-2. All radios (Alle Radios): **"OFF" (Aus)**
-3. Landing gear (Fahrwerk): **extend and lock (ausfahren und verriegeln)**
-4. Landing flaps (Landeklappen): **check all positions and return to take-off position**
-5. Carburettor heat (Vergaservorwärmung): **"CLOSED" (Zu)**
-6. Parking brake (Parkbremse): **apply to check (zur Kontrolle anziehen)**
-7. Throttle (Gashebel): **"CLOSED" (geschlossen)**
-8. Propeller: **high-RPM position (große Drehzahl)**
+1. All switches: **"OFF"**
+2. All radios: **"OFF"**
+3. Landing gear: **extend and lock**
+4. Landing flaps: **check all positions and return to take-off position**
+5. Carburettor heat: **"CLOSED"**
+6. Parking brake: **apply to check**
+7. Throttle: **"CLOSED"**
+8. Propeller: **high-RPM position (full forward)**
 
 ---
 
-## Page 29 (German – translated – Start check (cont’d), engine starting)
+## Page 29 (Start check (cont’d), engine starting)
 
-### Check vor dem Anlassen (Check Before Starting) – continued:
+### Check Before Starting – continued:
 
-9. **Check all fuses (Alle Sicherungen überprüfen)**
-10. Mixture control (Gemischregler): **position "ABSTELLEN" (cut-off)**
-11. Fuel selector (Tankwahlschalter): **to the fuller tank (vollen Tank)**
-12. Electric fuel pump (Elektrische Benzinpumpe): **"ON"**
-13. Cabin heater (Kabinenheizung): **"ON"**
+9. **Check all fuses**
+10. Mixture control: **position cut-off**
+11. Fuel selector: **to the fuller tank**
+12. Electric fuel pump: **"ON"**
+13. Cabin heater: **"ON"**
 
-### Anlassen (Starting the Engine)
+### Starting the Engine
 
-1. Master switch (Hauptschalter): **"ON" (Ein)**
-2. Check **fuel gauge and quantity (Benzinanzeige und -vorrat prüfen)**
-3. Check **warning lights via test button (Kontrolllichter durch Testknopf prüfen)**
-4. **Gear light (Fahrwerklicht): GREEN must be lit**
-5. Electric fuel pump (Elektrische Benzinpumpe): **"ON" (Ein)**
-6. Mixture control (Gemischregler): **forward – RICH (vor – reich)**
-7. Throttle (Gashebel): **pump 2 to 3 times, then 1/4 open**
-8. **Start: turn AND press the ignition key (Zündschlüssel drehen und drücken)**
-9. Throttle (Gashebel): set to **1,000–1,200 rpm**
-10. **Oil pressure (Öldruck): in the green arc.** If no pressure is indicated after **30 seconds**, stop the engine and inspect the oil system.
-11. Carburettor heat (Vergaservorwärmung): **"ON" then "OFF"** – check the **RPM drop** is normal.
+1. Master switch: **"ON"**
+2. Check **fuel gauge and quantity**
+3. Check **warning lights via test button**
+4. **Gear light: GREEN must be lit**
+5. Electric fuel pump: **"ON"**
+6. Mixture control: **forward – RICH**
+7. Throttle: **pump 2 to 3 times, then 1/4 open**
+8. **Start: turn AND press the ignition key**
+9. Throttle: set to **1,000–1,200 rpm**
+10. **Oil pressure: in the green arc.** If no pressure is indicated after **30 seconds**, stop the engine and inspect the oil system.
+11. Carburettor heat: **"ON" then "OFF"** – check the **RPM drop** is normal.
 
 **CAUTION:**
 The carburettor heat **must not be used on the ground** except for test purposes. When the carburettor heat is ON, **unfiltered air** enters the engine. Moisture, foreign objects, and dust can damage the **cylinders and pistons**.
 
-12. **Lights: on as required (Lichter einschalten wie notwendig)**
-13. **Radio and navigation: switch on and tune (Funk- und Navigationsgeräte einschalten und einstellen)**
-14. **Rotating beacon: "ON" (Rotdrehlicht "An")**
-15. **Heated pitot: check via panel indication (geheiztes Staurohr durch Anzeige prüfen)**
-16. **Trim: take-off position (Trimmung in Startposition)**
-17. **Fuel selector: check left and right (Benzinwahlschalter prüfen links und rechts)**
+12. **Lights: on as required**
+13. **Radio and navigation: switch on and tune**
+14. **Rotating beacon: "ON"**
+15. **Heated pitot: check via panel indication**
+16. **Trim: take-off position**
+17. **Fuel selector: check left and right**
 
 
-## Page 30 (German – translated – Flooded engine, cold start, hand start)
+## Page 30 (Flooded engine, cold start, hand start)
 
-### Flooded Engine (Abgesoffenes Triebwerk)
+### Flooded Engine
 
 1. Throttle: **fully open**
 2. Mixture lever: **closed (cut-off)**
@@ -765,11 +761,11 @@ The carburettor heat **must not be used on the ground** except for test purposes
 6. Mixture lever: slowly **forward to RICH**
 7. **Electric fuel pump: ON**
 
-### Starting in Cold Weather (Anlassen bei kaltem Wetter)
+### Starting in Cold Weather
 
 The starting procedure for a cold engine is identical to that for an engine at normal operating temperature; **slightly more fuel** will be required. It is recommended to **pre-heat the engine** using an external heating source.
 
-### Hand-Starting the Engine (Anlassen von Hand)
+### Hand-Starting the Engine
 
 1. **Wedge brake chocks** under the main wheels
 2. Apply the **parking brake**
@@ -783,7 +779,7 @@ The starting procedure for a cold engine is identical to that for an engine at n
 
 ---
 
-## Page 31 (German – translated – Taxi, run-up)
+## Page 31 (Taxi, run-up)
 
 The engine maintains a warm operating state at **1,000–1,200 rpm** during taxiing.
 
@@ -803,7 +799,7 @@ When testing the PC system, **turn the control wheel in the opposite direction**
 
 While doing this, also **verify the turn coordinator and the attitude indicator** are functioning.
 
-Before final brake application for take-off, **align the aircraft into the wind** so that the **nose wheel is in the centre position**. Minimise ground time. Check the **propeller setting at 1,700 rpm** by pulling the trim lever fully back; when the RPM has dropped by **100 rpm**, push the trim lever back forward.
+Before final brake application for take-off, **align the aircraft into the wind** so that the **nose wheel is in the centre position**. Minimise ground time. Check the **propeller governing system by advancing the throttle to 1,700 rpm**, then pull the propeller control full aft (decrease RPM). As soon as a **100 rpm** drop is noted, return the propeller control to FULL INCREASE RPM.
 
 In **cold weather**, **repeat this procedure 2–3 times**.
 
@@ -816,67 +812,67 @@ Check the **magnetos at 1,700 rpm**:
 
 ---
 
-## Page 32 (German – translated – Pre-take-off check, quick check, take-off)
+## Page 32 (Pre-take-off check, quick check, take-off)
 
-### Vor-Abflug-Kontrolle (Pre-Take-Off Check) – 16 items
+### Pre-Take-Off Check – 16 items
 
-1. Control surfaces (Ruder): **check for full, free movement (freie Beweglichkeit)**
-2. Fuel selector (Tankwahlschalter): **fuller tank (volleren Tank)**
-3. Altimeter (Höhenmesser): set to **QNH or field elevation (Platzhöhe)**
-4. Gyro compass (Kurskreisel): **set**
-5. Aircraft monitoring instruments (Flugüberwachungsinstrumente): **check**
-6. Engine monitoring instruments (Motorüberwachungsinstrumente): **check**
-7. Clock (Bortuhr): **set**
-8. Trim (Trimmung): **take-off position (Startstellung)**
-9. Propeller adjustment (Funktion der Propellerverstellung): **check at 1,700 rpm**
-10. Magnetos (Magnete): **check at 1,700 rpm**
-11. Landing flaps (Landeklappen): **take-off position (Startstellung)**
-12. Electric fuel pump (Elektrische Benzinpumpe): **"ON" (Ein)** – **watch fuel pressure (Benzindruck beobachten)**
-13. Seats (Sitze): **locked (einrasten)**
-14. Seat belts (Sitzgurte): **fastened (schließen)**
-15. Door and storm windows (Tür und Sturmfenster): **closed and secured (closed and latched)**
-16. Cabin floor (Kabinenboden): **clear for gear lever (für Fahrwerkhebel freihalten)**
+1. Control surfaces: **check for full, free movement**
+2. Fuel selector: **fuller tank**
+3. Altimeter: set to **QNH or field elevation**
+4. Gyro compass: **set**
+5. Aircraft monitoring instruments: **check**
+6. Engine monitoring instruments: **check**
+7. Clock: **set**
+8. Trim: **take-off position**
+9. Propeller adjustment: **check at 1,700 rpm**
+10. Magnetos: **check at 1,700 rpm**
+11. Landing flaps: **take-off position**
+12. Electric fuel pump: **"ON"** – **watch fuel pressure**
+13. Seats: **locked**
+14. Seat belts: **fastened**
+15. Door and storm windows: **closed and secured**
+16. Cabin floor: **clear for gear lever**
 
-### Vor dem Vollgas-Geben – Schnell-Check (Quick Check Before Full Throttle)
+### Quick Check Before Full Throttle
 
-1. Propeller: **small pitch angle (kleine Steigung)**
-2. Trim: **take-off position (Startstellung)**
-3. Landing flaps: **take-off position (Startstellung)**
-4. Fuel selector: **fuller tank (volleren Tank)**
+1. Propeller: **small pitch angle**
+2. Trim: **take-off position**
+3. Landing flaps: **take-off position**
+4. Fuel selector: **fuller tank**
 
 **CAUTION:**
-The fuel selector (Tankwahlschalter) should **not be operated immediately before take-off**.
+The fuel selector should **not be operated immediately before take-off**.
 
-5. Carburettor heat (Vergaservorwärmung): **"OFF" (Aus)**
+5. Carburettor heat: **"OFF"**
 
 **Start as soon as possible** after completing the pre-take-off checks. If take-off is delayed, **run the engine at 1,400–1,500 rpm** to keep the engine well cooled and prevent the spark plugs from fouling.
 
-### Start (Take-off)
+### Take-off
 
 In normal conditions, apply the throttle **slowly** so that the propeller **cannot ingest stones or debris** that could damage it. On **extremely short runways**, *(continued on next page)*
 
 
 ---
 
-## Page 33 (German – translated – Take-off (cont'd), climb)
+## Page 33 (Take-off (cont'd), climb)
 
-### Start (Take-off) – continued
+### Take-off – continued
 
 On **extremely short runways**, it may be necessary to apply **full throttle in place** and release the brakes only afterwards. For take-off distance information in combination with temperature and altitude, refer to **Section V**.
 
 At approximately **65–75 mph (56–65 kts)**, apply slight back-pressure to lift the nose wheel. As the nose wheel starts to lift, **ease off the pressure** — the aircraft will then lift off **softly and without an abrupt change in attitude**.
 
-**Hinweis (Note):**
+**Note:**
 
-In a **crosswind take-off**, keep the nose wheel on the ground a little longer, control direction with the **rudder (Seitenruder)**, lift off at approximately **80 mph (70 kts)**, and turn the aircraft into the wind using a **coordinated control input**. After the take-off, **brake the wheels before retracting the gear**. Then retract the gear. Set the **propeller to 2,550–2,600 rpm**. After clearing the first obstacles and reaching a **safe altitude**, retract the **flaps** and continue the climb at the **best rate of climb speed (Section V)**. Turn the **electric fuel pump off** and maintain adequate **fuel pressure** as shown on the indicator.
+In a **crosswind take-off**, keep the nose wheel on the ground a little longer, control direction with the **rudder**, lift off at approximately **80 mph (70 kts)**, and turn the aircraft into the wind using a **coordinated control input**. After the take-off, **brake the wheels before retracting the gear**. Then retract the gear. Set the **propeller to 2,550–2,600 rpm**. After clearing the first obstacles and reaching a **safe altitude**, retract the **flaps** and continue the climb at the **best rate of climb speed (Section V)**. Turn the **electric fuel pump off** and maintain adequate **fuel pressure** as shown on the indicator.
 
-### Steigen (Climb)
+### Climb
 
 It is recommended to climb at **105–110 mph (90–95 kts)** to ensure good cooling and **adequate forward visibility**. The precise speeds for best rate of climb and best angle of climb are given in the tables in **Section VI**.
 
-The power setting for normal climb is **26 in. Hg manifold pressure (Ladedruck)** and **2,600 rpm**.
+The power setting for normal climb is **26 in. Hg manifold pressure** and **2,600 rpm**.
 
-As altitude increases, manifold pressure will decrease, which can be compensated to a certain extent by **corresponding throttle increases (Gasgeben)**.
+As altitude increases, manifold pressure will decrease, which can be compensated to a certain extent by **corresponding throttle increases**.
 
 **CAUTION:**
 **Flying in icing zones is NOT permitted!**
@@ -886,22 +882,22 @@ As altitude increases, manifold pressure will decrease, which can be compensated
 
 ---
 
-## Page 34 (German – translated – Cruise and Range Conditions, cruise flight)
+## Page 34 (Cruise and Range Conditions, cruise flight)
 
-### Reiseflug- und Reichweitebedingungen (Cruise and Range Conditions)
+### Cruise and Range Conditions
 
 All cruise and range data in the tables in **Section V** include:
 
-1. **Climb at full power to 3,000 ft**, continued climb at the power still available, mixture **full-lean (volle-reich)** at the corresponding speed for best rate of climb to the selected cruise altitude
+1. **Climb at full power to 3,000 ft**, continued climb at the power still available, mixture **full-rich** at the corresponding speed for best rate of climb to the selected cruise altitude
 2. **Cruise** to the destination at the corresponding power and mixture setting
 3. **45 minutes reserve** at the same altitude and power setting
 4. All data are based on **52 gal (196 L)** of usable fuel, **standard atmosphere conditions**, and **zero wind (0-Wind)**
 
 Take-off weight: **1,144 kg or 997 kg**.
 
-The data in the Section V tables were derived from **flight tests** in which the mixture was kept **full-lean (voll-reich)** at power settings **above 75%** and was **correspondingly leaned (verarmt)** at power settings **below 75%**.
+The data in the Section V tables were derived from **flight tests** in which the mixture was kept **full-rich** at power settings **above 75%** and was **correspondingly leaned** at power settings **below 75%**.
 
-### Reiseflug (Cruise Flight)
+### Cruise Flight
 
 After reaching cruise altitude, **trim the aircraft**, pick up speed, and set the **engine power** selected for the cruise.
 
@@ -910,7 +906,7 @@ Mixture **should not be leaned below 5,000 ft** or at **engine power above 75%**
 When setting the cruise rpm, note that **continuous operation in the range 2,000–2,250 rpm should be avoided**.
 
 **To fly economically, lean the mixture:**
-Slowly pull the mixture control toward **LEAN (Arm)** until the engine begins to run **rough**. Then slowly push the mixture control **forward (RICH)** until the engine runs **smoothly and without defect**.
+Slowly pull the mixture control toward **LEAN** until the engine begins to run **rough**. Then slowly push the mixture control **forward** until the engine runs **smoothly and without defect**.
 
 When **increasing engine power**, the mixture must be **re-adjusted**.
 
@@ -920,17 +916,17 @@ When using an **exhaust gas temperature (EGT) indicator**: pull the mixture cont
 
 ---
 
-## Page 35 (German – translated – EGT (cont'd), power changes, speed arcs, spin recovery)
+## Page 35 (EGT (cont'd), power changes, speed arcs, spin recovery)
 
-### Reiseflug – continued (Cruise – continued)
+### Cruise – continued
 
 Set the **red drag pointer** at this position. For **best economy**, push the mixture control slowly toward **RICH** until the pointer has dropped **25 °F (one calibration division)**. For **best engine power**, push the mixture control further toward **RICH** until the pointer has dropped **100 °F (four divisions)**.
 
 **When changing the engine power setting:**
-- **To increase power**: first increase **RPM**, then increase **manifold pressure (Ladedruck)**
-- **To decrease power**: first decrease **manifold pressure (Ladedruck)**, then decrease **RPM**
+- **To increase power**: first increase **RPM**, then increase **manifold pressure**
+- **To decrease power**: first decrease **manifold pressure**, then decrease **RPM**
 
-### Airspeed (Fahrtmesser)
+### Airspeed
 
 **Aerodynamic efficiency is best in the normal cruise range.** The airspeed indicator has a **green arc from 66–175 mph (57–152 kts)** and a **yellow arc from 175–200 mph (152–174 kts)**.
 
@@ -951,13 +947,13 @@ Should the aircraft enter a **stalled flight condition and begin to spin**, pres
 
 ---
 
-## Page 36 (German – translated – Spin recovery (cont'd), TIPP)
+## Page 36 (Spin recovery (cont'd), TIP)
 
 ### Spin Recovery – continued
 
-3. **Full rudder deflection opposite to the direction of rotation (Seitenruder voll entgegen der Drehrichtung)**
-4. **Elevator full forward (Höhenruder voll nach vorne drücken)**
-5. After speed has recovered, **soft recovery and return to cruise power (weiches Abfangen und Wiederherstellung der Reiseleistung)**
+3. **Full rudder deflection opposite to the direction of rotation**
+4. **Elevator full forward**
+5. After speed has recovered, **soft recovery and return to cruise power**
 
 **CAUTION:**
 
@@ -965,7 +961,7 @@ The aircraft may continue to **spin up to one full turn** even with full opposit
 
 **Do not attempt manoeuvres with full control deflection at speeds above 135 mph CAS (117 kts).**
 
-### TIPP (TIP)
+### TIP
 
 Learn the aircraft and its characteristics with the **autopilot disabled (PC button pressed)**, by pressing the **Positive-Control button** during all manoeuvres and flight movements. **Check the Positive-Control System periodically during flight** to ensure it is functioning correctly when you need it.
 
@@ -973,9 +969,9 @@ Learn the aircraft and its characteristics with the **autopilot disabled (PC but
 
 ---
 
-## Page 37 (German – translated – PC system, fuel tank selection)
+## Page 37 (PC system, fuel tank selection)
 
-### Positiv-Kontroll-System (Positive-Control System)
+### Positive-Control System
 
 By continuously **balancing the aircraft's rolling movements about the longitudinal axis**, the Positive-Control System **holds the selected flight path for a limited time**. However, the **precise holding of a predetermined flight path over long periods is not guaranteed**.
 
@@ -987,22 +983,22 @@ Before using the Positive-Control System, you should first be **familiar with op
 
 In the event of **complete engine failure**, the Positive-Control System remains **in operation** as long as the engine is rotating at **at least 1,000 rpm**, since the **vacuum supply is maintained**. **Insufficient vacuum** is indicated by a **yellow warning lamp**. Unlike the other vacuum-driven flight instruments (artificial horizon, gyro compass), the **turn coordinator remains operative** because it is driven by **both vacuum and electrical power**.
 
-### Tankschaltung (Fuel Tank Selection)
+### Fuel Tank Selection
 
 To **facilitate stabilisation about the longitudinal axis**, be careful **not to fly with one full and one nearly empty tank**. Switch from one tank to the other **every 3/4 to 1 hour** during cruise.
 
-**Note:** During a **full-power climb (Vollgassteigflug)**, fuel consumption is approximately **40% above** consumption at **75% engine power** and **50% above** consumption at **best range (beste Reichweite)**.
+**Note:** During a **full-power climb**, fuel consumption is approximately **40% above** consumption at **75% engine power** and **50% above** consumption at **best range**.
 
 *(Page 4-13)*
 
 ---
-## Page 38 (German – translated – CAUTION, descent, pre-landing check)
+## Page 38 (CAUTION, descent, pre-landing check)
 
 **CAUTION:**
 
 Be aware that **one tank must not be allowed to run dry**, causing the engine to stop. Should this happen, **make absolutely sure to pull back the throttle** to prevent **engine overspeed**.
 
-### Sinkflug (Descent)
+### Descent
 
 **Plan your descent in good time.** Configure the descent so that you can descend with **reduced power, but not at idle**. This is important to prevent **excessive engine cooling** and to **minimise spark-plug fouling**.
 
@@ -1018,35 +1014,35 @@ The speeds for **extending the gear and flaps must NOT be exceeded**.
 
 **Before reducing engine power, the carburettor heat must ALWAYS be applied (pulled to ON).**
 
-### Check vor der Landung (Pre-Landing Check)
+### Pre-Landing Check
 
-1. **Fuel selector (Tankwahlschalter): fuller tank**
-2. **Electric fuel pump (Elektrische Benzinpumpe): "ON"**
-3. **Mixture control (Gemischregler): "full-rich" (voll-reich)**
-4. **Carburettor heat (Vergaservorwärmung): "full-ON" (voll-ein)**
+1. **Fuel selector: fuller tank**
+2. **Electric fuel pump: "ON"**
+3. **Mixture control: "full-rich"**
+4. **Carburettor heat: "full-ON"**
 5. **Landing gear: extend and lock, green light "ON"**
 
 *(Page 4-14)*
 
 ---
-## Page 39 (German – translated – Pre-landing check (cont'd), landing)
+## Page 39 (Pre-landing check (cont'd), landing)
 
-### Check vor der Landung - continued
+### Pre-Landing Check - continued
 
-6. **Propeller (Luftschraube): small pitch (kleine Steigung) [low rpm]**
-7. **Seat belts (Sitzgurte): fastened**
-8. **Landing flaps (Landeklappen): as required, below 125 mph (109 kts)**
-9. **Trim (Trimmung): as required**
+6. **Propeller: small pitch [low rpm]**
+7. **Seat belts: fastened**
+8. **Landing flaps: as required, below 125 mph (109 kts)**
+9. **Trim: as required**
 
-### Landung (Landing)
+### Landing
 
-Under normal conditions, the **pre-landing check should be completed during the downwind leg (Gegenanflug)**. Before at least the **first flap position** is extended, **airspeed should not be below, nor significantly above, 90 mph (78 kts)**.
+Under normal conditions, the **pre-landing check should be completed during the downwind leg**. Before at least the **first flap position** is extended, **airspeed should not be below, nor significantly above, 90 mph (78 kts)**.
 
 **CAUTION:**
 
 If the **Master switch is OFF**, neither the **stall warning horn** nor the **gear warning horn** is operative.
 
-**On final approach (Endanflug)**, **trim the aircraft** to maintain **80 mph (70 kts)**. Depending on altitude, the **second flap position** may be extended. When **abreast the runway threshold**, slowly take the **throttle to idle** and **reduce sink rate** by **pulling back on the control wheel**. After the **main gear has touched down**, **ease off the back-pressure** so that the **nose wheel also touches down**.
+**On final approach**, **trim the aircraft** to maintain **80 mph (70 kts)**. Depending on altitude, the **second flap position** may be extended. When **abreast the runway threshold**, slowly take the **throttle to idle** and **reduce sink rate** by **pulling back on the control wheel**. After the **main gear has touched down**, **ease off the back-pressure** so that the **nose wheel also touches down**.
 
 **CAUTION:**
 
@@ -1056,26 +1052,26 @@ If the **Master switch is OFF**, neither the **stall warning horn** nor the **ge
 
 After **leaving the runway**, **retract the flaps**, **switch the electric fuel pump off**, and **turn off the carburettor heat**.
 
-During **taxi-out (Rollen)**, maintain **1,000-1,200 rpm** for good cooling. At **extremely short airfields**, make a **flipped-throttle landing (Schleppgaslandung)**, but **wait to brake until all three wheels are on the runway**. **Do not over-brake (Überbremsen)**; *(continues on next page)*
+During **taxi-out**, maintain **1,000-1,200 rpm** for good cooling. At **extremely short airfields**, make a **trail-braking (deceleration) landing**, but **wait to brake until all three wheels are on the runway**. **Do not over-brake**; *(continues on next page)*
 
 *(Page 4-15)*
 
 ---
-## Page 40 (German – translated – Braking (cont'd), after-landing, shutdown)
+## Page 40 (Braking (cont'd), after-landing, shutdown)
 
 ### Braking - continued
 
 In such a case, **do not over-brake either**, because **skidding wheels have a lesser braking effect** than they do **just before lock-up**.
 
-### Nach der Landung (After Landing) - Check:
+### After Landing - Check:
 
 1. **Electric fuel pump: "OFF"**
-2. **Carburettor heat: close (schließen)**
+2. **Carburettor heat: close**
 3. **Landing flaps: retract**
 4. **Rudder trim: "take-off position" (Startstellung)**
 5. **Throttle: 1,000-1,200 rpm**
 
-### Check vor dem Abstellen (Pre-Shutdown Check)
+### Pre-Shutdown Check
 
 1. **Throttle: reduce to 1,000-1,200 rpm** until **CHT begins to drop**
 2. **All radios: OFF**
@@ -1087,7 +1083,7 @@ In such a case, **do not over-brake either**, because **skidding wheels have a l
 8. **Rudder trim: take-off position**
 9. **Flaps: retracted**
 10. **Master switch: OFF**
-11. **Control wheel: locked with seat belts (Sitzgurte)**
+11. **Control wheel: locked with seat belts**
 12. **Upper air intake: close**
 13. **Brake chocks and tie-downs: as required**
 
@@ -1098,33 +1094,33 @@ In such a case, **do not over-brake either**, because **skidding wheels have a l
 *(Page 4-16)*
 
 ---
-## Page 41 (German – Section V TOC)
+## Page 41 (Section V TOC)
 
-### **Abschnitt V — Leistungen (Performance)**
+### **Section V — Performance**
 
-| Section / Topic (German) | English | Page |
-|--------|---------|------|
-| **Flugplanung** | Flight Planning | 5-2 |
-| **Startstrecke** | Take-off Distance | 5-3 |
-| **Landestrecke** | Landing Distance | 5-4 |
-| **Steigleistung** | Climb Performance | 5-5 |
-| **Fahrtmesser-Berichtigung** | Airspeed Correction | 5-6 |
-| **Überziehgeschwindigkeiten** | Stall Speeds | 5-6 |
-| **Höhenkorrektur-Graphik** | Altitude Correction Chart | 5-7 |
-| **Reiseflug- und Reichweitebedingungen** | Cruise and Range Conditions | 5-8 |
-| **Reise- und Reichweiteleistung bei 0 ft** | Cruise/Range Performance at 0 ft | 5-9 |
-| **Reise- und Reichweiteleistung bei 2,500 ft** | Cruise/Range Performance at 2,500 ft | 5-10 |
-| **Reise- und Reichweiteleistung bei 5,000 ft** | Cruise/Range Performance at 5,000 ft | 5-11 |
-| **Reise- und Reichweiteleistung bei 7,500 ft** | Cruise/Range Performance at 7,500 ft | 5-12 |
-| **Reise- und Reichweiteleistung bei 10,000 ft** | Cruise/Range Performance at 10,000 ft | 5-13 |
+| Topic | Page |
+|--------|------|
+| Flight Planning | 5-2 |
+| Take-off Distance | 5-3 |
+| Landing Distance | 5-4 |
+| Climb Performance | 5-5 |
+| Airspeed Correction | 5-6 |
+| Stall Speeds | 5-6 |
+| Altitude Correction Chart | 5-7 |
+| Cruise and Range Conditions | 5-8 |
+| Cruise/Range Performance at 0 ft | 5-9 |
+| Cruise/Range Performance at 2,500 ft | 5-10 |
+| Cruise/Range Performance at 5,000 ft | 5-11 |
+| Cruise/Range Performance at 7,500 ft | 5-12 |
+| Cruise/Range Performance at 10,000 ft | 5-13 |
 
 ---
 
-## Page 42 (German – translated – Flight planning intro)
+## Page 42 (Flight planning intro)
 
-### Flugplanung (Flight Planning)
+### Flight Planning
 
-All performance tables and charts in this manual are presented to allow **quick reference and lookup**. All data correspond to the **actual flight performance** of the aircraft and engine when both are in **good maintenance condition (gutem Wartungszustand)**. The performance data **do not account** for specific **wind and weather conditions** or **navigation errors**. All **take-off and landing data** assume **no wind (Windstille)** and a **paved runway (befestigte Landebahnen)**.
+All performance tables and charts in this manual are presented to allow **quick reference and lookup**. All data correspond to the **actual flight performance** of the aircraft and engine when both are in **good maintenance condition**. The performance data **do not account** for specific **wind and weather conditions** or **navigation errors**. All **take-off and landing data** assume **no wind** and a **paved runway**.
 
 **Careful flight planning is a prerequisite for good flight performance.** After preparing a flight plan using the flight data in this manual, **compare the conditions for actual performance** under the real conditions with the values calculated from this manual, and **determine the difference** between the two. Accounting for this difference enables **precise flight planning**.
 
@@ -1346,7 +1342,7 @@ Date: 20-5-80
 
 | Item / Description | Weight (kg) | Arm (cm) | x (factory) |
 |---|---|---|:---:|
-| 1. Constant Speed Propeller, Modell Hartzell HC-C2YK-1, blades 7666-2 | 24.38 | 89.30 | x |
+| 1. Constant Speed Propeller, model Hartzell HC-C2YK-1, blades 7666-2 | 24.38 | 89.30 | x |
 | 2. Mooney spinner cone | 1.63 | 86.81 | x |
 | 3. Hartzell propeller governor (H1) | 2.04 | 3.55 | — |
 | 4. Fuel pumps: | | | |
@@ -1379,7 +1375,7 @@ Date: 20-5-80
 
 ### Equipment Added/Removed After Initial Weigh-in
 
-| Nr. | Description | Installed/Removed | Weight (kg) | Arm (cm) |
+| No. | Description | Installed/Removed | Weight (kg) | Arm (cm) |
 |---:|---|---|---:|---:|
 | 1 | Garmin propeller governor | – | 1.24 | 3.55 |
 | 2 | Heated pitot | – | 0.31 | 96.52 |
@@ -1421,9 +1417,9 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 59 (German – translated – calculation of a loading plan)
+## Page 59 (calculation of a loading plan)
 
-*Supplement 6 · „Berechnung eines Beladeplanes" (Calculation of a Loading Plan) · printed page: 6‑7*
+*Supplement 6 · Calculation of a Loading Plan · printed page: 6‑7*
 
 ### Part 2 – Calculation of a Loading Plan
 
@@ -1458,31 +1454,31 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 ![Page 62 – CG limit diagram / weight-moment table (6-9, rotated, partly legible)](png/p062_de.png)
 
 ---
-## Page 63 (German – form – official weighing report for D-ELCP)
+## Page 63 (official weighing report for D-ELCP (form))
 
 ![Page 63](png/p063.png)
 
 ---
 
-## Page 64 (German – form – variable loads, CG report, part 2)
+## Page 64 (variable loads, CG report, part 2 (form))
 
 ![Page 64](png/p064.png)
 
 ---
 
-## Page 65 (German – form – D-ELCP specific data)
+## Page 65 (D-ELCP specific data (form))
 
 ![Page 65](png/p065.png)
 
 ---
 
-## Page 66 (German – form – D-ELCP weighing report, 24.05.18)
+## Page 66 (D-ELCP weighing report, 24.05.18 (form))
 
 ![Page 66](png/p066.png)
 
 ---
 
-## Page 67 (German – Part 3: CG report, 28.09.17)
+## Page 67 (Part 3: CG report, 28.09.17)
 
 ![Page 67](png/p067.png)
 
@@ -1490,7 +1486,7 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ## Page 68 (Section 7 – Controls)
 
-### Section 7 – Bedienelemente
+### Section 7 – Controls
 
 | Description | Pages |
 |---|---|
@@ -1513,11 +1509,11 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 69 (German – figure page – instrument panel diagram)
+## Page 69 (figure page – instrument panel diagram)
 
 ![Page 69](png/p069.png)
 
-**Abbildung Instrumentenbrett**
+**Figure: instrument panel**
 
 *Figure: instrument panel.*
 
@@ -1525,19 +1521,19 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 
 ---
 
-## Page 70 (German – translated – instrument panel legend)
+## Page 70 (instrument panel legend)
 
-### Instrumentenbrett (Instrument Panel)
+### Instrument Panel
 
 > Familiarity with the **controls, instruments and warning systems** is a key prerequisite for safe operation of the aircraft. The following presentation of the instrument panel is provided for that purpose. The numbers refer to the following:
 
-**Front window, centre (Frontfenster Mitte):**
+**Front window, centre:**
 
 | No. | Instrument |
 |---|---|
 | 1 | **Magnetic compass** |
 
-**Left panel (Linkes Panel):**
+**Left panel:**
 
 | No. | Instrument |
 |---|---|
@@ -1547,91 +1543,91 @@ Equipment installed **at the factory** after the initial weigh-in, listed below.
 | 5 | **Indicator light – high/low vacuum** |
 | 6 | **Vacuum indicator** |
 | 7 | **Garmin NAV/GPS Switching and Annunciator Unit** |
-| 8 | **Airspeed indicator** (Geschwindigkeitsmesser) |
+| 8 | **Airspeed indicator** |
 | 9 | **HSI** (Horizontal Situation Indicator) |
-| 10 | **Altimeter** (Hoehenmesser, duplicated) |
+| 10 | **Altimeter (duplicated)** |
 | 11 | **GPS course / deviation indicator** |
-| 12 | **Altimeter** (Hoehenmesser) |
+| 12 | **Altimeter** |
 | 13 | **Turn coordinator** |
-| 14 | **Artificial horizon** (Künstlicher Horizont) |
+| 14 | **Artificial horizon** |
 | 15 | **Variometer** |
 
-**Radio panel (Radio Panel):**
+**Radio panel:**
 
 | No. | Instrument |
 |---|---|
 | 16 | **Radio equipment** |
 
-**Right panel (Rechtes Panel):**
+**Right panel:**
 
 | No. | Instrument | No. | Instrument |
 |---|---|---|---|
 | 17 | **Autopilot** | 23 | **Exhaust gas temperature** |
 | 18 | **DME** | 24 | **Carburettor temperature** |
-| 19 | **Autopilot – pitch valve** | 25 | **Tachometer** (Drehzahlmesser) |
+| 19 | **Autopilot** (push/pull button — pull to engage, push to disengage) | 25 | **Tachometer** |
 | 20 | **Music input** | 26 | **Manifold pressure / fuel pressure** |
 | 21 | **Intercom** | 27 | **Main fuses** |
 | 22 | **JPI EDM-700** | 28 | **Avionics fuses and avionics master switch** |
 
 ---
 
-## Page 71 (German – translated – instrument panel legend, continued)
+## Page 71 (instrument panel legend, continued)
 
 ### Continued:
 
 | No. | Item |
 |---|---|
 | 28 | **GPS / RNAV** |
-| 29 | **Engine monitoring instruments and fuel gauge** (Triebwerküberwachungs-Instrumente und Tankanzeige) |
+| 29 | **Engine monitoring instruments and fuel gauge** |
 
-**Panel lower part (Panelunterteil):**
+**Lower part of panel:**
 
 | No. | Item |
 |---|---|
-| 30 | **Mixture lever** (Mixerhebel) |
-| 31 | **Propeller trim lever** (Propeller‑Verstellhebel) |
-| 32 | **Throttle lever** (Gashebel) – cigarette lighter / USB (Zigarettenanzünder/USB) |
-| 33 | Pull knob – **carburettor heat** with switch (Vergaservorwärmung mit Schalter) |
-| 34 | Pull knob – **cabin ventilation** (Kabinenentlüftung) – outside‑air thermometer (Aussen‑Thermometer) |
-| 35 | Pull knob – **cabin heating** (Kabinenheizung) – warning lights (Kontrollleuchten) |
-| 36 | Pull knob – **parking brake** (Parkbremse) – overvoltage (Überspannung) |
-| 37 | Switch – **anti‑collision beacon (strobe)** (Rotdrehlicht) – *altitude monitor* (Altitude Monitor) |
-| 38 | Switch – **position lights** (Positionsleuchten) – *fuel pump* (Benzinpumpe) |
-| 39 | Switch – **heated pitot** (geheiztes Staurohr) |
-| 40 | Switch – **electric fuel pump** (elektrische Benzinpumpe) |
-| 41 | **Main fuse – alternator** (Hauptsicherung Alternator) |
-| 42 | **Sub‑panel, left to right** (v. l. n. r.) — items 31‑38 above refer to these positions left→right across the panel |
-| 42a | **Autopilot vacuum valve** (Autopilot Vac. Ventil) |
-| 42b | **Cigarette lighter / USB** (Zigarettenanzünder/USB) |
-| 42c | **Outside‑air thermometer** (Aussen‑Thermometer) |
-| 42d | **Warning lights / overvoltage** (Kontrollleuchten / Überspannung) |
+| 30 | **Mixture lever** |
+| 31 | **Propeller trim lever** |
+| 32 | **Throttle lever** – cigarette lighter / USB |
+| 33 | Pull knob – **carburettor heat** with switch |
+| 34 | Pull knob – **cabin ventilation** – outside‑air thermometer |
+| 35 | Pull knob – **cabin heating** – warning lights |
+| 36 | Pull knob – **parking brake** – overvoltage |
+| 37 | Switch – **anti‑collision beacon (strobe)** – *altitude monitor* |
+| 38 | Switch – **position lights** – *fuel pump* |
+| 39 | Switch – **heated pitot** |
+| 40 | Switch – **electric fuel pump** |
+| 41 | **Main fuse – alternator** |
+| 42 | **Sub‑panel, left to right** — items 31‑38 above refer to these positions left→right across the panel |
+| 42a | **Autopilot vacuum valve** |
+| 42b | **Cigarette lighter / USB** |
+| 42c | **Outside‑air thermometer** |
+| 42d | **Warning lights / overvoltage** |
 | 42e | **Altitude monitor** |
-| 42f | **Fuel pump** (Benzinpumpe) |
+| 42f | **Fuel pump** |
 
-**Centre console (Mittelkonsole):**
-
-| No. | Item |
-|---|---|
-| 43 | **Valve lever – flap hydraulics** (Landeklappenhydraulik) |
-| 44 | **Pump lever – flaps** (Pumpenhebel Landeklappen) |
-| 45 | **Trim indicator** (Trimmanzeige) |
-| 46 | **Flap position indicator** (Landeklappenanzeige) |
-| 47 | **Landing‑gear lever** (Fahrwerkshebel) |
-| 48 | Ventilation / heating lever – centre cabin (Mittelkabine) |
-| 49 | Ventilation / heating lever – left foot‑well (linker Fußraum) |
-| 50 | Ventilation / heating lever – right foot‑well (rechter Fußraum) |
-
-**Cabin floor (Kabinenboden):**
+**Centre console:**
 
 | No. | Item |
 |---|---|
-| 51 | **Trim wheel** (Trimmrad – elevator trim) |
-| 52 | **Fuel selector switch and tank drain** (Tankschalter und Tankentwässerung) |
+| 43 | **Valve lever – flap hydraulics** |
+| 44 | **Pump lever – flaps** |
+| 45 | **Trim indicator** |
+| 46 | **Flap position indicator** |
+| 47 | **Landing‑gear lever** |
+| 48 | Ventilation / heating lever – centre cabin |
+| 49 | Ventilation / heating lever – left foot‑well |
+| 50 | Ventilation / heating lever – right foot‑well |
+
+**Cabin floor:**
+
+| No. | Item |
+|---|---|
+| 51 | **Trim wheel** (elevator trim) |
+| 52 | **Fuel selector switch and tank drain** |
 
 ---
 
-## Page 72 (German – translated – engine, ignition system)
-### Engine (Triebwerk)
+## Page 72 (engine, ignition system)
+### Engine
 
 The **engine control levers** – throttle, mixture, and propeller trim – are mounted side by side in the centre below the instrument panel.
 
@@ -1645,7 +1641,7 @@ All three levers have a **fine-adjustment knob** at their head, operated by rota
 
 All **engine monitoring instruments** are on the **right-hand panel half**. Paint markings on the instruments indicate the operating ranges. Correct interpretation of the instrument indications is important for correct and economical engine setting.
 
-### Ignition System (Zündsystem)
+### Ignition System
 
 The engine is equipped with a **dual-magneto ignition system**. In addition, a **starter vibrator** produces a higher voltage for a stronger spark during starting.
 
@@ -1653,97 +1649,97 @@ The ignition-starter switch, turned clockwise: **right magneto → left magneto 
 
 ---
 
-## Page 73 (German – translated – fuel, oil, cooling, vacuum and flight‑monitoring systems)
+## Page 73 (fuel, oil, cooling, vacuum and flight‑monitoring systems)
 
-### 1. Fuel System (Benzinsystem)
+### 1. Fuel System
 
-The fuel system consists of **one wing tank per side**, giving a total usable capacity of **52 U.S. gallons (196 litres)**. **Drain valves** are located at the **lowest points** of each tank (drain procedure at the refuelling/drain p. 4‑1 *Relighting drain* cycle as in the flight‑before‑flight check). A **further drain valve** is located **beside the fuel selector switch** (cabin left of centre‑console); it is used to **drain the fuel lines** that run between the tank, the fuel selector switch and the engine — the same line drain that is checked for **water** before each flight.
+The fuel system consists of **one wing tank per side**, giving a total usable capacity of **52 U.S. gallons (196 litres)**. **Drain valves** are located at the **lowest points** of each tank (drain procedure as in the pre‑flight check). A **further drain valve** is located **beside the fuel selector switch** (cabin left of centre-console); it is used to **drain the fuel lines** that run between the tank, the fuel selector switch and the engine - the same line drain that is checked for **water** before each flight.
 
 > **52 U.S. gal = 196 L ≈ 41.7 imp gal.**
 
-### 2. Oil System (Ölsystem)
+### 2. Oil System
 
-The engine uses a **pressure‑circulation lubrication system** (full‑pressure oil system) with a total oil capacity of **8 U.S. quarts (7.5 L)**. An **automatic bypass valve** diverts the oil either **through the oil cooler** or **around it** depending on **oil temperature** or, if the **oil cooler becomes blocked**. The engine must hold **between 6 and 8 U.S. quarts** of oil at all times. For further details see the **manufacturer's instructions in the engine (Lycoming) manual**.
+The engine uses a **pressure-circulation lubrication system** (full-pressure oil system) with a total oil capacity of **8 U.S. quarts (7.5 L)**. An **automatic bypass valve** diverts the oil either **through the oil cooler** or **around it** depending on **oil temperature** or if the **oil cooler becomes blocked**. The engine must hold **between 6 and 8 U.S. quarts** of oil at all times. For further details see the **manufacturer's instructions in the engine (Lycoming) manual**.
 
-### 3. Engine Cooling (Triebwerkskühlung)
+### 3. Engine Cooling
 
 The **forced‑air** cooling system (natural ram + slipstream from the propeller) provides sufficient cooling of the engine. **Cooling flaps are kept open at all times**, allowing the airstream that has passed through the engine compartment to **leave the area again**.
 
-### 4. Vacuum System (Vacuumsystem)
+### 4. Vacuum System
 
 The **engine‑driven vacuum (venturi / power) pump** supplies the **heading (compass) indicator, the turn coordinator** and the **artificial horizon** with the **vacuum pressure** they require. At the same time it also feeds the **positive‑pressure control system** (see p. 74). The **vacuum warning light** acts as follows:
-* **Lit continuously** indicates **excessive vacuum** (over‑pressure / "zu hoher Druck").
-* **Flashing** indicates **too‑low vacuum** ("zu niedriger Druck") — below this the gyros start to drift.
+* **Lit continuously** indicates **excessive vacuum** (over‑pressure).
+* **Flashing** indicates **too‑low vacuum** — below this the gyros start to drift.
 
-### 5. Flight‑Monitoring Instruments (Flugüberwachungsinstrumente)
+### 5. Flight‑Monitoring Instruments
 
-All major flight‑monitoring instruments are **grouped on the spring‑isolated (vibration‑isolated) instrument panel**, in particular the **gyro instruments** (**artificial horizon, heading indicator, turn coordinator**) which are essential for **flight control (attitude / heading / turn control).** The panel is fitted on **rubber (resilient) mounts** so that vibration produced in the airframe is **not transmitted** into the gyro instruments — this is necessary to keep **heading / bank accuracy** within the limits required for stabilised flight.
+All major flight-monitoring instruments are **grouped on the spring-isolated (vibration-isolated) instrument panel**, in particular the **gyro instruments** (**artificial horizon, heading indicator, turn coordinator**) which are essential for **flight control (attitude / heading / turn control)**. The panel is fitted on **rubber (resilient) mounts** so that vibration produced in the airframe is **not transmitted** into the gyro instruments - this is necessary to keep **heading / bank accuracy** within the limits required for stabilised flight.
 
 ---
 
-## Page 74 (German – translated – flight instruments, controls and positive-control system)
+## Page 74 (flight instruments, controls and positive-control system)
 
-### Instrumentation (Fluginstrumentierung)
+### Instrumentation
 
-* The **standard instruments** also include the **air-speed indicator (Fahrtmesser, air speed at stall / take-off / landing)** and the **altimeter (Höhenmesser, QNH from the nearest barometer)**. These are part of the standard instrument pack shown on p. 70 (positions 8, 10, 12).
-* The **flap position indicator (Landeklappenanzeige)** is mounted on the **centre cross console**, just below the instrument panel, and shows the actual position of the flaps (up, 15°, 30°, 45°). The **required flap setting for take-off and landing** is indicated next to it.
-* An **eight-day clock** is installed in the **pilot's steering wheel (Steuerrad, hand-wheel)**.
-* The **magnetic compass (Magnetkompass)** sits **in the centre above the instrument panel**, behind the wind-shield.
+* The **standard instruments** also include the **air-speed indicator (shows airspeed at stall / take-off / landing)** and the **altimeter** (QNH from the nearest barometer). These are part of the standard instrument pack shown on p. 70 (positions 8, 10, 12).
+* The **flap position indicator** is mounted on the **centre console**, just below the instrument panel, and shows the actual position of the flaps (up, 15°, 30°, 45°). The **required flap setting for take-off and landing** is indicated next to it.
+* An **eight-day clock** is installed in the **pilot's control wheel**.
+* The **magnetic compass** sits **in the centre above the instrument panel**, behind the wind-shield.
 * An **outside-temperature thermometer** is mounted **on the upper edge of the wind-shield, through the glass** (OAT, item 15 on p. 70).
 
-### Pitot / static system and stall horn (Stau-/Statiksystem)
+### Pitot / static system and stall horn
 
-* The **heated pitot tube** feeding the air-speed indicator is **under the left wing** and has a **drain valve** (used in the pre-flight check to make sure the line is dry). **Static holes** are on **both sides of the tail** and also have drain valves. An **alternate static source** ("Ausweichmöglichkeit für die Versorgung mit statischem Druck") is available (see section 6: if the main static is blocked the altimeter / VSI will no longer be correct).
-* The **stall-warning horn** also has its **vane (Geber)** in the left wing; the horn itself is inside the skin of the **roof above the cabin (Dachverkleidung)**.
+* The **heated pitot tube** feeding the air-speed indicator is **under the left wing** and has a **drain valve** (used in the pre-flight check to make sure the line is dry). **Static holes** are on **both sides of the tail** and also have drain valves. An **alternate static source** is available (see section 6: if the main static is blocked the altimeter / VSI will no longer be correct).
+* The **stall-warning horn** also has its **vane** in the left wing; the horn itself is inside the skin of the **roof above the cabin**.
 
-### The Landing-gear indicator (Landewerk)
+### The Landing-gear indicator
 
 * An **orange "GEAR-UP" light** is above the **gear switch**.
 * The **green "GEAR-DOWN" light** (and all remaining warning / annunciator lights) is below the gear switch.
-* In addition to these **warning lights**, the **gear warning horn** rings when the **throttle is pulled back to about 10 inch manifold pressure** (~ 0.34 bar closing; 10 inHg) — near cruise power with gear retracted and the **gear is not down and locked** — a reminder that the gear is still retracted.
+* In addition to these **warning lights**, the **gear warning horn** rings when the **throttle is pulled back to about 10 in. Hg manifold pressure** (near cruise power) and the gear is **not down and locked** — a reminder that the gear is still retracted.
 
-### Control surfaces (Die Ruder)
+### Control surfaces
 
-* **Play-free transmission** of the deflections of the control wheel / stick to the control surfaces is achieved with **rigid control rods (Steuerräder, push–rod / pull-rod)**.
-* Every control surface is **aerodynamisch ausgeglichen** so the **force required for the full deflection stays within human limits**.
+* **Play-free transmission** of the deflections of the control wheel / stick to the control surfaces is achieved with **rigid control rods (push–rod / pull-rod)**.
+* Every control surface is **aerodynamically balanced** so that the **force required for the full deflection stays within human limits**.
 
-### The Mooney Positive-Control System (Positiv-Kontroll-System)
+### The Mooney Positive-Control System
 
-* The **Mooney Positive-Control System** **stabilises the aircraft about the longitudinal axis** by deflecting the **ailerons** (Querruder). Its **sensor is the turn coordinator (Wendezeiger)**: when the bank deviation from the hold angle the pilot has set begins, the system re-restores it. As a result **a course initiated by the pilot is held automatically** for a while.
+* The **Mooney Positive-Control System** **stabilises the aircraft about the longitudinal axis** by deflecting the **ailerons**. Its **sensor is the turn coordinator**: when the bank deviates from the angle the pilot has set, the system **restores it**. As a result, **a bank initiated by the pilot is held automatically** for a while.
 
-> **Limitation:** it is **not possible to hold a pre-selected course longer**, because the entire chain of the system – the **turn coordinator** (driven by **vacuum and electric**) and the **positive-control servo** (driven by vacuum) – needs a **minimum engine speed of about 1,000 rpm**. Below that (e.g. in a glide) the servo / gyro pressure falls and the system no longer acts.
+> **Limitation:** it is **not possible to hold a pre-selected bank longer**, because the entire chain of the system - the **turn coordinator** (driven by **vacuum and electric**) and the **positive-control servo** (driven by vacuum) - needs a **minimum engine speed of about 1,000 rpm**. Below that (e.g. in a glide) the servo / gyro pressure falls and the system no longer acts.
 >
-> The system is **always in the flush** during flight. It can be **switched off temporarily** by pressing the **interrupt switch on the left side of the control wheel** – the aircraft will return to the normal attitude as soon as the switch is released, and the system re-engages. Equally, the system can be **overridden without touching the interrupt switch** by **light force on the side of the yoke** – the system will **not be damaged** by this.
+> The system is **constantly engaged** during flight. It can be **switched off temporarily** by pressing the **interrupt switch on the left side of the control wheel** - the aircraft will return to the normal attitude as soon as the switch is released, and the system re-engages. Equally, the system can be **overridden without touching the interrupt switch** by **light force on the control wheel** - the system will **not be damaged** by this.
 >
 > A **roll-trim knob** on the turn coordinator lets the pilot **trim the ailerons** left / right, mainly to compensate for asymmetry from **unequal fuel flow** (one wing tank) or **uneven passenger weight**.
-## Page 75 (German – figure page – cabin floor controls diagram)
+## Page 75 (figure page – cabin floor controls diagram)
 
 ![Page 75](png/p075.png)
 
 ---
 
-## Page 76 (German – translated – PC system, trim and flaps (continued from p. 74))
+## Page 76 (PC system, trim and flaps (continued from p. 74))
 
-### Positive-Control System (Positiv-Kontroll-System) – continued
+### Positive-Control System – continued
 
-* As described on p. 74, the system works using **vacuum** (Uunterdruck), so a **minimum engine speed of 1,000 rpm** is always required for it to function.
-* The system is **constantly in the flush** (st&ndig eingeschaltet, always on). It can be **interrupted temporarily** by the **interrupt switch on the left hand of the control wheel / steering hound**.
-* If the pilot **banks the aircraft into a turn** while the system is still in the flush, and then **releases the interrupt switch**, the **aircraft will automatically return to its normal attitude** – the system re-engages.
-* The Positive-Control System can be **over-steered (Übersteuert)** without using the interrupt switch, by **applying light force to the controls** – the system will **not be damaged** by this.
-* A **roll trim knob (Roll-Trimm-Knopf) on the turn coordinator (Wendezeiger)** makes it possible to **trim the ailerons (Querruder)**, to compensate for **unbalance** caused by **unequal fuel draw** (one tank emptying faster) or **unequal passenger weight**.
+* As described on p. 74, the system works using **vacuum**, so a **minimum engine speed of 1,000 rpm** is always required for it to function.
+* The system is **constantly engaged** (always on). It can be **interrupted temporarily** by the **interrupt switch on the left side of the control wheel**.
+* If the pilot **banks the aircraft into a turn** while the system is still **engaged**, and then **releases the interrupt switch**, the **aircraft will automatically return to its normal attitude** – the system re-engages.
+* The Positive-Control System can be **overridden** without using the interrupt switch, by **applying light force to the controls** – the system will **not be damaged** by this.
+* A **roll trim knob on the turn coordinator** makes it possible to **trim the ailerons**, to compensate for **unbalance** caused by **unequal fuel draw** (one tank emptying faster) or **unequal passenger weight**.
 
 ### Elevator Trim (Hhhenleitwerk-Trimmung)
 
 * The **elevator trim wheel** is located **between the two pilot seats**.
-* **Turn the wheel forward** → **nose down (Absenken der Flugzeugnase)**.
-* **Turn the wheel back** → **nose up (Aufwärtsrichten der Flugzeugnase)**.
-* A **trim indicator (Trimmanzeige)** is located on the **centre cross console (Mittelkonsole)**.
+* **Turn the wheel forward** → **nose down**.
+* **Turn the wheel back** → **nose up**.
+* A **trim indicator** is located on the **centre console**.
 
-### Landing Flaps (Landeklappen)
+### Landing Flaps
 
-* The flaps are **hydraulically actuated** (*hydraulisch betätigt*) by **closing (pressing down)** the **hydraulic valve** and by **pumping the pump lever (Pumpenhebel)**. The pump lever **presses hydraulic oil into the flap cylinders** (Hydrauliköl in die Landeklappen‑zylinder), so that **the flaps extend**.
-* **Opening the valve** by **raising the flap valve lever (Landeklappen‑Ventilhebel)** causes the **return flow of the hydraulic oil**, and thereby **retracts the flaps**.
-* The **flap position** is indicated in the **centre console below the instrument panel** (*Mittelkonsole*). At this location there are also **markings for the required flap position for take‑off and landing**.
+* The flaps are **hydraulically actuated** by **closing (pressing down)** the **hydraulic valve** and by **pumping the pump lever**. The pump lever **presses hydraulic oil into the flap cylinders**, so that **the flaps extend**.
+* **Opening the valve** by **raising the flap valve lever** causes the **return flow of the hydraulic oil**, and thereby **retracts the flaps**.
+* The **flap position** is indicated in the **centre console below the instrument panel**. At this location there are also **markings for the required flap position for take‑off and landing**.
 
 ---
 
@@ -1765,44 +1761,44 @@ All major flight‑monitoring instruments are **grouped on the spring‑isolated
 
 ---
 
-## Page 80 (German – translated – landing gear: mechanical and electric)
+## Page 80 (landing gear: mechanical and electric)
 
 > Continuation of Section 7 (Systems). The lower portion of the electronic instrument group (positions 17–28, page 70) from the previous page is recapitulated here.
 
-### Landing Gear – Mechanical (Fahrwerk – mechanisch)
+### Landing Gear – Mechanical
 
 The landing gear is **mechanically retractable**. It works via **direct mechanical lever operation**. **Built‑in spring elements** ease the retraction / extension and **reduce the driving force** that has to be applied.
 
-The springing of the gear is done via **multiple, stacked, rubber discs** (Übereinander liegende Gummischeiben).
+The springing of the gear is done via **multiple, stacked, rubber discs**.
 
-**A red and a green indication light** on the instrument panel show the respective state of the gear. The function of the warning lights can be **checked by pressing the lamp socket** (Lampenfassung).
+**A red and a green indication light** on the instrument panel show the respective state of the gear. The function of the warning lights can be **checked by pressing the lamp socket**.
 
-**To retract the gear:** press in the **safety button (Sicherungsknopf)**, pull down the **grip sleeve (Griffhülse)** on the gear lever, **move the gear lever** (Umlegen des Fahrwerkhebels) and **latch it in the holder** on the cabin floor. **The faster the retraction is performed, the easier the operation.** It is easiest to retract at **low speed immediately after take‑off**.
+**To retract the gear:** press in the **safety button**, pull down the **grip sleeve** on the gear lever, **move the gear lever** and **latch it in the holder** on the cabin floor. **The faster the retraction is performed, the easier the operation.** It is easiest to retract at **low speed immediately after take‑off**.
 
 To **extend the gear**, the above procedure is performed **in reverse direction**.
 
-After the lever has latched into the holder below the instrument panel, **check that the safety button (Sicherungsknopf)** has **popped up**. At the same time the **green indication light** comes on, showing that the gear is **down**.
+After the lever has latched into the holder below the instrument panel, **check that the safety button** has **popped up**. At the same time the **green indication light** comes on, showing that the gear is **down**.
 
 There are **three ways** to check that the gear is **down and secured**:
 
 1. The **green indication light**
-2. The **safety lever (Sicherungshebel)** on the gear‑lever holder
+2. The **safety lever** on the gear‑lever holder
 3. **The aural warning** when the **throttle is pulled back to less than 10 inch MP (0.34 bar)**
 
 **The red warning light** indicates that the gear lever is **not fully latched and secured**.
 
-In contrast to the **intermittent (interrup'ted) signal** of the gear warning, the **stall warning (Überzieh‑Warnung)** warns of an **approaching stall** with a **continuous tone**.
-Both warning signals are **out of operation** when the **master switch (Hauptschalter)** is **turned off**.
+In contrast to the **intermittent (interrupted) signal** of the gear warning, the **stall warning** warns of an **approaching stall** with a **continuous tone**.
+Both warning signals are **out of operation** when the **master switch** is **turned off**.
 
-### Landing Gear – Electric (Fahrwerk – elektrisch)
+### Landing Gear – Electric
 
-The switch for the **electrically operated gear** is located **above the throttle lever (Gashebel) at the head of the instrument panel (Kopf des Instrumentenbrettes)**.
-## Page 81 (German – translated – landing gear (electric, cont'd), emergency and brakes)
+The switch for the **electrically operated gear** is located **above the throttle lever, at the top of the instrument panel**.
+## Page 81 (landing gear (electric, cont'd), emergency and brakes)
 
-The position **"Fahrwerk ausgefahren und verriegelt"** (gear down **and locked**) is **monitored in three ways**:
+**Gear down and locked** is **monitored in three ways**:
 
 1. via the **green warning light "Gear down and locked"**
-2. via a **window (Sichtfenster) on the cabin floor**
+2. via a **window on the cabin floor**
 3. by **the fact that the warning horn does not sound**
 
 **Monitoring of all phases of gear operation** is possible via the lamps:
@@ -1814,55 +1810,55 @@ The position **"Fahrwerk ausgefahren und verriegelt"** (gear down **and locked**
 
 For **night operations**, the green **"Gear down" light** is **automatically dimmed** when the **night‑flight lighting** is switched on. **When the gear is retracted and locked, the orange lamp** is lit.
 
-**The gear indicator window (Fahrwerksichtfenster)** in the **cabin floor** has **two marks (Marken)** that indicate the gear is **extended**. **Pulling back the throttle lever below 10 inch Ladedruck (≈ 0.34 bar)** causes the **gear warning horn to sound**, if the gear is retracted.
+**The gear indicator window** in the **cabin floor** has **two marks** that indicate the gear is **extended**.**Pulling back the throttle lever below 10 in. Hg manifold pressure (≈ 0.34 bar)** causes the **gear warning horn to sound**, if the gear is retracted.
 
 **As long as the gear is loaded** (on the ground), **a switch in the gear system** prevents **inadvertent retraction**.
 
-### Landing‑gear Emergency‑extension System (Fahrwerk‑Notausfahrsystem)
+### Landing‑gear Emergency‑extension System
 
 The **landing‑gear emergency‑extension system** on the **left side wall** makes it possible to **turn the electric gear motor by hand**. Further details on the emergency‑extension system: **see Part IV**.
 
-### Braking and Steering (Brems‑ und Lenksystem)
+### Braking and Steering
 
-The **main gear** is equipped with **self‑adjusting disc brakes (Scheibenbremsen)**. In the **rudder pedals (Seitenruderpedale)** on the **pilot's side**, **foot brakes (Fußbremsen)** are built in. The **parking brake (Feststellbremse)** is operated by **a pull lever (Zughebel) on the right side of the centre console**.
+The **main gear** is equipped with **self‑adjusting disc brakes**. In the **rudder pedals** on the **pilot's side**, **foot brakes** are built in.The **parking brake** is operated by **a pull lever on the right side of the centre console**.
 
 **With overheated brakes after hard braking**, and **for longer parking**, the **parking brake should not be used**, in order **not to damage the system**.
-## Page 82 (German – translated – electrical system)
+## Page 82 (electrical system)
 
-### Electrical System (Elektrisches System)
+### Electrical System
 
-#### Automatic Alternator (Wechselstrom‑Lichtmaschine) and Battery
+#### Automatic Alternator and Battery
 
-The aircraft is equipped with a **50‑ampere DC generator** *or* a **60‑ampere AC generator (alternator)**, and a **35 A/h, 12 V battery** (negative terminal connected to airframe ground – brain piece of the aircraft). An **amperemeter** shows the **state of charge** of the battery. **A high charge rate** indicates that the battery is **discharged**. The **voltage regulator** is monitored by a **high‑voltage warning light** (*Überspannungswarnlicht*): **the lamp lights continuously** if the voltage is **too high**, and it **blinks** if the voltage is **too low**.
+The aircraft is equipped with a **50‑ampere DC generator** *or* a **60‑ampere AC generator (alternator)**, and a **35 Ah, 12 V battery** (negative terminal connected to airframe ground). An **amperemeter** shows the **state of charge** of the battery. **A high charge rate** indicates that the battery is **discharged**. The **voltage regulator** is monitored by a **high‑voltage warning light**:**the lamp lights continuously** if the voltage is **too high**, and it **blinks** if the voltage is **too low**.
 
-#### Fuses (Sicherungen)
+#### Fuses
 
 Three types of fuses are used:
 
-1. **Pull/push‑switch (Zug‑/Druckschalter)**
-2. **Push‑switch (Druckschalter)**
-3. **Toggle‑switch (Kippschalter)** with an **additional fuse** function, used to **switch individual electrical consumers on and off**
+1. **Push/pull switch**
+2. **Push switch**
+3. **Toggle switch** with an **additional fuse** function, used to **switch individual electrical consumers on and off**
 
-#### Pull / Push‑Switch / Push‑Switch Layout (Zug‑/Druckschalter / Druckschalter)
+#### Push/pull and Push switch Layout
 
 ![Switch panel layout figure (page 82)](png/p082.png)
 
-*Figure: switch panel layout — pull/push switches (Zug‑/Druckschalter) and push switches (Druckschalter), positions 1–12. The legend below it on the original page (1 = auxiliary bus … 10 = stall warning) is reprinted as the table beneath.*
+*Figure: switch panel layout — push/pull switches and push switches, positions 1–12. The legend below it on the original page is reprinted as the table beneath.*
 
 The switch panel has **two rows of six switches** (1–10 left, 11–12 right), each with an associated fuse:
 
 | No. | Left Column | Right Column |
 |---|---|---|
-| 1 | **Auxiliary bus** (Hilfssammelschiene) | 6 | **Turn coordinator** (Wendezeiger) |
-| 2 | **Alternator / Generator** (Lichtmaschine) | 7 | **Radio‑compass** (Radiokompass) |
-| 3 | **Ignition + cigarette lighter** (Zündung & Zigarettenanzünder) | 8 | **Radio equipment** (Funkgeräte) |
-| 4 | **Starter + vacuum warning lights** (Anlasser & Vacuumwarnlichter) | 9 | **Gear warning** (Fahrwerkwarnung) |
-| 5 | **Instruments + ceiling lights** (Instrum. & Deckenbeleuchtung) | 10 | **Stall warning** (Überziehwarnung) |
+| 1 | **Auxiliary bus** | 6 | **Turn coordinator** |
+| 2 | **Alternator / Generator** | 7 | **Radio‑compass** |
+| 3 | **Ignition + cigarette lighter** | 8 | **Radio equipment** |
+| 4 | **Starter + vacuum warning lights** | 9 | **Gear warning** |
+| 5 | **Instruments + ceiling lights** | 10 | **Stall warning** |
 
-These switches are the **pull/push** (Zug‑/Druckschalter) and **push** (Druckschalter) types on the panel, as labelled in the pairing **Zug‑/Druckschalter / Druckschalter**.
-## Page 83 (German – translated – electrical schematic with generator)
+These switches are the **push/pull** and **push** types on the panel.
+## Page 83 (electrical schematic with generator)
 
-### Schaltbild mit Gleichstrom‑Lichtmaschine (Electrical schematic with DC Generator)
+### Electrical Schematic with DC Generator
 
 ![Electrical schematic with DC generator (page 83)](png/p083.png)
 
@@ -1870,53 +1866,53 @@ These switches are the **pull/push** (Zug‑/Druckschalter) and **push** (Drucks
 
 **Top panel – warning, horn and panel switches:**
 
-| No. | German label | English |
-|---|---|---|
-| — | **Überziehwarnung** | **Stall‑warning horn** |
-| — | **Fahrwerkswarnung** | **Gear‑warning horn** |
-| OPT | **Com/Nav Geräte** | **COM / NAV radio** (optional) |
-| — | **Wendezeiger** | **Turn coordinator** |
-| — | **Instr. + Deckenbeleuchtung** | **Instruments + ceiling (dome) light** |
-| — | **Motor‑Überwachungsgeräte** | **Engine‑monitoring instruments** |
-| — | **Zündung + Starter** | **Ignition + starter** |
-| — | **Sammelschiene** | **Main bus** |
-| — | **Landescheinwerfer** | **Landing light** |
-| — | **Positionslichter** | **Position lights** |
-| OPT | **Rotdrehlicht** | **Anti‑collision (strobe) light** (optional) |
-| — | **Staurohrheizung** | **Pitot‑heat** |
-| OPT | **Gleitwegempfänger** | **Glide‑slope receiver** (optional) |
-| OPT | **Markerempfänger** | **Marker beacon receiver** (optional) |
-| — | **Benzinzusatzpumpe** | **Auxiliary fuel pump** |
+| Callout | Item |
+|---|---|
+| — | **Stall‑warning horn** |
+| — | **Gear‑warning horn** |
+| OPT | **COM / NAV radio** (optional) |
+| — | **Turn coordinator** |
+| — | **Instruments + ceiling (dome) light** |
+| — | **Engine‑monitoring instruments** |
+| — | **Ignition + starter** |
+| — | **Main bus** |
+| — | **Landing light** |
+| — | **Position lights** |
+| OPT | **Anti‑collision (strobe) light** (optional) |
+| — | **Pitot‑heat** |
+| OPT | **Glide‑slope receiver** (optional) |
+| OPT | **Marker beacon receiver** (optional) |
+| — | **Auxiliary fuel pump** |
 
 **Lower panel – switch labels (Figure 2‑5 legend, 1–12):**
 
-| No. | German label | English |
-|---|---|---|
-| 1 | **Linker Magnet** | **Left magneto** |
-| 2 | **Zündschalter** | **Ignition switch** |
-| 3 | **Rechter Magnet** | **Right magneto** |
-| 4 | **Starter‑Vibrator** | **Starter vibrator** |
-| 5 | **Starter‑Magnetschule** | **Starter magnetic cut‑off** (relay) |
-| 6 | **Batterie‑Strom‑Relais** | **Battery current relay** |
-| 7 | **Hauptschalter** | **Master switch** |
-| 8 | **Anlasser** | **Starter** |
-| 9 | **Lichtmaschine** | **Generator** |
-| 10 | **Lichtmasch. Sicher. 50 Am** | **Generator fuse, 50 A** |
-| 11 | **Batterie** | **Battery** |
-| 12 | **Spannungsregler** | **Voltage regulator** |
+| No. | Label |
+|---|---|
+| 1 | **Left magneto** |
+| 2 | **Ignition switch** |
+| 3 | **Right magneto** |
+| 4 | **Starter vibrator** |
+| 5 | **Starter magnetic cut‑off** (relay) |
+| 6 | **Battery current relay** |
+| 7 | **Master switch** |
+| 8 | **Starter** |
+| 9 | **Generator** |
+| 10 | **Generator fuse, 50 A** |
+| 11 | **Battery** |
+| 12 | **Voltage regulator** |
 
-**Fuse / symbol legend (Sicherungs‑Symbole):**
+**Fuse / symbol legend:**
 
-* **a** — Druck‑Sicherung (push fuse)
-* **b** — Druck/Zug‑Sicherung (push / pull fuse)
+* **a** — push fuse
+* **b** — push / pull fuse
 
 **FIGURE 2‑5 – ELECTRICAL SYSTEM SCHEMATIC (WITH GENERATOR)**
 
 ---
 
-## Page 84 (German – translated – electrical schematic with alternator)
+## Page 84 (electrical schematic with alternator)
 
-### Schaltbild mit Wechselstrom‑Lichtmaschine (Electrical schematic with AC alternator) – Ausgabe 1
+### Electrical Schematic with AC Alternator – Ausgabe 1
 
 ![Electrical schematic with AC alternator (page 84)](png/p084.png)
 
@@ -1924,70 +1920,69 @@ These switches are the **pull/push** (Zug‑/Druckschalter) and **push** (Drucks
 
 **Top panel – warning, horn and panel switches:**
 
-| No. | German label | English |
-|---|---|---|
-| — | **Überziehwarnung** | **Stall‑warning horn** |
-| — | **Fahrwerkswarnung** | **Gear‑warning horn** |
-| OPT | **Com/Nav Geräte** | **COM / NAV radio** (optional) |
-| — | **Wendezeiger** | **Turn coordinator** |
-| — | **Instr. + Deckenbeleuchtung** | **Instruments + ceiling (dome) light** |
-| — | **Motor‑Überwachungsgeräte** | **Engine‑monitoring instruments** |
-| — | **Zündung + Starter** | **Ignition + starter** |
-| — | **Lichtmasch. Feldwicklung** | **Generator field coil** |
-| — | **Sammelschiene** | **Main bus** |
-| — | **Landescheinwerfer** | **Landing light** |
-| — | **Positionslichter** | **Position lights** |
-| OPT | **Rotdrehlicht** | **Anti‑collision (strobe) light** (optional) |
-| — | **Staurohrheizung** | **Pitot‑heat** |
-| OPT | **Gleitwegempfänger** | **Glide‑slope receiver** (optional) |
-| OPT | **Markerempfänger** | **Marker beacon receiver** (optional) |
-| — | **Benzinzusatzpumpe** | **Auxiliary fuel pump** |
+| Callout | Item |
+|---|---|
+| — | **Stall‑warning horn** |
+| — | **Gear‑warning horn** |
+| OPT | **COM / NAV radio** (optional) |
+| — | **Turn coordinator** |
+| — | **Instruments + ceiling (dome) light** |
+| — | **Engine‑monitoring instruments** |
+| — | **Ignition + starter** |
+| — | **Generator field coil** |
+| — | **Main bus** |
+| — | **Landing light** |
+| — | **Position lights** |
+| OPT | **Anti‑collision (strobe) light** (optional) |
+| — | **Pitot‑heat** |
+| OPT | **Glide‑slope receiver** (optional) |
+| OPT | **Marker beacon receiver** (optional) |
+| — | **Auxiliary fuel pump** |
 
 **Lower panel – component list (Figure 2‑5A legend, 1–15):**
 
-| No. | German label | English |
-|---|---|---|
-| 1 | **Linker Magnet** | **Left magneto** |
-| 2 | **Zündschalter** | **Ignition switch** |
-| 3 | **Rechter Magnet** | **Right magneto** |
-| 4 | **Starter‑Vibrator** | **Starter vibrator** |
-| 5 | **Starter‑Magnetschule** | **Starter magnetic cut‑off** (relay) |
-| 6 | **Batterie‑Strom‑Relais** | **Battery current relay** |
-| 7 | **Hauptschalter** | **Master switch** |
-| 8 | **Anlasser** | **Starter** |
-| 9 | **Lichtmaschine** | **Alternator** |
-| 10 | **Filter** | **Filter** |
-| 11 | **Batterie** | **Battery** |
-| 12 | **Lichtmasch. Sicher. 70 Amp** | **Alternator fuse, 70 A** |
-| 13 | **Kondensator** | **Condenser (capacitor)** |
-| 14 | **Lichtmasch. Warnlicht** | **Alternator warning light** |
-| 15 | **Spannungsregler** | **Voltage regulator** |
+| No. | Label |
+|---|---|
+| 1 | **Left magneto** |
+| 2 | **Ignition switch** |
+| 3 | **Right magneto** |
+| 4 | **Starter vibrator** |
+| 5 | **Starter magnetic cut‑off** (relay) |
+| 6 | **Battery current relay** |
+| 7 | **Master switch** |
+| 8 | **Starter** |
+| 9 | **Alternator** |
+| 10 | **Filter** |
+| 11 | **Battery** |
+| 12 | **Alternator fuse, 70 A** |
+| 13 | **Condenser (capacitor)** |
+| 14 | **Alternator warning light** |
+| 15 | **Voltage regulator** |
 
-**Fuse / symbol legend (Sicherungs‑Symbole):**
+**Fuse / symbol legend:**
 
-* **a** — Druck‑Sicherung (push fuse)
-* **b** — Druck/Zug‑Sicherung (push / pull fuse)
-* **c** — Kippschalter‑Sicherung (toggle‑switch fuse)
+* **a** — push fuse
+* **b** — push / pull fuse
+* **c** — toggle‑switch fuse
 
 **FIGURE 2‑5A – ELECTRICAL SYSTEM SCHEMATIC (WITH ALTERNATOR)**
 
 ---
 
-## Page 85 (German – translated – cabin interior text)
+## Page 85 (cabin interior: lights, heating, seats)
 
-### Warnlichter (Warning Lights)
+### Warning Lights
 The **gear warning lights** are located **above and below the gear-operating switch** at the upper edge of the instrument panel. The other warning lights are directly **below them**. Their functions are described elsewhere in this manual.
 
-### Instrumentenbrett‑Beleuchtung und Beleuchtung der Hinweisschilder
-**(Instrument‑Panel and Instruction‑Sign Lighting)**
+### Instrument‑Panel and Instruction‑Sign Lighting
 
 The lighting of the instrument panel and the instruction‑sign placards is provided by **light bulbs** and is **adjustable in brightness**.
 
-### Kabinenbeleuchtung **(Cabin Light)**
+### Cabin Light
 
 The **cabin light** is adjustable in **brightness and direction**. It can therefore also serve as an **emergency light** for the instrument panel. It is on a circuit **independent of the master switch**, so it can also be used as an **entry light** to illuminate the cabin area. Its **light output** is separately adjustable.
 
-### Kabinenheizung und Frischluftsystem **(Cabin Heating and Fresh‑Air System)**
+### Cabin Heating and Fresh‑Air System
 
 The heating and fresh‑air system has **three components**:
 
@@ -1999,105 +1994,105 @@ A **third, independent fresh‑air system** is supplied through an **inlet in th
 
 For **de‑icing the windshield**, **warm air is fed constantly over the inside of the windshield**.
 
-### Sitze und Sitzgurte **(Seats and Seatbelters)**
+### Seats and Seat Belts
 
 The **front seats** are adjustable in the **longitudinal direction**; when slid forward they are **simultaneously raised**. The **front‑seat backrests** are also adjustable. The rear‑seat backrests continue on Page 86.
 
 ---
 
-## Page 86 (German – translated – seating, brakes, air circulation, figure)
+## Page 86 (seating, air circulation, interrupter and burner circuit figures)
 
-### Sitze und Sitzgurte (continued from Page 85)
+### Seats and Seat Belts (continued from page 85)
 The **rear‑seat backrests** can be adjusted **flat**; the adjustment handle is **on the left or right cabin wall**. The **front seats** have **shoulder belts**; the **rear seats** have **lap belts**. The **baggage compartment** is **15 cubic feet** and has **restraint straps** for securing the luggage. The **loading area** can be **enlarged** by removing the rear seats.
 
-### Luftkreislauf-Beschreibung (Air Circulation, Figure 7‑4)
+### Air Circulation (Figure 7‑4)
 **Legend 1–16:**
 
-| No. | German label | English |
-|---|---|---|
-| 1 | **Lufteintrittsöffnung** | **Air inlet** |
-| 2 | **Einstellbare Deckenventilation** | **Adjustable ceiling ventilation** |
-| 3 | **Kabinen-Entlüftungsausgang** | **Cabin exhaust outlet** |
-| 4 | **Heißluft für Frontscheibenbeheizung** | **Heated air for windshield heating** |
-| 5 | **Frischluft einlaß rechts** | **Fresh‑air inlet, right** |
-| 6 | **Kabinenluft kolt/warm** | **Cabin air (cold/warm)** |
-| 7 | **Zentraler Luftverteiler** | **Central air distributor** |
-| 8 | **Frischluflueinlaß links** | **Fresh‑air inlet, left** |
-| 9 | **Heißluft‑Sammmler** | **Hot‑air collector** |
-| 10 | **Heißluftproduktion** | **Hot‑air production** |
-| 11 | **Heißluftentstauung** | **Hot‑air vent** |
-| 12 | **Seitenluft rechts** | **Side air, right** |
-| 13 | **Kabinenluftgemisch** | **Mixed cabin air** |
-| 14 | **Kabinen‑Decken‑Luft** | **Cabin ceiling air** |
-| 15 | **Seitenluft links** | **Side air, left** |
-| 16 | **Frontscheiben‑Enteisungsluft** | **Windshield anti‑icing air** |
+| No. | Item |
+|---|---|
+| 1 | **Air inlet** |
+| 2 | **Adjustable ceiling ventilation** |
+| 3 | **Cabin exhaust outlet** |
+| 4 | **Heated air for windshield heating** |
+| 5 | **Fresh‑air inlet, right** |
+| 6 | **Cabin air (cold/warm)** |
+| 7 | **Central air distributor** |
+| 8 | **Fresh‑air inlet, left** |
+| 9 | **Hot‑air collector** |
+| 10 | **Hot‑air production** |
+| 11 | **Hot‑air vent** |
+| 12 | **Side air, right** |
+| 13 | **Mixed cabin air** |
+| 14 | **Cabin ceiling air** |
+| 15 | **Side air, left** |
+| 16 | **Windshield anti‑icing air** |
 
 ---
 
-### Interrupter und Ausnahmschalter (**Interrupter and cutout**)
+### Interrupter and cutout
 
 ![Interrupter and cutout (page 86)](png/p086a.png)
 
-### Elektrik für die Brenner (**Electrical for the burner**)
+### Electrical for the burner
 
 ![Electrical for the burner (page 86)](png/p086b.png)
 
 ---
 
-## Page 87 (German – Section VIII TOC – Care and Maintenance)
+## Page 87 (Section VIII – Care and Maintenance TOC)
 
-### Abschnitt VIII – Pflege und Wartung (Care and Maintenance)
+### Section VIII – Care and Maintenance
 
 | Section | Page |
 |---|---|
-| Einleitung / Abbildung: Pflege und Wartung | 8‑2 |
-| Bedienung am Boden | 8‑3 |
-| Rangieren | 8‑3 |
-| Verankern | 8‑4 |
-| Betanken | 8‑3 |
-| Öl | 8‑4 |
-| Fahrwerk und Reifen | 8‑4 |
-| Batterie | 8‑5 |
-| Propellerpflege | 8‑5 |
-| Außenpflege | 8‑5 to 8‑6 |
-| Innenraumpflege | 8‑6 |
+| Introduction / Figure: Care and Maintenance | 8‑2 |
+| Ground handling | 8‑3 |
+| Moving the aircraft on the ground | 8‑3 |
+| Tying down the aircraft | 8‑4 |
+| Refuelling | 8‑3 |
+| Engine oil | 8‑4 |
+| Landing gear and tires | 8‑4 |
+| Battery | 8‑5 |
+| Propeller care | 8‑5 |
+| Exterior care | 8‑5 to 8‑6 |
+| Interior care | 8‑6 |
 
 ---
 
-## Page 88 (German – diagram page – doc page 8‑3, ground handling)
+## Page 88 (diagram page – ground handling, doc page 8‑3)
 
 ![Page 88](png/p088.png)
 
 **Figure captions (top to bottom, left → right):**
 
-| German | English |
-|---|---|
-| Anbringen der Schleppstange | Attaching the tow bar |
-| Verankern des Flugzeugs | Tying down the aircraft |
-| Ölmessstab | Oil dipstick |
-| Entfernbare Ose zum Aufbocken des Flugzeugs | Removable eyebolt for jacking the aircraft |
-| Tankentwässerung | Draining the fuel tanks |
-| Entwässerung der Tankleitung | Draining the fuel lines |
+| Caption |
+|---|
+| Attaching the tow bar |
+| Tying down the aircraft |
+| Oil dipstick |
+| Removable eyebolt for jacking the aircraft |
+| Draining the fuel tanks |
+| Draining the fuel lines |
 
 ---
 
-## Page 89 (German – translated – ground handling)
+## Page 89 (ground handling)
 
-### Bedienung am Boden **(Ground Handling)**
+### Ground Handling
 
 The **daily maintenance notes** in this section do **not replace** the recommended **50‑ and 100‑hour inspections**. They are only there to allow you to **monitor** these tasks and keep the aircraft **continuously in a maintained, ready‑for‑operation condition** between inspections.
 
-### Rangieren des Flugzeuges **(Moving the Aircraft on the Ground)**
+### Moving the Aircraft on the Ground
 
-For moving the aircraft on the ground, use the **tow bar (Schleppgabel)**. Make sure the **nose‑wheel steering angle is not exceeded**. **Towing with a vehicle is not recommended**, as the **turning circle** of the aircraft will easily be exceeded, which can damage the **nose wheel**.
+For moving the aircraft on the ground, use the **tow bar**. Make sure the **nose‑wheel steering angle is not exceeded**. **Towing with a vehicle is not recommended**, as the **turning circle** of the aircraft will easily be exceeded, which can damage the **nose wheel**.
 
-### Verankern des Flugzeuges **(Tying Down the Aircraft)**
+### Tying Down the Aircraft
 
 To tie down the aircraft, **screw the tie‑down anchors** into the **jacking points used for the gear check** and secure the aircraft to the corresponding **ground anchors** (see figure, Page 7‑2).
 
-### Betanken **(Refuelling)**
+### Refuelling
 
-When refuelling, the aircraft should be **level**. Only **Kraftstoff 100 L** (100‑LL avgas) is permitted — do **not use a higher or lower octane rating**.
+When refuelling, the aircraft should be **level**. Only **100‑LL avgas** is permitted — do **not use a higher or lower octane rating**.
 
 **Before the first flight of the day**, **drain any water** from the tanks. Insert the **supplied plastic cup** into the drain valves on the **right and left wings** (see figure 7‑2).
 
@@ -2105,55 +2100,55 @@ The lines from the **tank‑selector valve** to the **tanks** and from the tanks
 
 ---
 
-## Page 90 (German – translated – oil and landing gear)
+## Page 90 (engine oil, landing gear and tires)
 
-### Öl **(Engine Oil)**
+### Engine Oil
 
 The **oil dipstick** is located under a **flap in the right rear engine cowl**. The oil level should normally be **between 6 and 8 quarts**.
 
 * During the **first 50 hours** of operation, only **un‑doped oil** (oil without lead additive) may be used.
 * The oil is to be **changed after the first 25 hours**, and then **topped up again with un‑doped oil** for the **following 25 hours**.
 * After **50 hours** of total running, **doped (lead‑additive) oil** may then be used; the oil is then to be **changed every 50 hours** — as is the **filter**.
-* For the approved oil specifications, also refer to the **Lycoming engine handbook** (*Lycoming‑Motoren‑Handbuch*).
-* Normally **80‑weight oil** (*80er Öl*) in **winter** and **100‑weight oil** (*100er Öl*) in **summer**.
+* For the approved oil specifications, also refer to the **Lycoming engine handbook**.
+* Normally **80‑weight oil** in **winter** and **100‑weight oil** in **summer**.
 * Please note: if the aircraft is flown at **extremely unfavourable temperatures** or in **extremely dusty regions**, the oil is to be **changed every 25 hours**.
 * If after a long period of operation on un‑doped oil you wish to switch to **doped oil**, bear in mind that the oil must then be **changed more frequently at first**, until the dissolving of the oil residues in the doped oil has **stabilised**. The **first oil change** under such conditions is to be carried out after approximately **5 – 10 hours**.
 
-### Fahrwerk und Reifen **(Landing Gear and Tires)**
+### Landing Gear and Tires
 
-The landing gear is equipped with normal **tubed aircraft tires**. **Tire pressure, main gear and nose gear: 2.07 bar (atü).**
+The landing gear is equipped with normal **tubed aircraft tires**. **Tire pressure, main gear and nose gear: 2.07 bar.**
 
 * Avoid **fast taxiing and hard braking**.
 * **Remove stones** that may have worked into the tread.
 * To ensure faultless retraction, keep the **outer parts of the landing gear free of dirt and ice**.
-* The **gear warning horn** can be checked **on the ground** by pressing the **warning‑light test button**, and **in flight** by **retarding the throttle to below 12 in. Hg manifold pressure (Ladedruck)**.
+* The **gear warning horn** can be checked **on the ground** by pressing the **warning‑light test button**, and **in flight** by **retarding the throttle to below 12 in. Hg manifold pressure**.
 
 ---
 
-## Page 91 (German – translated – battery, propeller care, exterior care)
+## Page 91 (battery, propeller care, exterior care)
 
-### Batterie **(Battery)**
+### Battery
 
-The **12 V / 35 Ah battery** is accessible through the **rear-left fuselage access door** (*hintere linke Rumpfzusatztür*). Make sure the battery **always has enough water**, so that its life is not shortened unnecessarily. If the battery needs to be re-charged, **begin charging with 4 A and finish with 2 A**. In particular, **keep the battery fully charged in winter** to prevent freezing. Watch the **correct polarity** (**minus at the ground**). **Corrosion on the battery box** (*Batteriekasten*) is most easily removed with a **carbonated-water (soda) solution**.
+The **12 V / 35 Ah battery** is accessible through the **rear-left fuselage access door**. Make sure the battery **always has enough water**, so that its life is not shortened unnecessarily. If the battery needs to be re-charged, **begin charging with 4 A and finish with 2 A**. In particular, **keep the battery fully charged in winter** to prevent freezing. Watch the **correct polarity** (**minus at the ground**). **Corrosion on the battery box** is most easily removed with a **carbonated-water (soda) solution**.
 
-### Pflege und Wartung **(Care and Maintenance – propeller)**
+### Propeller Care
 
-Due to the **high centrifugal forces** acting on the **propeller**, it is essential to give the propeller some attention. Inspect the **propeller blades** for **cracks or nicks (chips)**. Nicks of **more than 2 mm depth should be filed out immediately**, with care that **the same amount of material is removed from the blade opposite the nick**, in order to avoid **imbalance**. This work should therefore be performed by an **authorized maintenance facility** (*authorisierte Wartungswerft*). If the propeller blades have **a certain amount of radial play**, that is nothing serious — it is due to **manufacturing tolerances**. When the propeller is **pushed outwards by the centrifugal force**, this play is gone.
+Due to the **high centrifugal forces** acting on the **propeller**, it is essential to give the propeller some attention. Inspect the **propeller blades** for **cracks or nicks (chips)**. Nicks of **more than 2 mm depth should be filed out immediately**, with care that **the same amount of material is removed from the blade opposite the nick**, in order to avoid **imbalance**. This work should therefore be performed by an **authorized maintenance facility**. If the propeller blades have **a certain amount of radial play**, that is nothing serious — it is due to **manufacturing tolerances**. When the propeller is **pushed outwards by the centrifugal force**, this play is gone.
 
-### Außenpflege **(Exterior Care)**
+### Exterior Care
 
-The same rules apply to the care of the **exterior paint of the aircraft** as for cars: washing with **lots of water** and at most **mild cleansing agents** is recommended. The **same care waxes** as for cars can also be applied. Please pay special attention to the fact that the **windshield panels** (*Windschutzscheiben*) are **not made of glass, but of Plexiglas**, which **scratches more easily**. Use, therefore, please … *[sentence continues on page 92]*
+The same rules apply to the care of the **exterior paint of the aircraft** as for cars: washing with **lots of water** and at most **mild cleansing agents** is recommended. The **same care waxes** as for cars can also be applied. Please pay special attention to the fact that the **windshield panels** are **not made of glass, but of Plexiglas**, which **scratches more easily**. Use, therefore, **plenty of water**, and **turn the sponge or cloth frequently** to avoid scratches from **dust particles**.
 
 
 ---
 
-## Page 92 (German – translated – exterior care continued, interior care)
+## Page 92 (exterior care continued, interior care)
 
-### Außenpflege **(Exterior Care – continued from page 91)**
+### Exterior Care (continued from page 91)
 
-*[End of sentence begun on page 91: „…Benutzen Sie deshalb bitte **ausreichend Wasser und wenden Sie den Schwamm oder das Tuch öfter, um Kratzer durch Staubpartikel zu vermeiden**.“ → Use, therefore, **plenty of water**, and **turn the sponge or cloth frequently** to avoid scratches from **dust particles**.]*
+*[End of sentence begun on page 91: "Use, therefore, **plenty of water**, and **turn the sponge or cloth frequently** to avoid scratches from **dust particles**."]*
 
-### Innenraumpflege **(Interior Care)**
+### Interior Care
 
 For the **interior**, there may be applied the same **normal cleaning agents** as used in the **household**, or **special cleaners for plastic headliners**, as are used for cars.
 
