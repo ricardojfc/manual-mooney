@@ -1068,7 +1068,7 @@ In such a case, **do not over-brake either**, because **skidding wheels have a l
 1. **Electric fuel pump: "OFF"**
 2. **Carburettor heat: close**
 3. **Landing flaps: retract**
-4. **Rudder trim: "take-off position" (Startstellung)**
+4. **Rudder trim: "take-off position"**
 5. **Throttle: 1,000-1,200 rpm**
 
 ### Pre-Shutdown Check
@@ -1365,7 +1365,7 @@ Date: 20-5-80
 | &nbsp;&nbsp;Artificial horizon | 0.81 | 35.56 | x |
 | &nbsp;&nbsp;Gyro compass | 0.9 | 38.10 | x |
 | &nbsp;&nbsp;Clock | 0.18 | 64.77 | x |
-| &nbsp;&nbsp;Outside-air temperature indicator) | 0.09 | 71.12 | — |
+| &nbsp;&nbsp;Outside-air temperature indicator | 0.09 | 71.12 | — |
 | &nbsp;&nbsp;Vertical-speed indicator | 0.45 | 40.64 | — |
 | &nbsp;&nbsp;Turn coordinator | 1.31 | 41.91 | x |
 
@@ -1912,7 +1912,7 @@ These switches are the **push/pull** and **push** types on the panel.
 
 ## Page 84 (electrical schematic with alternator)
 
-### Electrical Schematic with AC Alternator – Ausgabe 1
+### Electrical Schematic with AC Alternator
 
 ![Electrical schematic with AC alternator (page 84)](png/p084.png)
 
